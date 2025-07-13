@@ -95,7 +95,9 @@ Team members:
 ## 📂 Project Structure
 AzulCAN25-Oracle-APEX-App/
 ├── exports/ # APEX app SQL export
+
 ├── screenshots/ # UI previews for README
+
 ├── README.md
 
 ---
