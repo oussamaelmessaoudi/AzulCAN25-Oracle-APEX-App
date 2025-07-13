@@ -1,0 +1,51 @@
+{
+  "city": "Agadir",
+  "stadium": {
+    "name": "Adrar Stadium",
+    "capacity": 41144
+  },
+  "fixtures": [
+    {
+      "date": "2025-12-22",
+      "time": "20:00",
+      "round": "Group B",
+      "teams": ["Egypt", "Zimbabwe"]
+    },
+    {
+      "date": "2025-12-24",
+      "time": "18:00",
+      "round": "Group F",
+      "teams": ["Cameroon", "Gabon"]
+    },
+    {
+      "date": "2025-12-26",
+      "time": "18:00",
+      "round": "Group B",
+      "teams": ["Egypt", "South Africa"]
+    },
+    {
+      "date": "2025-12-28",
+      "time": "18:30",
+      "round": "Group F",
+      "teams": ["Cameroon", "Ivory Coast"]
+    },
+    {
+      "date": "2025-12-29",
+      "time": "18:00",
+      "round": "Group B",
+      "teams": ["Egypt", "Angola"]
+    },
+    {
+      "date": "2026-01-05",
+      "time": "18:00",
+      "round": "Round of 16",
+      "teams": ["Winner Group B", "Third-place Group A/C/D"]
+    },
+    {
+      "date": "2026-01-10",
+      "time": "20:30",
+      "round": "Quarter-finals",
+      "teams": ["Winner H8", "Winner H6"]
+    }
+  ]
+}

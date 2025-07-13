@@ -1,0 +1,93 @@
+{
+  "hospitals": [
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Agadir Ida Ou Tanane",
+        "Commune": "Agadir (Mun.)",
+        "Etablissement hospitalier": "Hassan II",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Agadir Ida Ou Tanane",
+        "Commune": "Agadir (Mun.)",
+        "Etablissement hospitalier": "C. d'Oncologie d'Agadir",
+        "Catégorie": "CRO",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Chtouka Ait Baha",
+        "Commune": "Biougra (Mun.)",
+        "Etablissement hospitalier": "Mokhtar Soussi",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Inezgane Ait Melloul",
+        "Commune": "Inezgane (Mun.)",
+        "Etablissement hospitalier": "Inezgane",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Taroudant",
+        "Commune": "Oulad Teima (Mun.)",
+        "Etablissement hospitalier": "Oulad Teima",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Taroudant",
+        "Commune": "Taroudannt (Mun.)",
+        "Etablissement hospitalier": "Mokhtar Es-Soussi",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Tata",
+        "Commune": "Tata (Mun.)",
+        "Etablissement hospitalier": "Tata",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Tiznit",
+        "Commune": "Tiznit (Mun.)",
+        "Etablissement hospitalier": "Hassan 1er",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Tiznit",
+        "Commune": "Tiznit (Mun.)",
+        "Etablissement hospitalier": "Houmman El Fatouaki",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      }
+]}

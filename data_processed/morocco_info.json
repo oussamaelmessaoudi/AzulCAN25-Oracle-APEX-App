@@ -1,0 +1,390 @@
+{
+  "general_information": {
+    "geography": {
+      "location": "North Africa",
+      "borders": {
+        "north": "Mediterranean Sea",
+        "west": "Atlantic Ocean",
+        "south": "Mauritania",
+        "east": "Algeria"
+      },
+      "total_area": "710,850 km²",
+      "coastline": "3,500 km"
+    },
+    "climate": {
+      "general": "Generally mild",
+      "regions": {
+        "north": "Heavier rains in winter",
+        "internal_and_mountain": "Harsher winters with snowfall",
+        "summer": "Hot with rare rains"
+      },
+      "vegetation": {
+        "north": ["Cedar forests", "Green oak", "Cork trees", "Argania spinosa"],
+        "arid_zones": ["Halva plants", "Cactus"]
+      }
+    },
+    "demographics": {
+      "population": "33,848,242 (2014)",
+      "urban_population": "60.3%",
+      "ethnic_groups": {
+        "amazigh": "Over 60%",
+        "others": ["Arab", "Andalusian (Morskjon)", "African", "Jewish"]
+      }
+    },
+    "languages": {
+      "official": ["Arabic", "Tamazight"],
+      "administrative": "French"
+    },
+    "religion": {
+      "main": "Islam",
+      "details": {
+        "state_religion": true,
+        "constitutional_status": "Morocco is an Islamic country of entire sovereignty",
+        "predominant_school": "Maliki-Ashari school of Sunni Islam",
+        "religious_authority": "King as Commander of the Faithful (Amir Al Mouminine)",
+        "minority_groups": ["Jewish community"]
+      }
+    },
+    "society": {
+      "characteristics": "Open and conservative society",
+      "traditions": "Close to Arab and Islamic customs",
+      "cultural_heritage": {
+        "influences": ["Arab", "Amazigh", "African", "Andalusian"],
+        "languages_used": ["Arabic", "Tamazight", "French"]
+      }
+    }
+  },
+  "infrastructure": {
+    "road_network": {
+      "main_secondary_roads": "57,334 km",
+      "express_ways": "772 km",
+      "highways": "1,800 km"
+    },
+    "railway": {
+      "total_length": "2,110 km"
+    },
+    "ports": {
+      "total": 24,
+      "trade_fishing": 11,
+      "major_ports": [
+        "Tangier Med",
+        "Casablanca",
+        "Safi",
+        "Mohammedia",
+        "Agadir",
+        "Nador-Beni Ansar",
+        "Jorf Lasfar"
+      ]
+    },
+    "airports": {
+      "total": 56,
+      "international": 12,
+      "major_airports": [
+        "Mohammed V International Airport",
+        "Rabat-Sale Airport",
+        "Agadir–Al Massira International Airport",
+        "Fes Saiss Airport",
+        "Marrakech Menara Airport",
+        "Tangier Ibn Battouta Airport",
+        "Sania Ramel Airport (Tetouan)",
+        "Oujda Angads Airport",
+        "Hassan I Airport (El Aaiun)",
+        "Cherif Al Idrissi Airport (Al Hoceima)",
+        "Ouarzazate Airport",
+        "Nador Aroui International Airport"
+      ]
+    }
+  },
+  "education": {
+    "universities": [
+      {
+        "city": "Rabat",
+        "institutions": [
+          "Mohammed V University at Agdal",
+          "Mohammed V University at Souissi"
+        ]
+      },
+      {
+        "city": "Fes",
+        "institutions": [
+          "Al Qaraouyine University",
+          "Sidi Mohamed Ben Abdellah University"
+        ]
+      },
+      {
+        "city": "Casablanca",
+        "institutions": [
+          "University Hassan II in Ain Chock"
+        ]
+      }
+    ],
+    "specialized_institutions": [
+      "High Technology School",
+      "Hassan II Institute of Agronomy & Veterinary Medicine",
+      "Higher Institute of Information and Communication",
+      "National Institute of Statistics and Applied Economics",
+      "National Institute of Posts and Telecommunications",
+      "The Higher Institute of Maritime Studies (ISEM)",
+      "The Higher Institute of Dramatic Art and Cultural Activation",
+      "School of Tourism and Hospitality",
+      "The Higher Institute of Fine Arts"
+    ]
+  },
+  "emergency_contacts": {
+    "information_services": {
+      "general": "160",
+      "international": "120",
+      "rapid_ambulance_service": "0537737373"
+    },
+    "emergency": {
+      "police_fixed": "19",
+      "police_mobile": "112",
+      "firefighters_casualty": "15",
+      "royal_gendarmerie": "177"
+    },
+    "hospitals": [
+      {
+        "name": "Sheikh Zayed University Hospital",
+        "location": "Rabat",
+        "address": "Allal El Fassi, Manidat Al Irfane, Hay Riad",
+        "phone": "0537686868"
+      },
+      {
+        "name": "International Clinic",
+        "location": "Marrakech",
+        "address": "Egli door, Airport Road",
+        "phone": "0543699595"
+      },
+      {
+        "name": "Khalifa Bin Zayed Hospital",
+        "location": "Casablanca",
+        "address": "Mohammad Al Tayeb Al Nasri Street, Um Alrabei, Al Hassani District",
+        "phone": "0529004488"
+      },
+      {
+        "name": "United Nations Sanatorium",
+        "location": "Rabat",
+        "address": "Ibn Hanbal passage, United Nations's Street",
+        "phone": "0537670505"
+      }
+    ],
+    "pharmacy_services": {
+      "guard_pharmacy_lookup": "http://pratique.menara.ma/fr/Pratique/Pharmacie%20de%20garde/"
+    }
+  },
+  "tourism": {
+    "major_cities": {
+      "Rabat": {
+        "attractions": [
+          "Chellah",
+          "Kasbah Oudayas",
+          "Hassan Tower",
+          "Old City",
+          "Museums",
+          "Historic palaces"
+        ]
+      },
+      "Casablanca": {
+        "attractions": [
+          "Old City",
+          "Hassan II Mosque",
+          "Mohammed V Square"
+        ]
+      },
+      "Fez": {
+        "attractions": [
+          "Mosque of the Villagers",
+          "Buinaniya School",
+          "Mausoleum of Moulay Idriss",
+          "Old City",
+          "Ancient Casbah",
+          "Jinan Way",
+          "Archaeological Museums"
+        ]
+      },
+      "Marrakech": {
+        "attractions": [
+          "Badi Palace",
+          "Koutoubia Silo",
+          "Menara",
+          "Saadian Tombs",
+          "Djemaa el Fna",
+          "Old City"
+        ]
+      },
+      "Tetouan": {
+        "attractions": [
+          "Basha Mosque",
+          "Almcypr Door",
+          "Arts Museum",
+          "Rue Porch",
+          "Museum Excavations Square",
+          "Hassan II Square",
+          "Mediterranean Beaches"
+        ]
+      },
+      "Ifrane": {
+        "description": "Mountain resort city with mild summers and snowy winters",
+        "attractions": [
+          "Winter Sports Facilities",
+          "Ice Skating Venues",
+          "Rice Tree Forests",
+          "Mountain Resorts"
+        ]
+      },
+      "Agadir": {
+        "description": "Modern tourist city with sophisticated resorts",
+        "attractions": [
+          "Beach Resorts",
+          "Modern Tourist Facilities",
+          "European-style Amenities"
+        ]
+      }
+    },
+    "natural_attractions": {
+      "lakes_and_springs": [
+        {
+          "name": "Lake Okelmam Azkza",
+          "location": "Khenifra outskirts"
+        },
+        {
+          "name": "Om Rbie Springs",
+          "location": "Khenifra region"
+        },
+        {
+          "name": "Ein Sultan",
+          "location": "Khenifra region"
+        },
+        {
+          "name": "Dayet AWA",
+          "location": "Khenifra region"
+        }
+      ]
+    },
+    "useful_links": {
+      "tourism_portal": "www.visitmorocco.com",
+      "weather": "www.marocmeteo.ma",
+      "trains": "www.oncf.ma",
+      "pharmacy_guard": "http://pratique.menara.ma/fr/Pratique/Pharmacie%20de%20garde/",
+      "prayer_times": "www.habous.gov.ma"
+    }
+  },
+  "travel_information": {
+    "climate_details": {
+      "description": "Morocco is a land of contrasts",
+      "influences": [
+        "Mediterranean Sea in the north",
+        "Atlantic Ocean in the west",
+        "Rif mountains",
+        "Atlas mountains"
+      ],
+      "regions_climate": {
+        "coastal": "Popular with moderate temperatures",
+        "mountains": "Varied climate with possible snow",
+        "inland": "More extreme temperatures"
+      }
+    },
+    "entry_requirements": {
+      "visa": {
+        "note": "Requirements depend on nationality",
+        "application": {
+          "submission": "Online possible",
+          "tracking": "Available online"
+        }
+      },
+      "passport": {
+        "required": true,
+        "validity": "Must be valid for duration of stay"
+      }
+    },
+    "tourist_support": {
+      "national_office": {
+        "name": "Moroccan National Tourist Office",
+        "headquarters": "Rabat",
+        "support_network": {
+          "regional_delegations": true,
+          "provincial_councils": true,
+          "services": "Tourism information and assistance"
+        }
+      }
+    },
+    "health_requirements": {
+      "vaccinations": {
+        "universal_recommended": [
+          "Tetanus",
+          "Polio",
+          "Whooping cough",
+          "Diphtheria",
+          "Hepatitis B"
+        ],
+        "additional_notes": {
+          "general": "No additional vaccination required for normal visits",
+          "rural_stays": "Additional vaccines may be recommended"
+        }
+      }
+    },
+    "currency_information": {
+      "name": "Moroccan dirham",
+      "code": "MAD",
+      "abbreviation": "DH",
+      "denominations": {
+        "banknotes": ["20 DH", "50 DH", "100 DH", "200 DH"],
+        "coins": ["0.50 DH", "1 DH", "2 DH", "5 DH", "10 DH"]
+      },
+      "exchange": {
+        "locations": [
+          "Banks",
+          "Bureau de change",
+          "Hotels",
+          "Airports"
+        ]
+      }
+    },
+    "language_guide": {
+      "official_languages": ["Arabic", "Amazigh"],
+      "widely_spoken": {
+        "french": {
+          "status": "Commonly used",
+          "usage": "Almost all Moroccans understand French"
+        },
+        "spanish": {
+          "regions": ["North", "South"],
+          "usage": "Widely spoken in specific regions"
+        }
+      }
+    }
+  },
+  "practical_information": {
+    "emergency_contacts": {
+      "information_services": {
+        "general": "160",
+        "international": "120"
+      },
+      "emergency": {
+        "police_landline": "19",
+        "police_mobile": "112",
+        "ambulance": "15"
+      },
+      "hospitals": {
+        "rabat": [
+          {
+            "name": "Sheikh Zayed Hospital",
+            "address": "Hay Riad",
+            "phone": "0537686868"
+          }
+        ],
+        "marrakech": [
+          {
+            "name": "International Clinic",
+            "phone": "0543699595"
+          }
+        ]
+      }
+    },
+    "useful_services": {
+      "weather_service": "www.marocmeteo.ma",
+      "train_schedules": "www.oncf.ma",
+      "prayer_times": "www.habous.gov.ma"
+    }
+  }
+}

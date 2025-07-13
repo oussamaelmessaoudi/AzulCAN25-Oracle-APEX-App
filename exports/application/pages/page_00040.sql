@@ -1,0 +1,95 @@
+prompt --application/pages/page_00040
+begin
+--   Manifest
+--     PAGE: 00040
+--   Manifest End
+wwv_flow_imp.component_begin (
+ p_version_yyyy_mm_dd=>'2024.11.30'
+,p_release=>'24.2.5'
+,p_default_workspace_id=>7794158111401143
+,p_default_application_id=>105
+,p_default_id_offset=>0
+,p_default_owner=>'WKSP_AZULCAN25'
+);
+wwv_flow_imp_page.create_page(
+ p_id=>40
+,p_name=>'Restaurants'
+,p_alias=>'RESTAURANTS'
+,p_step_title=>'Restaurants'
+,p_autocomplete_on_off=>'OFF'
+,p_page_template_options=>'#DEFAULT#'
+,p_protection_level=>'C'
+,p_page_component_map=>'23'
+,p_last_updated_on=>wwv_flow_imp.dz('20250629115552Z')
+,p_last_updated_by=>'ILYASS'
+);
+wwv_flow_imp_page.create_page_plug(
+ p_id=>wwv_flow_imp.id(8462982749497818)
+,p_plug_name=>'Restaurants'
+,p_region_template_options=>'#DEFAULT#:t-CardsRegion--hideHeader js-addHiddenHeadingRoleDesc'
+,p_plug_template=>2072724515482255512
+,p_plug_display_sequence=>20
+,p_query_type=>'TABLE'
+,p_query_table=>'RESTAURANTS'
+,p_include_rowid_column=>false
+,p_lazy_loading=>false
+,p_plug_source_type=>'NATIVE_CARDS'
+,p_plug_query_num_rows_type=>'SCROLL'
+,p_show_total_row_count=>false
+,p_pagination_display_position=>'BOTTOM_RIGHT'
+,p_updated_on=>wwv_flow_imp.dz('20250629083615Z')
+,p_updated_by=>'ILYASS'
+);
+wwv_flow_imp_page.create_card(
+ p_id=>wwv_flow_imp.id(8463413551497818)
+,p_region_id=>wwv_flow_imp.id(8462982749497818)
+,p_layout_type=>'GRID'
+,p_title_adv_formatting=>false
+,p_title_column_name=>'RESTAURANT_NAME'
+,p_sub_title_adv_formatting=>false
+,p_sub_title_column_name=>'RANKING'
+,p_body_adv_formatting=>false
+,p_body_column_name=>'ADRESSE'
+,p_second_body_adv_formatting=>false
+,p_media_adv_formatting=>false
+,p_media_source_type=>'STATIC_URL'
+,p_media_url=>'&PHOTO.'
+,p_media_display_position=>'FIRST'
+,p_media_appearance=>'WIDESCREEN'
+,p_media_sizing=>'COVER'
+,p_updated_on=>wwv_flow_imp.dz('20250629005755Z')
+,p_updated_by=>'ILYASS'
+);
+wwv_flow_imp_page.create_card_action(
+ p_id=>wwv_flow_imp.id(7943321227096811)
+,p_card_id=>wwv_flow_imp.id(8463413551497818)
+,p_action_type=>'BUTTON'
+,p_position=>'PRIMARY'
+,p_display_sequence=>10
+,p_label=>'View comment'
+,p_link_target_type=>'REDIRECT_PAGE'
+,p_link_target=>'f?p=&APP_ID.:6:&SESSION.::&DEBUG.::P6_ID:&ID_RESTAURANT.'
+,p_button_display_type=>'TEXT_WITH_ICON'
+,p_icon_css_classes=>'fa-street-view'
+,p_is_hot=>false
+,p_updated_on=>wwv_flow_imp.dz('20250628230937Z')
+,p_updated_by=>'ILYASS'
+);
+wwv_flow_imp_page.create_card_action(
+ p_id=>wwv_flow_imp.id(7943494560096812)
+,p_card_id=>wwv_flow_imp.id(8463413551497818)
+,p_action_type=>'BUTTON'
+,p_position=>'PRIMARY'
+,p_display_sequence=>20
+,p_label=>'Give comment'
+,p_link_target_type=>'REDIRECT_PAGE'
+,p_link_target=>'f?p=&APP_ID.:7:&SESSION.::&DEBUG.::P7_ID:&ID_RESTAURANT.'
+,p_button_display_type=>'TEXT_WITH_ICON'
+,p_icon_css_classes=>'fa-comment-o'
+,p_is_hot=>false
+,p_updated_on=>wwv_flow_imp.dz('20250629005755Z')
+,p_updated_by=>'ILYASS'
+);
+wwv_flow_imp.component_end;
+end;
+/

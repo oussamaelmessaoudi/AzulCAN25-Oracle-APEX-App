@@ -1,0 +1,86 @@
+{
+  "fan_zones": [
+    {
+      "location": "Plage d'Agadir promenade",
+      "events": [
+        {
+          "date": "2025-12-22",
+          "opening_time": "15:00",
+          "closing_time": "23:00",
+          "activities": [
+            "Live match screening on big LED screen",
+            "Traditional Moroccan music performance",
+            "Interactive football freestyle show",
+            "Henna tattoo booth",
+            "Street food market"
+          ]
+        },
+        {
+          "date": "2025-12-26",
+          "opening_time": "14:00",
+          "closing_time": "23:30",
+          "activities": [
+            "Live commentary zone with local celebrities",
+            "Kids’ penalty shootout tournament",
+            "Photo booth with team mascots",
+            "Souk-style craft vendors",
+            "DJ party after match"
+          ]
+        },
+        {
+          "date": "2026-01-10",
+          "opening_time": "16:00",
+          "closing_time": "00:30",
+          "activities": [
+            "Quarter-final viewing party",
+            "Football jersey contest",
+            "African drum and dance performance",
+            "Live painting: ‘Colors of the Match’",
+            "Local comedy show"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Marina d'Agadir",
+      "events": [
+        {
+          "date": "2025-12-24",
+          "opening_time": "16:00",
+          "closing_time": "00:00",
+          "activities": [
+            "Giant screen match view",
+            "Happy hour & food tasting from African cuisines",
+            "Fan karaoke contest",
+            "Live podcast recording: 'AFCON Unplugged'",
+            "African fashion mini runway"
+          ]
+        },
+        {
+          "date": "2025-12-28",
+          "opening_time": "17:00",
+          "closing_time": "23:00",
+          "activities": [
+            "Interactive fan chants workshop",
+            "Live band: Pan-African rhythms",
+            "Football quiz with giveaways",
+            "FIFA video game tournament finals",
+            "Sunset yoga & chill zone"
+          ]
+        },
+        {
+          "date": "2026-01-05",
+          "opening_time": "15:00",
+          "closing_time": "23:00",
+          "activities": [
+            "Round of 16 live feed",
+            "Fan debate panel: ‘Who Will Win AFCON?’",
+            "Mini 3v3 football matches",
+            "Silent disco corner",
+            "Live art graffiti wall"
+          ]
+        }
+      ]
+    }
+  ]
+}

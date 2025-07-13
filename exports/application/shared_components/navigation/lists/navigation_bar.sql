@@ -1,0 +1,132 @@
+prompt --application/shared_components/navigation/lists/navigation_bar
+begin
+--   Manifest
+--     LIST: Navigation Bar
+--   Manifest End
+wwv_flow_imp.component_begin (
+ p_version_yyyy_mm_dd=>'2024.11.30'
+,p_release=>'24.2.5'
+,p_default_workspace_id=>7794158111401143
+,p_default_application_id=>105
+,p_default_id_offset=>0
+,p_default_owner=>'WKSP_AZULCAN25'
+);
+wwv_flow_imp_shared.create_list(
+ p_id=>wwv_flow_imp.id(7838374264589280)
+,p_name=>'Navigation Bar'
+,p_list_status=>'PUBLIC'
+,p_version_scn=>44966105869343
+,p_updated_on=>wwv_flow_imp.dz('20250629112039Z')
+,p_updated_by=>'NOUREDDINE'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(8984927329482481)
+,p_list_item_display_sequence=>1
+,p_list_item_link_text=>'Install App'
+,p_list_item_link_target=>'#action$a-pwa-install'
+,p_list_item_icon=>'fa-cloud-download'
+,p_list_text_02=>'a-pwaInstall'
+,p_list_item_current_type=>'NEVER'
+,p_created_on=>wwv_flow_imp.dz('20250629071436Z')
+,p_updated_on=>wwv_flow_imp.dz('20250629071436Z')
+,p_created_by=>'ABDELLAH'
+,p_updated_by=>'ABDELLAH'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(7889632070960590)
+,p_list_item_display_sequence=>2
+,p_list_item_link_text=>'Home'
+,p_list_item_link_target=>'f?p=&APP_ID.:1:&SESSION.::&DEBUG.::::'
+,p_list_item_current_type=>'TARGET_PAGE'
+,p_updated_on=>wwv_flow_imp.dz('20250629083747Z')
+,p_updated_by=>'ABDELLAH'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(7901214874978425)
+,p_list_item_display_sequence=>50
+,p_list_item_link_text=>'Hotels'
+,p_list_item_link_target=>'f?p=&APP_ID.:15:&SESSION.::&DEBUG.::::'
+,p_list_item_current_type=>'TARGET_PAGE'
+,p_updated_on=>wwv_flow_imp.dz('20250629111038Z')
+,p_updated_by=>'NOUREDDINE'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(7903778880995270)
+,p_list_item_display_sequence=>60
+,p_list_item_link_text=>'Restaurants'
+,p_list_item_link_target=>'f?p=&APP_ID.:40:&SESSION.::&DEBUG.::::'
+,p_list_item_current_type=>'TARGET_PAGE'
+,p_updated_on=>wwv_flow_imp.dz('20250629111457Z')
+,p_updated_by=>'NOUREDDINE'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(7906922704000136)
+,p_list_item_display_sequence=>70
+,p_list_item_link_text=>'Transportation'
+,p_list_item_link_target=>'f?p=&APP_ID.:27:&SESSION.::&DEBUG.::::'
+,p_list_item_current_type=>'TARGET_PAGE'
+,p_updated_on=>wwv_flow_imp.dz('20250629054359Z')
+,p_updated_by=>'ABDELLAH'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(9172894716932551)
+,p_list_item_display_sequence=>100
+,p_list_item_link_text=>'Car rental'
+,p_list_item_link_target=>'f?p=&APP_ID.:25:&SESSION.::&DEBUG.::::'
+,p_parent_list_item_id=>wwv_flow_imp.id(7906922704000136)
+,p_list_item_current_type=>'TARGET_PAGE'
+,p_created_on=>wwv_flow_imp.dz('20250629111617Z')
+,p_updated_on=>wwv_flow_imp.dz('20250629111925Z')
+,p_created_by=>'NOUREDDINE'
+,p_updated_by=>'NOUREDDINE'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(9174621550958763)
+,p_list_item_display_sequence=>110
+,p_list_item_link_text=>'Buses'
+,p_list_item_link_target=>'f?p=&APP_ID.:27:&SESSION.::&DEBUG.::::'
+,p_parent_list_item_id=>wwv_flow_imp.id(7906922704000136)
+,p_list_item_current_type=>'TARGET_PAGE'
+,p_created_on=>wwv_flow_imp.dz('20250629112039Z')
+,p_updated_on=>wwv_flow_imp.dz('20250629112039Z')
+,p_created_by=>'NOUREDDINE'
+,p_updated_by=>'NOUREDDINE'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(7918854276004434)
+,p_list_item_display_sequence=>80
+,p_list_item_link_text=>'Near By Services'
+,p_list_item_link_target=>'f?p=&APP_ID.:1:&SESSION.::&DEBUG.::::'
+,p_list_item_current_type=>'TARGET_PAGE'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(7850416083589299)
+,p_list_item_display_sequence=>90
+,p_list_item_link_text=>'&APP_USER.'
+,p_list_item_link_target=>'#'
+,p_list_item_icon=>'fa-user'
+,p_list_text_02=>'has-username'
+,p_list_item_current_type=>'TARGET_PAGE'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(7850972528589299)
+,p_list_item_display_sequence=>20
+,p_list_item_link_text=>'---'
+,p_list_item_link_target=>'separator'
+,p_list_item_disp_cond_type=>'USER_IS_NOT_PUBLIC_USER'
+,p_parent_list_item_id=>wwv_flow_imp.id(7850416083589299)
+,p_list_item_current_type=>'TARGET_PAGE'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(7851396545589299)
+,p_list_item_display_sequence=>30
+,p_list_item_link_text=>'Sign Out'
+,p_list_item_link_target=>'&LOGOUT_URL.'
+,p_list_item_icon=>'fa-sign-out'
+,p_list_item_disp_cond_type=>'USER_IS_NOT_PUBLIC_USER'
+,p_parent_list_item_id=>wwv_flow_imp.id(7850416083589299)
+,p_list_item_current_type=>'TARGET_PAGE'
+);
+wwv_flow_imp.component_end;
+end;
+/

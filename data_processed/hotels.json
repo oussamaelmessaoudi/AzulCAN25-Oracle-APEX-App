@@ -1,0 +1,435 @@
+{
+  "hotels": [
+    {
+      "Hotel_ID": "CAS001",
+      "Hotel_Name": "Four Seasons Casablanca",
+      "City": "Casablanca",
+      "Nearest_Stadium": "Mohammed V Stadium",
+      "Distance_to_Stadium_KM": 3.5,
+      "Stars": 5,
+      "Price_Range": "$$$$$",
+      "Price_USD": 550,
+      "Website": "www.fourseasons.com/casablanca",
+      "Address": "Anfa Place Living Resort, Boulevard de la Corniche",
+      "Amenities": [
+        "Pool",
+        "Spa",
+        "Restaurant",
+        "WiFi",
+        "Gym",
+        "Room Service"
+      ],
+      "Coordinates": {
+        "latitude": 33.596,
+        "longitude": -7.6356
+      },
+      "Phone": "+212 529-073-800"
+    },
+    {
+      "Hotel_ID": "CAS002",
+      "Hotel_Name": "Kenzi Tower Hotel",
+      "City": "Casablanca",
+      "Nearest_Stadium": "Mohammed V Stadium",
+      "Distance_to_Stadium_KM": 2.8,
+      "Stars": 5,
+      "Price_Range": "$$$$",
+      "Price_USD": 350,
+      "Website": "www.kenzi-hotels.com",
+      "Address": "Twin Center, Tour B, Angle Bd Zerktouni",
+      "Amenities": [
+        "Pool",
+        "WiFi",
+        "Restaurant",
+        "Business Center",
+        "Spa"
+      ],
+      "Coordinates": {
+        "latitude": 33.5923,
+        "longitude": -7.6322
+      },
+      "Phone": "+212 520-503-500"
+    },
+    {
+      "Hotel_ID": "CAS003",
+      "Hotel_Name": "Ibis Casa City Center",
+      "City": "Casablanca",
+      "Nearest_Stadium": "Mohammed V Stadium",
+      "Distance_to_Stadium_KM": 1.5,
+      "Stars": 3,
+      "Price_Range": "$$",
+      "Price_USD": 120,
+      "Website": "www.ibis.com",
+      "Address": "City Center, Place des Nations Unies",
+      "Amenities": [
+        "WiFi",
+        "Restaurant",
+        "24h Reception"
+      ],
+      "Coordinates": {
+        "latitude": 33.5957,
+        "longitude": -7.6187
+      },
+      "Phone": "+212 522-541-010"
+    },
+    {
+      "Hotel_ID": "AGD001",
+      "Hotel_Name": "Sofitel Agadir Royal Bay Resort",
+      "City": "Agadir",
+      "Nearest_Stadium": "Adrar Stadium",
+      "Distance_to_Stadium_KM": 4.2,
+      "Stars": 5,
+      "Price_Range": "$$$$$",
+      "Price_USD": 480,
+      "Website": "www.sofitel.com",
+      "Address": "Baie des Palmiers",
+      "Amenities": [
+        "Beach Access",
+        "Pool",
+        "Spa",
+        "Multiple Restaurants",
+        "Tennis Court"
+      ],
+      "Coordinates": {
+        "latitude": 30.4062,
+        "longitude": -9.6002
+      },
+      "Phone": "+212 528-849-000"
+    },
+    {
+      "Hotel_ID": "AGD002",
+      "Hotel_Name": "Atlas Amadil Beach Hotel",
+      "City": "Agadir",
+      "Nearest_Stadium": "Adrar Stadium",
+      "Distance_to_Stadium_KM": 3.8,
+      "Stars": 4,
+      "Price_Range": "$$$",
+      "Price_USD": 280,
+      "Website": "www.amadilbeach.com",
+      "Address": "Boulevard du 20 Aout",
+      "Amenities": [
+        "Beach Access",
+        "Pool",
+        "Restaurant",
+        "WiFi"
+      ],
+      "Coordinates": {
+        "latitude": 30.4133,
+        "longitude": -9.5947
+      },
+      "Phone": "+212 528-847-474"
+    },
+    {
+      "Hotel_ID": "AGD003",
+      "Hotel_Name": "Tildi Hotel & SPA",
+      "City": "Agadir",
+      "Nearest_Stadium": "Adrar Stadium",
+      "Distance_to_Stadium_KM": 2.5,
+      "Stars": 4,
+      "Price_Range": "$$",
+      "Price_USD": 180,
+      "Website": "www.tildihotel.com",
+      "Address": "Rue Hubert Giraud",
+      "Amenities": [
+        "Pool",
+        "Spa",
+        "Restaurant",
+        "WiFi"
+      ],
+      "Coordinates": {
+        "latitude": 30.4178,
+        "longitude": -9.5983
+      },
+      "Phone": "+212 528-842-925"
+    },
+    {
+      "Hotel_ID": "TNG001",
+      "Hotel_Name": "Hilton Tanger City Center",
+      "City": "Tangier",
+      "Nearest_Stadium": "Ibn Batouta Stadium",
+      "Distance_to_Stadium_KM": 3.1,
+      "Stars": 5,
+      "Price_Range": "$$$$",
+      "Price_USD": 420,
+      "Website": "www.hilton.com/tangier",
+      "Address": "Place du Maghreb Arabe",
+      "Amenities": [
+        "Pool",
+        "Spa",
+        "Multiple Restaurants",
+        "Business Center"
+      ],
+      "Coordinates": {
+        "latitude": 35.7679,
+        "longitude": -5.8039
+      },
+      "Phone": "+212 539-309-700"
+    },
+    {
+      "Hotel_ID": "TNG002",
+      "Hotel_Name": "Kenzi Solazur Palace",
+      "City": "Tangier",
+      "Nearest_Stadium": "Ibn Batouta Stadium",
+      "Distance_to_Stadium_KM": 2.9,
+      "Stars": 4,
+      "Price_Range": "$$$",
+      "Price_USD": 300,
+      "Website": "www.kenzi-hotels.com",
+      "Address": "Avenue Mohammed VI",
+      "Amenities": [
+        "Sea View",
+        "Pool",
+        "Restaurant",
+        "WiFi"
+      ],
+      "Coordinates": {
+        "latitude": 35.7853,
+        "longitude": -5.8133
+      },
+      "Phone": "+212 539-842-000"
+    },
+    {
+      "Hotel_ID": "TNG003",
+      "Hotel_Name": "Hotel Continental",
+      "City": "Tangier",
+      "Nearest_Stadium": "Ibn Batouta Stadium",
+      "Distance_to_Stadium_KM": 4.2,
+      "Stars": 3,
+      "Price_Range": "$$",
+      "Price_USD": 150,
+      "Website": "www.grandhotelcontinental.com",
+      "Address": "36 Rue Dar Baroud",
+      "Amenities": [
+        "Historic Building",
+        "Restaurant",
+        "WiFi"
+      ],
+      "Coordinates": {
+        "latitude": 35.7873,
+        "longitude": -5.8127
+      },
+      "Phone": "+212 539-931-024"
+    },
+    {
+      "Hotel_ID": "FEZ001",
+      "Hotel_Name": "Marriott Jnan Palace",
+      "City": "Fez",
+      "Nearest_Stadium": "Fez Stadium",
+      "Distance_to_Stadium_KM": 2.8,
+      "Stars": 5,
+      "Price_Range": "$$$$",
+      "Price_USD": 380,
+      "Website": "www.marriott.com/fez",
+      "Address": "Avenue Ahmed Chaouki",
+      "Amenities": [
+        "Pool",
+        "Spa",
+        "Multiple Restaurants",
+        "Tennis Court"
+      ],
+      "Coordinates": {
+        "latitude": 34.0331,
+        "longitude": -4.9998
+      },
+      "Phone": "+212 535-947-474"
+    },
+    {
+      "Hotel_ID": "FEZ002",
+      "Hotel_Name": "Palais Medina & Spa",
+      "City": "Fez",
+      "Nearest_Stadium": "Fez Stadium",
+      "Distance_to_Stadium_KM": 3.5,
+      "Stars": 5,
+      "Price_Range": "$$$",
+      "Price_USD": 320,
+      "Website": "www.palaismedina.com",
+      "Address": "Avenue Allal El Fassi",
+      "Amenities": [
+        "Pool",
+        "Spa",
+        "Restaurant",
+        "Traditional Decor"
+      ],
+      "Coordinates": {
+        "latitude": 34.0322,
+        "longitude": -4.9972
+      },
+      "Phone": "+212 535-947-474"
+    },
+    {
+      "Hotel_ID": "FEZ003",
+      "Hotel_Name": "Ibis Fes",
+      "City": "Fez",
+      "Nearest_Stadium": "Fez Stadium",
+      "Distance_to_Stadium_KM": 1.8,
+      "Stars": 3,
+      "Price_Range": "$$",
+      "Price_USD": 100,
+      "Website": "www.ibis.com",
+      "Address": "Avenue des Almohades",
+      "Amenities": [
+        "WiFi",
+        "Restaurant",
+        "24h Reception"
+      ],
+      "Coordinates": {
+        "latitude": 34.0339,
+        "longitude": -5.0067
+      },
+      "Phone": "+212 535-947-474"
+    },
+    {
+      "Hotel_ID": "MRK001",
+      "Hotel_Name": "La Mamounia",
+      "City": "Marrakech",
+      "Nearest_Stadium": "Grand Stadium",
+      "Distance_to_Stadium_KM": 4.5,
+      "Stars": 5,
+      "Price_Range": "$$$$$",
+      "Price_USD": 520,
+      "Website": "www.mamounia.com",
+      "Address": "Avenue Bab Jdid",
+      "Amenities": [
+        "Historic Palace",
+        "Luxury Spa",
+        "Gardens",
+        "Multiple Restaurants"
+      ],
+      "Coordinates": {
+        "latitude": 31.6234,
+        "longitude": -7.9894
+      },
+      "Phone": "+212 524-388-600"
+    },
+    {
+      "Hotel_ID": "MRK002",
+      "Hotel_Name": "Movenpick Hotel Mansour Eddahbi",
+      "City": "Marrakech",
+      "Nearest_Stadium": "Grand Stadium",
+      "Distance_to_Stadium_KM": 2.2,
+      "Stars": 5,
+      "Price_Range": "$$$$",
+      "Price_USD": 450,
+      "Website": "www.movenpick.com",
+      "Address": "Avenue Mohammed VI",
+      "Amenities": [
+        "Pool",
+        "Spa",
+        "Multiple Restaurants",
+        "Business Center"
+      ],
+      "Coordinates": {
+        "latitude": 31.6147,
+        "longitude": -8.0168
+      },
+      "Phone": "+212 524-339-100"
+    },
+    {
+      "Hotel_ID": "MRK003",
+      "Hotel_Name": "Atlas Asni Hotel",
+      "City": "Marrakech",
+      "Nearest_Stadium": "Grand Stadium",
+      "Distance_to_Stadium_KM": 3.1,
+      "Stars": 4,
+      "Price_Range": "$$$",
+      "Price_USD": 250,
+      "Website": "www.atlasasni.com",
+      "Address": "Avenue Mohammed VI",
+      "Amenities": [
+        "Pool",
+        "Restaurant",
+        "WiFi",
+        "Spa"
+      ],
+      "Coordinates": {
+        "latitude": 31.6184,
+        "longitude": -8.0121
+      },
+      "Phone": "+212 524-339-999"
+    },
+    {
+      "Hotel_ID": "RBT001",
+      "Hotel_Name": "Sofitel Rabat Jardin des Roses",
+      "City": "Rabat",
+      "Nearest_Stadium": "Prince Moulay Abdellah Stadium",
+      "Distance_to_Stadium_KM": 3.8,
+      "Stars": 5,
+      "Price_Range": "$$$$$",
+      "Price_USD": 400,
+      "Website": "www.sofitel.com/rabat",
+      "Address": "BP 450 Souissi",
+      "Amenities": [
+        "Royal Gardens",
+        "Pool",
+        "Luxury Spa",
+        "Multiple Restaurants"
+      ],
+      "Coordinates": {
+        "latitude": 33.9617,
+        "longitude": -6.8682
+      },
+      "Phone": "+212 537-675-656"
+    },
+    {
+      "Hotel_ID": "RBT002",
+      "Hotel_Name": "Hotel Le Diwan Rabat",
+      "City": "Rabat",
+      "Nearest_Stadium": "Prince Moulay Abdellah Stadium",
+      "Distance_to_Stadium_KM": 4.2,
+      "Stars": 4,
+      "Price_Range": "$$$",
+      "Price_USD": 220,
+      "Website": "www.accorhotels.com",
+      "Address": "Place de l'Unite Africaine",
+      "Amenities": [
+        "Historic District",
+        "Restaurant",
+        "Business Center"
+      ],
+      "Coordinates": {
+        "latitude": 33.9702,
+        "longitude": -6.8419
+      },
+      "Phone": "+212 537-262-727"
+    },
+    {
+      "Hotel_ID": "RBT003",
+      "Hotel_Name": "Ibis Rabat Agdal",
+      "City": "Rabat",
+      "Nearest_Stadium": "Prince Moulay Abdellah Stadium",
+      "Distance_to_Stadium_KM": 1.5,
+      "Stars": 3,
+      "Price_Range": "$$",
+      "Price_USD": 90,
+      "Website": "www.ibis.com",
+      "Address": "Avenue de Fes",
+      "Amenities": [
+        "WiFi",
+        "Restaurant",
+        "24h Reception"
+      ],
+      "Coordinates": {
+        "latitude": 33.9689,
+        "longitude": -6.858
+      },
+      "Phone": "+212 537-671-821"
+    }
+  ],
+  "metadata": {
+    "total_hotels": 18,
+    "description": "Liste des hôtels au Maroc près des stades AFCON 2025",
+    "cities": [
+      "Agadir",
+      "Casablanca",
+      "Fez",
+      "Marrakech",
+      "Rabat",
+      "Tangier"
+    ],
+    "price_ranges": [
+      "$$",
+      "$$$",
+      "$$$$",
+      "$$$$$"
+    ]
+  }
+}

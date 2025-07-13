@@ -1,0 +1,1733 @@
+{
+  "hospitals": {
+    "Tanger-Tetouan-Al Hoceima": [
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Al Hoceima",
+        "Commune": "Al Hoceima (Mun.)",
+        "Etablissement hospitalier": "Mohamed V",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "HP",
+        "Unnamed: 7": "Hôpital Provincial/Préfectoral"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Al Hoceima",
+        "Commune": "Al Hoceima (Mun.)",
+        "Etablissement hospitalier": "C. d'oncologie d'Al Hoceima",
+        "Catégorie": "CRO",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "HR",
+        "Unnamed: 7": "Hôpital Régional"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Al Hoceima",
+        "Commune": "Imzouren (Mun.)",
+        "Etablissement hospitalier": "Imzouren",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "HIR",
+        "Unnamed: 7": "Hospital Interrégional"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Al Hoceima",
+        "Commune": "Targuist (Mun.)",
+        "Etablissement hospitalier": "Targuist",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "HPr",
+        "Unnamed: 7": "Hôpital de Proximité"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Chefchaouen",
+        "Commune": "Chefchaouen (Mun.)",
+        "Etablissement hospitalier": "Mohamed V",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "HPsyP",
+        "Unnamed: 7": "Hôpital Psychiatrique Provincial/préfectoral"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Larache",
+        "Commune": "Ksar El Kebir (Mun.)",
+        "Etablissement hospitalier": "Ksar El Kebir",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "CRO",
+        "Unnamed: 7": "Centre Régional d'Oncologie"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Larache",
+        "Commune": "Larache (Mun.)",
+        "Etablissement hospitalier": "Lalla Meriem",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "HPsyR",
+        "Unnamed: 7": "Hôpital Psychiatrique Régional"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Ouezzane",
+        "Commune": "Ouezzane (Mun.)",
+        "Etablissement hospitalier": "Abou Kacem Zahraoui",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "CPU",
+        "Unnamed: 7": "Centre Psychiatrique Universitaire"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Tanger Assilah",
+        "Commune": "Assilah (Mun.)",
+        "Etablissement hospitalier": "Assilah",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Tanger Assilah",
+        "Commune": "Bni Makada (Arrond.)",
+        "Etablissement hospitalier": "Mohammed Vi",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Tanger Assilah",
+        "Commune": "Mghogha (Arrond.)",
+        "Etablissement hospitalier": "Arrazi",
+        "Catégorie": "HPsyR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Tanger Assilah",
+        "Commune": "Al Madina (Arrond.)",
+        "Etablissement hospitalier": "Mohamed V",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Tanger Assilah",
+        "Commune": "Al Madina (Arrond.)",
+        "Etablissement hospitalier": "Al Kortobi",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Tanger Assilah",
+        "Commune": "Al Madina (Arrond.)",
+        "Etablissement hospitalier": "Duc De Tovar",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Tanger Assilah",
+        "Commune": "Al Madina (Arrond.)",
+        "Etablissement hospitalier": "Centre d'oncologie",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Tanger Assilah",
+        "Commune": "Gueznaia (Mun.)",
+        "Etablissement hospitalier": "Hôpital mère enfant Mohamed VI",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Tanger Assilah",
+        "Commune": "Gueznaia (Mun.)",
+        "Etablissement hospitalier": "Hôpital psychiatrique Mohamed VI",
+        "Catégorie": "CPU",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Tanger Assilah",
+        "Commune": "Gueznaia (Mun.)",
+        "Etablissement hospitalier": "Hôpital des spécialité Mohamed VI",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Tetouan",
+        "Commune": "Tétouan (Mun.)",
+        "Etablissement hospitalier": "Hôpital.Civil",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Tetouan",
+        "Commune": "Tétouan (Mun.)",
+        "Etablissement hospitalier": "Errazi",
+        "Catégorie": "HPsyP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Tetouan",
+        "Commune": "Dar Bni Karrich",
+        "Etablissement hospitalier": "Ben Karrich",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Mdiq-Fnideq",
+        "Commune": "Fnideq (Mun.)",
+        "Etablissement hospitalier": "Hassan II",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Tanger-Tetouan-Al Hoceima",
+        "Delegation": "Mdiq-Fnideq",
+        "Commune": "M'Diq (Mun.)",
+        "Etablissement hospitalier": "Mohammed VI",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      }
+    ],
+    "Oriental": [
+      {
+        "Région": "Oriental",
+        "Delegation": "Berkane",
+        "Commune": "Berkane (Mun.)",
+        "Etablissement hospitalier": "Edderak",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Berkane",
+        "Commune": "Saidia (Mun.)",
+        "Etablissement hospitalier": "Saidia",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Driouch",
+        "Commune": "Driouch (Mun.)",
+        "Etablissement hospitalier": "Driouch",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Figuig",
+        "Commune": "Bouarfa (Mun.)",
+        "Etablissement hospitalier": "Hassan II",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Guercif",
+        "Commune": "Guercif (Mun.)",
+        "Etablissement hospitalier": "Guercif",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Jerada",
+        "Commune": "Laaouinate",
+        "Etablissement hospitalier": "Jrada",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Nador",
+        "Commune": "Al Aaroui (Mun.)",
+        "Etablissement hospitalier": "Mohammed Vi",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Nador",
+        "Commune": "Nador (Mun.)",
+        "Etablissement hospitalier": "Hassani",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Nador",
+        "Commune": "Zaio (Mun.)",
+        "Etablissement hospitalier": "Zaio",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Oujda Angad",
+        "Commune": "Oujda (Mun.)",
+        "Etablissement hospitalier": "Al Farabi",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Oujda Angad",
+        "Commune": "Oujda (Mun.)",
+        "Etablissement hospitalier": "Hôpital Psychiatrique",
+        "Catégorie": "CPU",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Oujda Angad",
+        "Commune": "Oujda (Mun.)",
+        "Etablissement hospitalier": "Hôpital des Spécialitéss",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Oujda Angad",
+        "Commune": "Oujda (Mun.)",
+        "Etablissement hospitalier": "Hôpital Mère-Enfant",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Oujda Angad",
+        "Commune": "Sidi Moussa Lemhaya",
+        "Etablissement hospitalier": "Centre d'oncoligie Hassan II",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Taourirt",
+        "Commune": "El Aioun Sidi Mellouk (Mun.)",
+        "Etablissement hospitalier": "HPr Laayoune Sidi Mellouk",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Oriental",
+        "Delegation": "Taourirt",
+        "Commune": "Taourirt (Mun.)",
+        "Etablissement hospitalier": "Taourirt",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      }
+    ],
+    "Fès-Meknès": [
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Meknes",
+        "Commune": "Meknès (Mun.)",
+        "Etablissement hospitalier": "Sidi Said",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Meknes",
+        "Commune": "Meknès (Mun.)",
+        "Etablissement hospitalier": "Mohamed V",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Meknes",
+        "Commune": "Meknès (Mun.)",
+        "Etablissement hospitalier": "Pagnon",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Meknes",
+        "Commune": "Meknès (Mun.)",
+        "Etablissement hospitalier": "Moulay Ismail",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Meknes",
+        "Commune": "Meknès (Mun.)",
+        "Etablissement hospitalier": "Centre d'oncologie",
+        "Catégorie": "CRO",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Boulemane",
+        "Commune": "Missour (Mun.)",
+        "Etablissement hospitalier": "Marche Verte",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Boulemane",
+        "Commune": "Outat El Haj (Mun.)",
+        "Etablissement hospitalier": "S. Ahmed B. Driss Missouri",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "El Hajeb",
+        "Commune": "El Hajeb (Mun.)",
+        "Etablissement hospitalier": "Prince My Hassan",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Fes",
+        "Commune": "Agdal (Arrond.)",
+        "Etablissement hospitalier": "Al Ghassani",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Fes",
+        "Commune": "Agdal (Arrond.)",
+        "Etablissement hospitalier": "Ibn Al Baitar",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Fes",
+        "Commune": "Saiss (Arrond.)",
+        "Etablissement hospitalier": "Hôpital d'Oncologie",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Fes",
+        "Commune": "Saiss (Arrond.)",
+        "Etablissement hospitalier": "Hôpital des spécialités",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Fes",
+        "Commune": "Saiss (Arrond.)",
+        "Etablissement hospitalier": "Hôpital Mère-Enfant",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Fes",
+        "Commune": "Fès-Médina (Arrond.)",
+        "Etablissement hospitalier": "Omar Drissi",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Fes",
+        "Commune": "El Mariniyine (Arrond.)",
+        "Etablissement hospitalier": "Ibn Al Khatib",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Fes",
+        "Commune": "El Mariniyine (Arrond.)",
+        "Etablissement hospitalier": "Ibn Al Hassan",
+        "Catégorie": "CPU",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Ifrane",
+        "Commune": "Azrou (Mun.)",
+        "Etablissement hospitalier": "20 Aout (Azrou)",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Sefrou",
+        "Commune": "Sefrou (Mun.)",
+        "Etablissement hospitalier": "Mohamed V",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Taounate",
+        "Commune": "Ghafsai (Mun.)",
+        "Etablissement hospitalier": "Hassan II",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Taounate",
+        "Commune": "Taounate (Mun.)",
+        "Etablissement hospitalier": "Taounate",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Fès-Meknès",
+        "Delegation": "Taza",
+        "Commune": "Taza (Mun.)",
+        "Etablissement hospitalier": "Ibn Baja",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      }
+    ],
+    "Rabat-Salé-Kénitra": [
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Kenitra",
+        "Commune": "Kénitra (Mun.)",
+        "Etablissement hospitalier": "Al Idrissi",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Kenitra",
+        "Commune": "Souk El Arbaa (Mun.)",
+        "Etablissement hospitalier": "Zoubir Skirej",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Khémisset",
+        "Commune": "Khémisset (Mun.)",
+        "Etablissement hospitalier": "Khémisset",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Khémisset",
+        "Commune": "Rommani (Mun.)",
+        "Etablissement hospitalier": "Roummani",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Khémisset",
+        "Commune": "Tiflet (Mun.)",
+        "Etablissement hospitalier": "Tiflet",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Rabat",
+        "Commune": "Agdal Riyad (Arrond.)",
+        "Etablissement hospitalier": "Ibn Sina",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Rabat",
+        "Commune": "Agdal Riyad (Arrond.)",
+        "Etablissement hospitalier": "Hôpital Des Spécialités",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Rabat",
+        "Commune": "Agdal Riyad (Arrond.)",
+        "Etablissement hospitalier": "Maternité Souissi",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Rabat",
+        "Commune": "Agdal Riyad (Arrond.)",
+        "Etablissement hospitalier": "Hôpital D'enfants",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Rabat",
+        "Commune": "Agdal Riyad (Arrond.)",
+        "Etablissement hospitalier": "Maternité Orangers",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Rabat",
+        "Commune": "Agdal Riyad (Arrond.)",
+        "Etablissement hospitalier": "Med Ben Abdellah",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Rabat",
+        "Commune": "Hassan (Arrond.)",
+        "Etablissement hospitalier": "My Youssef",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Rabat",
+        "Commune": "Hassan (Arrond.)",
+        "Etablissement hospitalier": "Moulay Youssef (Ancien hôpital de Rabat)",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Salé",
+        "Commune": "Bab Lamrissa (Arrond.)",
+        "Etablissement hospitalier": "El Ayachi",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Salé",
+        "Commune": "Hssaine (Arrond.)",
+        "Etablissement hospitalier": "Moulay Abdellah (Hôp.préféctoral)",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Salé",
+        "Commune": "Tabriquet (Arrond.)",
+        "Etablissement hospitalier": "Arrazi",
+        "Catégorie": "CPU",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Sidi Kacem",
+        "Commune": "Jorf El Melha (Mun.)",
+        "Etablissement hospitalier": "Jorf Elmelha",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Sidi Kacem",
+        "Commune": "Sidi Kacem (Mun.)",
+        "Etablissement hospitalier": "Sidi Kacem",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Sidi Slimane",
+        "Commune": "Sidi Slimane (Mun.)",
+        "Etablissement hospitalier": "Sidi Slimane",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Rabat-Salé-Kénitra",
+        "Delegation": "Skhirate-Temara",
+        "Commune": "Témara (Mun.)",
+        "Etablissement hospitalier": "Princesse Lalla Aicha (Ancien Sidi Lahcen)",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      }
+    ],
+    "Béni Mellal-Khénifra": [
+      {
+        "Région": "Béni Mellal-Khénifra",
+        "Delegation": "Azilal",
+        "Commune": "Azilal (Mun.)",
+        "Etablissement hospitalier": "Haut Atlas Central",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Béni Mellal-Khénifra",
+        "Delegation": "Azilal",
+        "Commune": "Demnate (Mun.)",
+        "Etablissement hospitalier": "Demnate",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Béni Mellal-Khénifra",
+        "Delegation": "Beni Mellal",
+        "Commune": "Béni Mellal (Mun.)",
+        "Etablissement hospitalier": "Beni Mellal",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Béni Mellal-Khénifra",
+        "Delegation": "Beni Mellal",
+        "Commune": "Kasba Tadla (Mun.)",
+        "Etablissement hospitalier": "Moulay Ismail",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Béni Mellal-Khénifra",
+        "Delegation": "Beni Mellal",
+        "Commune": "Ouled M'Barek",
+        "Etablissement hospitalier": "Beni Mellal",
+        "Catégorie": "CRO",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Béni Mellal-Khénifra",
+        "Delegation": "Fkih Ben Saleh",
+        "Commune": "Fquih Ben Salah (Mun.)",
+        "Etablissement hospitalier": "Fquih Ben Salah",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Béni Mellal-Khénifra",
+        "Delegation": "Fkih Ben Saleh",
+        "Commune": "Fquih Ben Salah (Mun.)",
+        "Etablissement hospitalier": "Souk Sebt",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Béni Mellal-Khénifra",
+        "Delegation": "Khenifra",
+        "Commune": "Khenifra (Mun.)",
+        "Etablissement hospitalier": "Khenifra",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Béni Mellal-Khénifra",
+        "Delegation": "Khenifra",
+        "Commune": "M'Rirt (Mun.)",
+        "Etablissement hospitalier": "M'Rirt",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Béni Mellal-Khénifra",
+        "Delegation": "Khouribga",
+        "Commune": "Bejaad (Mun.)",
+        "Etablissement hospitalier": "Mohamed VI",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Béni Mellal-Khénifra",
+        "Delegation": "Khouribga",
+        "Commune": "Khouribga (Mun.)",
+        "Etablissement hospitalier": "Hassan II",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Béni Mellal-Khénifra",
+        "Delegation": "Khouribga",
+        "Commune": "Oued Zem (Mun.)",
+        "Etablissement hospitalier": "Oued.Zem",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      }
+    ],
+    "Casablanca-Settat": [
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Benslimane",
+        "Commune": "Benslimane (Mun.)",
+        "Etablissement hospitalier": "Benslimane (Hassan II)",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Berrechid",
+        "Commune": "Berrechid (Mun.)",
+        "Etablissement hospitalier": "Berrchid",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Berrechid",
+        "Commune": "Berrechid (Mun.)",
+        "Etablissement hospitalier": "Errazi",
+        "Catégorie": "HPsyP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "El Jadida",
+        "Commune": "Azemmour (Mun.)",
+        "Etablissement hospitalier": "Azemmour",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "El Jadida",
+        "Commune": "El Jadida (Mun.)",
+        "Etablissement hospitalier": "Mohamed V",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Mediouna",
+        "Commune": "Mediouna (Mun.)",
+        "Etablissement hospitalier": "Mediouna",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Mediouna",
+        "Commune": "Sidi Hajjaj Oued Hassar",
+        "Etablissement hospitalier": "Tit Mellil",
+        "Catégorie": "HPsyP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Mohammedia",
+        "Commune": "Mohammadia (Mun.)",
+        "Etablissement hospitalier": "My Abdellah",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Nouaceur",
+        "Commune": "Bouskoura (Mun.)",
+        "Etablissement hospitalier": "Bouskoura",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Nouaceur",
+        "Commune": "Dar Bouazza (Mun.)",
+        "Etablissement hospitalier": "Prince My Hassan",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Settat",
+        "Commune": "Ben Ahmed (Mun.)",
+        "Etablissement hospitalier": "Ben Ahmed",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Settat",
+        "Commune": "Settat (Mun.)",
+        "Etablissement hospitalier": "Hassan II",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Sidi Bennour",
+        "Commune": "Sidi Bennour (Mun.)",
+        "Etablissement hospitalier": "Sidi Bennour",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Sidi Bennour",
+        "Commune": "Zemamra (Mun.)",
+        "Etablissement hospitalier": "Zmamra",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Casablanca Anfa",
+        "Commune": "El Maarif (Arrond.)",
+        "Etablissement hospitalier": "20 Aout 1953",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Casablanca Anfa",
+        "Commune": "El Maarif (Arrond.)",
+        "Etablissement hospitalier": "Ibn Rochd",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Casablanca Anfa",
+        "Commune": "El Maarif (Arrond.)",
+        "Etablissement hospitalier": "Hôpital D'enfants",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Casablanca Anfa",
+        "Commune": "Sidi Belyout (Arrond.)",
+        "Etablissement hospitalier": "My Youssef",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Al Fida-Mers Sultan",
+        "Commune": "Al-Fida (Arrond.)",
+        "Etablissement hospitalier": "Mohamed Baouafi",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Aïn Sebaâ-Hay Mohammadi",
+        "Commune": "Hay Mohammadi (Arrond.)",
+        "Etablissement hospitalier": "Mohamed V",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Hay Hassani",
+        "Commune": "Hay-Hassani (Arrond.)",
+        "Etablissement hospitalier": "El Hassani",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Aïn Chok",
+        "Commune": "Aîn-Chock (Arrond.)",
+        "Etablissement hospitalier": "Centre de Léprologie",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Aïn Chok",
+        "Commune": "Aîn-Chock (Arrond.)",
+        "Etablissement hospitalier": "Mohamed Sekkat",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Sidi Bernoussi",
+        "Commune": "Sidi Bernoussi (Arrond.)",
+        "Etablissement hospitalier": "Al Mansour",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Sidi Bernoussi",
+        "Commune": "Sidi Moumen (Arrond.)",
+        "Etablissement hospitalier": "HPr Sidi Moumen",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Ben Msick",
+        "Commune": "Ben M'Sick (Arrond.)",
+        "Etablissement hospitalier": "Ben Msick",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Casablanca-Settat",
+        "Delegation": "Moulay Rachid",
+        "Commune": "Sidi Othmane (Arrond.)",
+        "Etablissement hospitalier": "Sidi Othmane",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      }
+    ],
+    "Marrakech-Safi": [
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Al Haouz",
+        "Commune": "Tahannaout (Mun.)",
+        "Etablissement hospitalier": "Mohammed VI",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Chichaoua",
+        "Commune": "Chichaoua (Mun.)",
+        "Etablissement hospitalier": "Mohamed Vi",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "El Kelaa Des Sraghna",
+        "Commune": "El Kelaâ des Sraghna (Mun.)",
+        "Etablissement hospitalier": "Assalama",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "El Kelaa Des Sraghna",
+        "Commune": "El Kelaâ des Sraghna (Mun.)",
+        "Etablissement hospitalier": "Hôpital psychiatrique",
+        "Catégorie": "HPsyP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "El Kelaa Des Sraghna",
+        "Commune": "Tamallalt (Mun.)",
+        "Etablissement hospitalier": "Princesse Lalla Khadija",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Essaouira",
+        "Commune": "Essaouira (Mun.)",
+        "Etablissement hospitalier": "Sidi Med Ben Abdellah",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Marrakech",
+        "Commune": "Gueliz (Arrond.)",
+        "Etablissement hospitalier": "Ibn Tofeil",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Marrakech",
+        "Commune": "Gueliz (Arrond.)",
+        "Etablissement hospitalier": "Ibn Nafis",
+        "Catégorie": "CPU",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Marrakech",
+        "Commune": "Gueliz (Arrond.)",
+        "Etablissement hospitalier": "Hopital Mère-Enfant",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Marrakech",
+        "Commune": "Gueliz (Arrond.)",
+        "Etablissement hospitalier": "Centre d'Hématologie Oncologie",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Marrakech",
+        "Commune": "Gueliz (Arrond.)",
+        "Etablissement hospitalier": "Arrazi",
+        "Catégorie": "HIR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Marrakech",
+        "Commune": "Marrakech-Médina (Arrond.)",
+        "Etablissement hospitalier": "Ibn Zohr",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Marrakech",
+        "Commune": "Marrakech-Médina (Arrond.)",
+        "Etablissement hospitalier": "El Antaki",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Marrakech",
+        "Commune": "Ménara (Arrond.)",
+        "Etablissement hospitalier": "Mhamid",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Marrakech",
+        "Commune": "Sidi Youssef Ben Ali (Arrond.)",
+        "Etablissement hospitalier": "Charifa",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Marrakech",
+        "Commune": "Saada",
+        "Etablissement hospitalier": "Saada",
+        "Catégorie": "HPsyR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Rehamena",
+        "Commune": "Ben Guerir (Mun.)",
+        "Etablissement hospitalier": "Benguerir",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Safi",
+        "Commune": "Safi (Mun.)",
+        "Etablissement hospitalier": "Mohamed V",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Safi",
+        "Commune": "Safi (Mun.)",
+        "Etablissement hospitalier": "Aisha",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Marrakech-Safi",
+        "Delegation": "Youssoufia",
+        "Commune": "Youssoufia (Mun.)",
+        "Etablissement hospitalier": "Lalla Hasna",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      }
+    ],
+    "Drâa-Tafilalet": [
+      {
+        "Région": "Drâa-Tafilalet",
+        "Delegation": "Errachidia",
+        "Commune": "Arfoud (Mun.)",
+        "Etablissement hospitalier": "Sghiri Houmman I Ben Maati",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Drâa-Tafilalet",
+        "Delegation": "Errachidia",
+        "Commune": "Errachidia (Mun.)",
+        "Etablissement hospitalier": "My Ali Cherif",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Drâa-Tafilalet",
+        "Delegation": "Errachidia",
+        "Commune": "Errachidia (Mun.)",
+        "Etablissement hospitalier": "Hôpital Amir Soultan Ibn Abdelaziz",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Drâa-Tafilalet",
+        "Delegation": "Errachidia",
+        "Commune": "Goulmima (Mun.)",
+        "Etablissement hospitalier": "20 Aout (Goulmima)",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Drâa-Tafilalet",
+        "Delegation": "Midelt",
+        "Commune": "Midelt (Mun.)",
+        "Etablissement hospitalier": "Midelt",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Drâa-Tafilalet",
+        "Delegation": "Midelt",
+        "Commune": "Er-rich (Mun.)",
+        "Etablissement hospitalier": "HPr Rich",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Drâa-Tafilalet",
+        "Delegation": "Ouarzazate",
+        "Commune": "Ouarzazate (Mun.)",
+        "Etablissement hospitalier": "Sidi Hssain Bencer",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Drâa-Tafilalet",
+        "Delegation": "Ouarzazate",
+        "Commune": "Ouarzazate (Mun.)",
+        "Etablissement hospitalier": "Bougafer",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Drâa-Tafilalet",
+        "Delegation": "Tinghir",
+        "Commune": "Kalaat M'Gouna (Mun.)",
+        "Etablissement hospitalier": "HPr Kalaat M'gouna",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Drâa-Tafilalet",
+        "Delegation": "Tinghir",
+        "Commune": "Tinghir (Mun.)",
+        "Etablissement hospitalier": "Tinghir",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Drâa-Tafilalet",
+        "Delegation": "Zagora",
+        "Commune": "Zagora (Mun.)",
+        "Etablissement hospitalier": "Ed-Derrak",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      }
+    ],
+    "Souss-Massa": [
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Agadir Ida Ou Tanane",
+        "Commune": "Agadir (Mun.)",
+        "Etablissement hospitalier": "Hassan II",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Agadir Ida Ou Tanane",
+        "Commune": "Agadir (Mun.)",
+        "Etablissement hospitalier": "C. d'Oncologie d'Agadir",
+        "Catégorie": "CRO",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Chtouka Ait Baha",
+        "Commune": "Biougra (Mun.)",
+        "Etablissement hospitalier": "Mokhtar Soussi",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Inezgane Ait Melloul",
+        "Commune": "Inezgane (Mun.)",
+        "Etablissement hospitalier": "Inezgane",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Taroudant",
+        "Commune": "Oulad Teima (Mun.)",
+        "Etablissement hospitalier": "Oulad Teima",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Taroudant",
+        "Commune": "Taroudannt (Mun.)",
+        "Etablissement hospitalier": "Mokhtar Es-Soussi",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Tata",
+        "Commune": "Tata (Mun.)",
+        "Etablissement hospitalier": "Tata",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Tiznit",
+        "Commune": "Tiznit (Mun.)",
+        "Etablissement hospitalier": "Hassan 1er",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Souss-Massa",
+        "Delegation": "Tiznit",
+        "Commune": "Tiznit (Mun.)",
+        "Etablissement hospitalier": "Houmman El Fatouaki",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      }
+    ],
+    "Guelmim-Oued Noun": [
+      {
+        "Région": "Guelmim-Oued Noun",
+        "Delegation": "Assa-zag",
+        "Commune": "Assa (Mun.)",
+        "Etablissement hospitalier": "Assa",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Guelmim-Oued Noun",
+        "Delegation": "Guelmim",
+        "Commune": "Bouizakarne (Mun.)",
+        "Etablissement hospitalier": "Bouizakaren",
+        "Catégorie": "HPr",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Guelmim-Oued Noun",
+        "Delegation": "Guelmim",
+        "Commune": "Guelmim (Mun.)",
+        "Etablissement hospitalier": "Guelmim",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Guelmim-Oued Noun",
+        "Delegation": "Sidi Ifni",
+        "Commune": "Sidi Ifni (Mun.)",
+        "Etablissement hospitalier": "Sidi Ifni",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Guelmim-Oued Noun",
+        "Delegation": "Tan Tan",
+        "Commune": "Tan Tan (Mun.)",
+        "Etablissement hospitalier": "Hassan II",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      }
+    ],
+    "Laayoune-Sakia El Hamra": [
+      {
+        "Région": "Laayoune-Sakia El Hamra",
+        "Delegation": "Boujdour",
+        "Commune": "Boujdour (Mun.)",
+        "Etablissement hospitalier": "Boujdour",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Laayoune-Sakia El Hamra",
+        "Delegation": "Es Semara",
+        "Commune": "Es-semara (Mun.)",
+        "Etablissement hospitalier": "Es-Smara",
+        "Catégorie": "HP",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Laayoune-Sakia El Hamra",
+        "Delegation": "Laayoune",
+        "Commune": "Laayoune (Mun.)",
+        "Etablissement hospitalier": "My Hassan Ben El Mehdi",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Laayoune-Sakia El Hamra",
+        "Delegation": "Laayoune",
+        "Commune": "Laayoune (Mun.)",
+        "Etablissement hospitalier": "Hassan II",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      },
+      {
+        "Région": "Laayoune-Sakia El Hamra",
+        "Delegation": "Laayoune",
+        "Commune": "Laayoune (Mun.)",
+        "Etablissement hospitalier": "Laayoune",
+        "Catégorie": "CRO",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      }
+    ],
+    "Eddakhla-Oued Eddahab": [
+      {
+        "Région": "Eddakhla-Oued Eddahab",
+        "Delegation": "Oued Ed-Dahab",
+        "Commune": "Dakhla (Mun.)",
+        "Etablissement hospitalier": "Hassan II",
+        "Catégorie": "HR",
+        "Unnamed: 5": "NaN",
+        "Liste des abréviations": "NaN",
+        "Unnamed: 7": "NaN"
+      }
+    ]
+  },
+  "metadata": {
+    "total_hospitals": 170,
+    "total_regions": 12,
+    "description": "Liste des hôpitaux par région au Maroc"
+  }
+}

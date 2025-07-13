@@ -1,0 +1,48 @@
+{
+  "teams": [
+    {
+      "name": "Egypt",
+      "flag": "https://flagcdn.com/w320/eg.png"
+    },
+    {
+      "name": "Zimbabwe",
+      "flag": "https://flagcdn.com/w320/zw.png"
+    },
+    {
+      "name": "Cameroon",
+      "flag": "https://flagcdn.com/w320/cm.png"
+    },
+    {
+      "name": "Gabon",
+      "flag": "https://flagcdn.com/w320/ga.png"
+    },
+    {
+      "name": "South Africa",
+      "flag": "https://flagcdn.com/w320/za.png"
+    },
+    {
+      "name": "Ivory Coast",
+      "flag": "https://flagcdn.com/w320/ci.png"
+    },
+    {
+      "name": "Angola",
+      "flag": "https://flagcdn.com/w320/ao.png"
+    },
+    {
+      "name": "Winner Group B",
+      "flag": ""
+    },
+    {
+      "name": "Third-place Group A/C/D",
+      "flag": ""
+    },
+    {
+      "name": "Winner H8",
+      "flag": ""
+    },
+    {
+      "name": "Winner H6",
+      "flag": ""
+    }
+  ]
+}

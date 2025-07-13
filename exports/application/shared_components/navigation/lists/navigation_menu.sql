@@ -1,0 +1,85 @@
+prompt --application/shared_components/navigation/lists/navigation_menu
+begin
+--   Manifest
+--     LIST: Navigation Menu
+--   Manifest End
+wwv_flow_imp.component_begin (
+ p_version_yyyy_mm_dd=>'2024.11.30'
+,p_release=>'24.2.5'
+,p_default_workspace_id=>7794158111401143
+,p_default_application_id=>105
+,p_default_id_offset=>0
+,p_default_owner=>'WKSP_AZULCAN25'
+);
+wwv_flow_imp_shared.create_list(
+ p_id=>wwv_flow_imp.id(7837128675589276)
+,p_name=>'Navigation Menu'
+,p_list_status=>'PUBLIC'
+,p_version_scn=>44966183770229
+,p_updated_on=>wwv_flow_imp.dz('20250629115849Z')
+,p_updated_by=>'ILYASS'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(7848985952589293)
+,p_list_item_display_sequence=>10
+,p_list_item_link_text=>'Home'
+,p_list_item_link_target=>'f?p=&APP_ID.:1:&APP_SESSION.::&DEBUG.:::'
+,p_list_item_icon=>'fa-home'
+,p_list_item_current_type=>'TARGET_PAGE'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(7929802962034917)
+,p_list_item_display_sequence=>40
+,p_list_item_link_text=>'HOTELS'
+,p_list_item_link_target=>'f?p=&APP_ID.:15:&SESSION.::&DEBUG.::::'
+,p_list_item_icon=>'fa-tag'
+,p_list_item_current_type=>'COLON_DELIMITED_PAGE_LIST'
+,p_list_item_current_for_pages=>'15'
+,p_updated_on=>wwv_flow_imp.dz('20250629095406Z')
+,p_updated_by=>'ABDELLAH'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(8386231382929648)
+,p_list_item_display_sequence=>70
+,p_list_item_link_text=>'Pharmacies'
+,p_list_item_link_target=>'f?p=&APP_ID.:26:&APP_SESSION.::&DEBUG.:::'
+,p_list_item_icon=>'fa-user-md'
+,p_list_item_current_type=>'COLON_DELIMITED_PAGE_LIST'
+,p_list_item_current_for_pages=>'26'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(8399915808942944)
+,p_list_item_display_sequence=>80
+,p_list_item_link_text=>'buses'
+,p_list_item_link_target=>'f?p=&APP_ID.:27:&APP_SESSION.::&DEBUG.:::'
+,p_list_item_icon=>'fa-map-marker'
+,p_list_item_current_type=>'COLON_DELIMITED_PAGE_LIST'
+,p_list_item_current_for_pages=>'27'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(8461851156497814)
+,p_list_item_display_sequence=>90
+,p_list_item_link_text=>'Restaurants'
+,p_list_item_link_target=>'f?p=&APP_ID.:40:&SESSION.::&DEBUG.::::'
+,p_list_item_icon=>'fa-leaf'
+,p_list_item_current_type=>'COLON_DELIMITED_PAGE_LIST'
+,p_list_item_current_for_pages=>'40'
+,p_updated_on=>wwv_flow_imp.dz('20250629093541Z')
+,p_updated_by=>'ABDELLAH'
+);
+wwv_flow_imp_shared.create_list_item(
+ p_id=>wwv_flow_imp.id(8961861981328139)
+,p_list_item_display_sequence=>110
+,p_list_item_link_text=>'Car Rental'
+,p_list_item_link_target=>'f?p=&APP_ID.:25:&SESSION.::&DEBUG.::::'
+,p_list_item_icon=>'fa-car'
+,p_list_item_current_type=>'COLON_DELIMITED_PAGE_LIST'
+,p_list_item_current_for_pages=>'25'
+,p_created_on=>wwv_flow_imp.dz('20250629064853Z')
+,p_updated_on=>wwv_flow_imp.dz('20250629094248Z')
+,p_created_by=>'ILYASS'
+,p_updated_by=>'ABDELLAH'
+);
+wwv_flow_imp.component_end;
+end;
+/

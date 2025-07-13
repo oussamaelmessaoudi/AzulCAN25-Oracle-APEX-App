@@ -1,0 +1,189 @@
+{
+  "tournament_info": {
+    "name": "TotalEnergies AFCON 2025",
+    "host_country": "Morocco",
+    "dates": {
+      "start": "2025-12-21",
+      "end": "2026-01-18"
+    },
+    "edition": 35,
+    "teams": 24,
+    "previous_tournament": {
+      "winner": "Côte d'Ivoire",
+      "host": "Côte d'Ivoire",
+      "year": 2023
+    }
+  },
+  "previous_tournament_stats": {
+    "viewers": "Over 2 billion global viewers",
+    "goals_per_game": 2.47,
+    "notable_players": [
+      {
+        "name": "Mohamed Salah",
+        "team": "Egypt",
+        "club": "Liverpool"
+      },
+      {
+        "name": "Sadio Mane",
+        "team": "Senegal",
+        "club": "Al Nassr"
+      },
+      {
+        "name": "Victor Osimhen",
+        "team": "Nigeria",
+        "club": "Galatasaray"
+      },
+      {
+        "name": "Andre Onana",
+        "team": "Cameroon",
+        "club": "Manchester United"
+      },
+      {
+        "name": "Karim Konaté",
+        "team": "Côte d'Ivoire",
+        "achievements": ["2024 Ballon d'Or Kopa Trophy nominee"]
+      }
+    ]
+  },
+  "qualified_teams": {
+    "host": {
+      "name": "Morocco",
+      "qualification_type": "Host nation",
+      "previous_appearances": 18
+    },
+    "qualified": [
+      "Algeria",
+      "Angola", 
+      "Benin",
+      "Botswana",
+      "Burkina Faso",
+      "Cameroon",
+      "Comoros",
+      "DR Congo",
+      "Egypt",
+      "Equatorial Guinea",
+      "Gabon",
+      "Ivory Coast",
+      "Mali",
+      "Mozambique",
+      "Nigeria",
+      "Senegal",
+      "South Africa",
+      "Sudan",
+      "Tanzania",
+      "Tunisia",
+      "Uganda",
+      "Zambia",
+      "Zimbabwe"
+    ]
+  },
+  "venues": {
+    "main_stadiums": [
+      {
+        "name": "Mohammed V Stadium",
+        "city": "Casablanca",
+        "capacity": 67000,
+        "status": "Main venue",
+        "notable_history": ["Previous AFCON 1988 final"]
+      },
+      {
+        "name": "Moulay Abdellah Stadium",
+        "city": "Rabat",
+        "status": "Under expansion"
+      },
+      {
+        "name": "Ibn Batouta Stadium",
+        "city": "Tangier",
+        "status": "Ready"
+      },
+      {
+        "name": "Adrar Stadium",
+        "city": "Agadir",
+        "status": "Under expansion"
+      }
+    ],
+    "host_cities": {
+      "casablanca": {
+        "name": "Casablanca",
+        "main_stadium": "Mohammed V Stadium",
+        "transport": {
+          "airport": "Mohammed V International Airport",
+          "train": "Casa Voyageurs Station",
+          "public_transport": ["Tramway", "Bus", "Taxis"]
+        },
+        "tourist_attractions": [
+          "Hassan II Mosque",
+          "Old Medina",
+          "Mohammed V Square"
+        ]
+      },
+      "rabat": {
+        "name": "Rabat",
+        "main_stadium": "Moulay Abdellah Stadium",
+        "transport": {
+          "airport": "Rabat-Salé Airport",
+          "train": "Rabat Ville Station",
+          "public_transport": ["Tramway", "Bus", "Taxis"]
+        },
+        "tourist_attractions": [
+          "Hassan Tower",
+          "Kasbah of the Udayas",
+          "Chellah"
+        ]
+      }
+    }
+  },
+  "tournament_format": {
+    "group_stage": {
+      "groups": 6,
+      "teams_per_group": 4,
+      "teams_qualifying": "Top 2 from each group + 4 best third-placed teams"
+    },
+    "knockout_stage": {
+      "round_of_16": 16,
+      "quarter_finals": 8,
+      "semi_finals": 4,
+      "final": 2
+    }
+  },
+  "key_information": {
+    "broadcast": {
+      "global_reach": "Over 180 countries",
+      "main_broadcasters": [
+        "Sky",
+        "Canal+",
+        "beIN Sport"
+      ]
+    },
+    "tickets": {
+      "status": "Not yet available",
+      "recommendation": "Book early when sales begin"
+    },
+    "official_channels": {
+      "website": "www.cafonline.com",
+      "social_media": {
+        "twitter": "@CAF_Online",
+        "facebook": "CAF",
+        "instagram": "@caf_online"
+      }
+    }
+  },
+  "commercial_info": {
+    "previous_tournament_revenue": "$75 million in sponsorship",
+    "major_sponsors": [
+      "TotalEnergies",
+      "1xBet",
+      "Orange"
+    ]
+  },
+  "challenges_and_considerations": {
+    "logistical_issues": [
+      "Fan attendance restrictions",
+      "High cost of intra-African travel"
+    ],
+    "areas_for_improvement": [
+      "Accessibility for pan-African fans",
+      "Transportation infrastructure"
+    ]
+  }
+}

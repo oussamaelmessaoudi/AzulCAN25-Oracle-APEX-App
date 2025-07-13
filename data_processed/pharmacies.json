@@ -1,0 +1,6645 @@
+{
+  "pharmacies": {
+    "SALE": [
+      {
+        "INPE": 102061710,
+        "Pharmacie_Name": "PHARMACIE ASSEHA",
+        "address": "RESIDENCE ADDOUHA, TABRIQUET",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102001401,
+        "Pharmacie_Name": "PHARMACIE ACHOUHADAA",
+        "address": "425 AVENUE CHOUHADAA, SECTEUR 2 HAY SALMA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102009636,
+        "Pharmacie_Name": "PHARMACIE AMAR",
+        "address": "15 LOTISSEMENT NEJJAR AVENUE MOHAMMED V TABRIQUET",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102003191,
+        "Pharmacie_Name": "PHARMACIE ALAHAD",
+        "address": "38 BIS RUE OUED GHRIS SECTEUR 3 , HAY SAFAE KARIA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102056280,
+        "Pharmacie_Name": "PHARMACIE ETISSIR",
+        "address": "19 AVENUE DE LA BASE AERIENNE. HAY INBIAT PHARMACIE ETTISSIR",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102015369,
+        "Pharmacie_Name": "PHARMACIE BENSAID",
+        "address": "23 AVENUE BIS PRINCE HERITIER SIDI MED, KARIATOULAD MOUSSA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102062932,
+        "Pharmacie_Name": "PHARMACIE LAFROUGI",
+        "address": "1229 RUE LAFKIH BEN SALEH HAY INBIAT",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102057924,
+        "Pharmacie_Name": "PHARMACIE ZAKARIA",
+        "address": "1262 SECTEUR C,HAY ERRAHMA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102031937,
+        "Pharmacie_Name": "PHARMACIE DE L HOPITAL",
+        "address": "SECTEUR D , N° 777 , HAY ERRAHMA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102006558,
+        "Pharmacie_Name": "PHARMACIE AL KASBA",
+        "address": "Marche Municipal, Route cotière sidi Moussa",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102005972,
+        "Pharmacie_Name": "PHARMACIE ALIKHLAS",
+        "address": "Boulevard Mohammed V, Imm 265, N ° 5 Lotissement Frougui sghir, Dar El Hamra",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102017860,
+        "Pharmacie_Name": "PHARMACIE CENTRALE",
+        "address": "Angle Av Sidi Mohammed Ben El Hassan Et Av Hassan II, Imm 44",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102062114,
+        "Pharmacie_Name": "PHARMACIE MALKIA",
+        "address": "MALKIA DOUAR BRAHMA BOUKNADEL ROUTE KENITRA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102019601,
+        "Pharmacie_Name": "PHARMACIE CITE ROYALE",
+        "address": "AVENUE ATLAS, N8, SALE JADIDA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102028586,
+        "Pharmacie_Name": "PHARMACIE FETHI",
+        "address": "39 RUE EL MENZEL SECT 4 HAY EL AMAL KOM",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102055183,
+        "Pharmacie_Name": "PHARMACIE TAHIRI",
+        "address": "LOTISSEMENT SAID HAJJI, RESIDANCE AL BOUSTANE 4, APPT G4R4",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102034642,
+        "Pharmacie_Name": "PHARMACIE INBIAT",
+        "address": "31 AVENUE ESSALAM DOUAR CHEIKH LAMFADAL HAY INBIAT, TABRIQUET",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102063609,
+        "Pharmacie_Name": "PHARMACIE MAIL CENTRAL",
+        "address": "AVENUE ALWAHDA, IMM 1A, COMMERCE N°1, SALA AL JADIDA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102028545,
+        "Pharmacie_Name": "PHARMACIE FENNICH",
+        "address": "7 AVENUE HASSANI, BAB M SADAK",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102020153,
+        "Pharmacie_Name": "PHARMACIE DAHAB",
+        "address": "47 lot EL HOURIYA, TABRIQUET 11000",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102025418,
+        "Pharmacie_Name": "PHARMACIE ALMASSIRA",
+        "address": "AV LA MARCHE VERTE HAY AL WAHDA, SECTEUR 7, BENI MOUSTARA, KARIAT OULAD MOUSSA 11004",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102050804,
+        "Pharmacie_Name": "PHARMACIE RIZK",
+        "address": "7 AV N6 NOVEMBRE 11000",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102062148,
+        "Pharmacie_Name": "PHARMACIE LOTISSEMENT ABDELLAH",
+        "address": "BLC EL MORAH, N 40 TABRIQUET 11000",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102012978,
+        "Pharmacie_Name": "PHARMACIE AZ‐ZAHRA",
+        "address": "7 RUE BIS OUED ROMANE, HAY AL INBIAT 11000",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102012366,
+        "Pharmacie_Name": "PHARMACIE L'AUBE",
+        "address": "47 BD ABDELKHALEK TORRES, TABRIQUET",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102030228,
+        "Pharmacie_Name": "PHARMACIE HAMMI",
+        "address": "70 AV IBNOU AL HAYTAM, HAY ELINBIAT",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102049533,
+        "Pharmacie_Name": "PHARMACIE QUARTIER INDUSTRIEL",
+        "address": "581 ANG RUE OUARKZIZ ET AVENUE IBN AL KHATIB. DAR HAMRA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102054947,
+        "Pharmacie_Name": "PHARMACIE TABRIQUET",
+        "address": "LOT FABI, N9, AVENUE LALLA ASMAE, TABRIQUET",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102010808,
+        "Pharmacie_Name": "PHARMACIE ANWAL",
+        "address": "11 RUE GOULMIME, AVNUE BASE AERIENNE LAAYAYDA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102013455,
+        "Pharmacie_Name": "PHARMACIE BAB SEBTA",
+        "address": "2 AV ABDARRHMANE KADIRI HORS SEBTA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102050606,
+        "Pharmacie_Name": "PHARMACIE RIDA",
+        "address": "AV LALLA AMINA, TABRIQUET",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102040300,
+        "Pharmacie_Name": "PHARMACIE LOUBNA",
+        "address": "83 RUE ALOUARD, SECTEUR A HAY ARRAHMA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102027208,
+        "Pharmacie_Name": "PHARMACIE ES‐SAADA",
+        "address": "65 BLC SIX SECTEUR 9 HAY SALAM",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102062924,
+        "Pharmacie_Name": "PHARMACIE DOHA",
+        "address": "RUE JABAL HIBRI N 669, LOT SAID HAJJI",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102014115,
+        "Pharmacie_Name": "PHARMACIE BASMALA",
+        "address": "SECTEUR N4, RUE TAZA, N 15 HAY AMAL, K.O.M",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102061801,
+        "Pharmacie_Name": "PHARMACIE ALFOUNDOUKIA",
+        "address": "AVENUE IBN HAYTAM,N°235 HAY INBIAT,TABRIQUET",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102011269,
+        "Pharmacie_Name": "PHARMACIE ARRAJAE",
+        "address": "92 HAY FROUGUI SAGHIR BD BOUKRAA TABREQUET",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102028156,
+        "Pharmacie_Name": "PHARMACIE FAMILIALE",
+        "address": "4 RUE AIN ELOUH HAY INBIAT",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102003761,
+        "Pharmacie_Name": "PHARMACIE ALANWAR",
+        "address": "RUE SIDI ALLAL BARHRAOUI N215 HAY INBIAT",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102061504,
+        "Pharmacie_Name": "PHARMACIE GUELIZ",
+        "address": "AVENUE BOUREGREG IMM 7 SALA AL JADIDA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102032083,
+        "Pharmacie_Name": "PHARMACIE DES HOPITAUX",
+        "address": "RUE IBN ROCHD PEPINIERE",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102019080,
+        "Pharmacie_Name": "PHARMACIE CHIFAA",
+        "address": "AVENUE MOULAY ABDELLAH N°20 SALA AL JADIDA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102051968,
+        "Pharmacie_Name": "PHARMACIE SALAHEDDINE",
+        "address": "468 RUE AIT SGHIR ,HAY INBIAT",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102061363,
+        "Pharmacie_Name": "PHARMACIE ILHAM",
+        "address": "SECTEUR E,N°1789 RAHMA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102002250,
+        "Pharmacie_Name": "PHARMACIE AICHA",
+        "address": "1718 LOTISSEMENT SAID HAJJI,ROUTE DE KENITRA,HAY RIAD",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102008489,
+        "Pharmacie_Name": "PHARMACIE ALOSRA",
+        "address": "158 RUE TAIBA,SANIAT BECHNIKHA,SIDI MOUSSA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102005170,
+        "Pharmacie_Name": "PHARMACIE ALHAMD",
+        "address": "366 RUE YASSAMINE SECTEUR A HAY RAHMA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102038775,
+        "Pharmacie_Name": "PHARMACIE LA VICTOIRE",
+        "address": "52 AVENUE NASSER HAY OUED DAHAB",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102038957,
+        "Pharmacie_Name": "PHARMACIE LAAYAYDA",
+        "address": "1847 AVENUE ANNACER LAAYAYDA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102066925,
+        "Pharmacie_Name": "PHARMACIE DU BOUREGREG",
+        "address": "2 AVENUE DU BOUREGREG,LOT 1071,SALA EL JADIDA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102030723,
+        "Pharmacie_Name": "PHARMACIE HAY ARRAHMA",
+        "address": "39 SECTEUR C HAY ARRAHMA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102003464,
+        "Pharmacie_Name": "PHARMACIE EL AMANA",
+        "address": "349 BLOC N16 SECTEUR 11 HAY ESSALAM",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102034105,
+        "Pharmacie_Name": "PHARMACIE IFRIQUIA",
+        "address": "43 AVENUE IFRIQUIA SECT 3 HAY SAFAE KARIA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102003084,
+        "Pharmacie_Name": "PHARMACIE ALABRIDI",
+        "address": "ROUTE OUTA HSSAINE SALA EL JADIDA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102049343,
+        "Pharmacie_Name": "PHARMACIE PRINTEMPS",
+        "address": "3 AVENUE MED V ET ANGLE RUE BAB TAZA, KARIA OULAD MOUSSA, HAY KIFAH",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102011301,
+        "Pharmacie_Name": "PHARMACIE ARRAZI",
+        "address": "1 LOTISSEMENT ZENFARI RUE TAROUDANT BETTANA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102001070,
+        "Pharmacie_Name": "PHARMACIE ABID",
+        "address": "SECTEUR D N°11 HAY RAHMA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102021680,
+        "Pharmacie_Name": "PHARMACIE HAY JBALA",
+        "address": "2 AVENUE EL MASSIRA, HAY KIFAH SECTEUR 6, AL KARIA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102022506,
+        "Pharmacie_Name": "PHARMACIE DYAR",
+        "address": "9 LOTISSEMENT LONGEIRE AVENUE MED V TABREQUET",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102001997,
+        "Pharmacie_Name": "PHARMACIE AGOUMI",
+        "address": "ROUTE DE KENITRA LOT BACHIR II, AVANT LA POSTE ET APRES CARREFOUR",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102063690,
+        "Pharmacie_Name": "PHARMACIE ABOU BAKR SEDDIK",
+        "address": "30 LOTISSEMENT BIS 2 LALA MERYEM, ROUTE MEHDIA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102009321,
+        "Pharmacie_Name": "PHARMACIE ALWASSAT",
+        "address": "33 AVENUE HASSAN II. TABRIQUET",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102063997,
+        "Pharmacie_Name": "PHARMACIE HAY ENNAHDA",
+        "address": "1 RUE AIN HAROUDA, SECT 5, HAY NAHDA, KARIAT OULED MOUSSA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102030095,
+        "Pharmacie_Name": "PHARMACIE HAJJI",
+        "address": "46 RUE EL HADDADINE",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102012002,
+        "Pharmacie_Name": "PHARMACIE ATHENES",
+        "address": "BOULEVARD ABDERRAHIM BOUABID, SALA AL JADIDA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102062262,
+        "Pharmacie_Name": "PHARMACIE LES ARCEAUX",
+        "address": "SORTIE DES ARCEAUX ROUTE DE KENITRA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102063674,
+        "Pharmacie_Name": "PHARMACIE DU DISPENSAIRE",
+        "address": "LOTISSEMENT SAID HAJJI, AVENUE TOUBKAL, N1842, ROUTE DE KENITRA‐SALE",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102061835,
+        "Pharmacie_Name": "PHARMACIE ALMAARID",
+        "address": "AVENUE MOULAY ABDELLAH LOCAL 397, CENTRE COMMERCIAL SALA AL JADIDA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102067675,
+        "Pharmacie_Name": "PHARMACIE ANNAIM",
+        "address": "RESIDENCE ANNAIM GROUPE ADDOHA IMM 29 TABRIQUET",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102065034,
+        "Pharmacie_Name": "PHARMACIE SABI",
+        "address": "144 LOTISSEMENT SABI SECTEUR NAHDA LAAYAYDA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102063096,
+        "Pharmacie_Name": "PHARMACIE LE MAGHREB ARABE",
+        "address": "LOTISSEMENT VILLA 1223 N4 SALA AL JADIDA",
+        "city": "SALE"
+      },
+      {
+        "INPE": 102003076,
+        "Pharmacie_Name": "PHARMACIE ALABAWAYNE",
+        "address": "222 AV ALAMIR SIDI MOHAMMED SECTEUR 3 HAY ASSAFAE",
+        "city": "SALE"
+      }
+    ],
+    "SETTAT": [
+      {
+        "INPE": 62060645,
+        "Pharmacie_Name": "PHARMACIE CHADLI",
+        "address": "N120 LOT EL WAHDA II",
+        "city": "SETTAT"
+      },
+      {
+        "INPE": 62005749,
+        "Pharmacie_Name": "PHARMACIE AL HOURRIA",
+        "address": "3 BOULEVARD MOHAMMED V",
+        "city": "SETTAT"
+      },
+      {
+        "INPE": 62044219,
+        "Pharmacie_Name": "PHARMACIE MOTAOUAKIL",
+        "address": "9 BOULEVARD HASSAN II, IMMEUBLE AL AHRAM",
+        "city": "SETTAT"
+      },
+      {
+        "INPE": 62040621,
+        "Pharmacie_Name": "PHARMACIE MAAROUF",
+        "address": "362 BOULVARD DES FAR",
+        "city": "SETTAT"
+      },
+      {
+        "INPE": 62059308,
+        "Pharmacie_Name": "PHARMACIE LA SANTE",
+        "address": "171 BOULEVARD 3 MARS EL KHEIR",
+        "city": "SETTAT"
+      },
+      {
+        "INPE": 62067491,
+        "Pharmacie_Name": "PHARMACIE MOUJAMAA EL KHEIR",
+        "address": "AVENUE LES ROSES N399, MOUJAMAA EL KHEIR BP 114",
+        "city": "SETTAT"
+      }
+    ],
+    "TEMARA": [
+      {
+        "INPE": 102063047,
+        "Pharmacie_Name": "PHARMACIE CHERKAWA",
+        "address": "133 RUE TOULAITILA AVENUE ALLAL BEN ABDELLAH, QUERTIER AL ANDALOUS",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102047644,
+        "Pharmacie_Name": "PHARMACIE OUM KELTOUM",
+        "address": "122 AVENUE DU CAIRE, HAY COMATRAV",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102044591,
+        "Pharmacie_Name": "PHARMACIE NAIMI",
+        "address": "844 HAY MAGHREB EL ARABI, MASSIRA II, AVENUE ADARISSA",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102025756,
+        "Pharmacie_Name": "PHARMACIE ELMOUMEN",
+        "address": "28 BOULEVARD ZERKTOUNI HAY NAHDA I",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102008331,
+        "Pharmacie_Name": "PHARMACIE EL MOUSTAOUCEF",
+        "address": "74 HAY MAGHREB EL ARABI, RUE SEBTA BLOC D MASSIRA II",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102063351,
+        "Pharmacie_Name": "PHARMACIE DAKAR",
+        "address": "68 HAY NASR AMICAL AL MOSTAQBAL",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102061876,
+        "Pharmacie_Name": "PHARMACIE ZONE INDUSTRIELLE",
+        "address": "1637 Ouled zaer, Ain Aouda",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102027117,
+        "Pharmacie_Name": "PHARMACIE L'ESPOIR",
+        "address": "3456 Hay Maghrib El Arabi",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102013935,
+        "Pharmacie_Name": "PHARMACIE BAKALI",
+        "address": "AVENUE ALLAL BEN ABDELLAH N° 8 HAY NAHDA 2",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102063617,
+        "Pharmacie_Name": "PHARMACIE L’AMITIE",
+        "address": "PROJET ANNASR, GH 49, C 149",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102062288,
+        "Pharmacie_Name": "PHARMACIE LES URGENCES",
+        "address": "AVENUE AL FOURATE LOTISSEENT MELOUIA",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102037405,
+        "Pharmacie_Name": "PHARMACIE DE LA FAMILLE",
+        "address": "16 BD TARIK IBN ZYAD, HAY AL MAGHRIB AL ARABI 12000",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102041290,
+        "Pharmacie_Name": "PHARMACIE DU MARCHE",
+        "address": "AV MOHAMED V, HAY NAHDA 1, IMMEUBLE N°1 12000",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102004546,
+        "Pharmacie_Name": "PHARMACIE ALFAJR",
+        "address": "622 AV MOULAY ALI CHERIF, MASSIRA I 12000",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102028461,
+        "Pharmacie_Name": "PHARMACIE FATINE",
+        "address": "AV MOULAY ALI CHERIF, N 863 MASSIRA II",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102064920,
+        "Pharmacie_Name": "GRANDE PHARMACIE DE TEMARA",
+        "address": "COOPERATIVE ALIZDIHAR, BLED HALIMA, OULED ALIAME, MAGASIN N1",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102015971,
+        "Pharmacie_Name": "PHARMACIE BISMI ALLAH",
+        "address": "27 LOT EL WAHDA, FATH EL KHEIR",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102040789,
+        "Pharmacie_Name": "PHARMACIE MACHA ALLAH",
+        "address": "5 AVENUE MOULAY ALI CHRIF,LOT 24 HA,MAGASIN N°2,QUARTIER MASSIRA 1",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102026515,
+        "Pharmacie_Name": "PHARMACIE ENNASSIM",
+        "address": "266 HAY MAGHREB ARABI HAY AZZELLAH DOKKARAT",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102016425,
+        "Pharmacie_Name": "PHARMACIE BOUAROUS",
+        "address": "187 RUE LAAYOUNE MASSIRA 1",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102055936,
+        "Pharmacie_Name": "PHARMACIE TAMARA DOULYAZAL",
+        "address": "BOULVARD MLY RACHID IMM HAMMOUCH",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102061884,
+        "Pharmacie_Name": "PHARMACIE OUM HANI",
+        "address": "56 LOTISSEMENT OUM HANI WIFAQ",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102013745,
+        "Pharmacie_Name": "PHARMACIE BADR",
+        "address": "2266 HAY EL MAGHREB ARABI",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102020062,
+        "Pharmacie_Name": "PHARMACIE CROISSANT VERT",
+        "address": "832 AVENUE MLY DRISSI I HAY MASSIRA",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102025368,
+        "Pharmacie_Name": "PHARMACIE EL MASSIRA",
+        "address": "336 SECTEUR N3, HAY MASSIRA",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102009719,
+        "Pharmacie_Name": "PHARMACIE AMINA",
+        "address": "45 MASROUR 2",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102010204,
+        "Pharmacie_Name": "PHARMACIE ANDALOUSSI",
+        "address": "62 AVENUE MOHAMED V TEMARA CENTRE",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102004546,
+        "Pharmacie_Name": "PHARMACIE AL FAJR",
+        "address": "622 AVENUE MLY ALI CHERIF MASSIRA I",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102006988,
+        "Pharmacie_Name": "PHARMACIE AL MAARIF",
+        "address": "SECTEUR 1,N252 LOT 50 HAY MASSIRA 2",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102040896,
+        "Pharmacie_Name": "PHARMACIE AL MAGHRIB AL ARABI",
+        "address": "1684 AVENUE AL ADARISSA MASSIRA II",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102027323,
+        "Pharmacie_Name": "PHARMACIE ESSAFAE",
+        "address": "33 LOTISSEMENT ESSAFAE, AL MANSOUR DAHBI",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102027497,
+        "Pharmacie_Name": "PHARMACIE ESSALAMA",
+        "address": "2 AVENUE MOHAMED V",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102068061,
+        "Pharmacie_Name": "PHARMACIE SOUK",
+        "address": "9 LOTISSEMENT ACTIVITES PROFESSIONELLE, HAY NASR, AIN AOUDA",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102064185,
+        "Pharmacie_Name": "PHARMACIE TARIK IBN ZIAD",
+        "address": "STAR LAH 1, MAGASIN N 3",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102002466,
+        "Pharmacie_Name": "PHARMACIE AIN AOUDA",
+        "address": "1 AVENUE SOUK TNINE AIN AOUDA",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102064045,
+        "Pharmacie_Name": "PHARMACIE ROCHDI",
+        "address": "HAY MAAMOURA SECT 4 N°5 MASSIRA II",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102061058,
+        "Pharmacie_Name": "PHARMACIE KENZI",
+        "address": "LOT 4420 AL WIFAK",
+        "city": "TEMARA"
+      },
+      {
+        "INPE": 102063740,
+        "Pharmacie_Name": "PHARMACIE FATIMA AZZOUZI",
+        "address": "10 IMM N12 RESIDENCE RIAD FES AV TARIK IBN ZIAD",
+        "city": "TEMARA"
+      }
+    ],
+    "TIFLET": [
+      {
+        "INPE": 102062635,
+        "Pharmacie_Name": "PHARMACIE DALIA",
+        "address": "61 LOTISSEMENT DALIA",
+        "city": "TIFLET"
+      },
+      {
+        "INPE": 102003746,
+        "Pharmacie_Name": "PHARMACIE ALANOUAR",
+        "address": "234 AVENUE BIR ANZARANE",
+        "city": "TIFLET"
+      }
+    ],
+    "MARRAKECH": [
+      {
+        "INPE": 72062367,
+        "Pharmacie_Name": "PHARMACIE DU CONSULAT",
+        "address": "ANGLE RUE OMAR IBN HATTAB ET ABOUBAKER ESSADIK, GUELIZ",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72033350,
+        "Pharmacie_Name": "PHARMACIE IBN TOFAIL",
+        "address": "1 ANGLE RUEN IBN ZAIDOUN ET AV DERRAQ , GUELIZ",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72051279,
+        "Pharmacie_Name": "PHARMACIE ALIMANE",
+        "address": "1592 LOTISSEMENT MAATALLAH, M HAMID",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72039449,
+        "Pharmacie_Name": "PHARMACIE LAMCELLA",
+        "address": "123 AVENUE DES ECOLES , SYBALI",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72032402,
+        "Pharmacie_Name": "PHARMACIE IBN BITAR",
+        "address": "634 AVENUE MOHAMED BEN HASSAN EL OUAZZANI , HAY TARGA",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72016900,
+        "Pharmacie_Name": "PHARMACIE BOUSSEKRI",
+        "address": "ARSET BEL BARAKA, AVENUE CADI AYYAD N ,67",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72063720,
+        "Pharmacie_Name": "PHARMACIE ALMARIFA",
+        "address": "BOULVEVARD PRINCE MOULAY ABDELLAH, IMM ZAHRA 3, GUELIZ",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72061161,
+        "Pharmacie_Name": "PHARMACIE ALMASJID",
+        "address": "LOT4, GH15/E1, PARC YASSMINE GROUPE JAMAI TAMANSOURT, HARBIL",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72012891,
+        "Pharmacie_Name": "PHARMACIE AZLI",
+        "address": "QUA AZLI, ROUTE D ESSAOUIRA 40000",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72011018,
+        "Pharmacie_Name": "PHARMACIE ARIHA",
+        "address": "RUE IBEN SINA UNITE II SUPPLEMENTAIRE N67 DAOURIATE",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72053440,
+        "Pharmacie_Name": "PHARMACIE SIDI DAOU",
+        "address": "124 DOUAR SIDI DAOU TARGA",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72035603,
+        "Pharmacie_Name": "PHARMACIE JNANE",
+        "address": "318 LOTISSEMENT BIS SYBA III, SIDI YOUSSEF BEN ALI",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72013816,
+        "Pharmacie_Name": "PHARMACIE BAGHDAD",
+        "address": "117 DERB JAMAA LEKBIR, SIDI YOUSSEF BEN ALI",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72052228,
+        "Pharmacie_Name": "PHARMACIE SALMA",
+        "address": "LOTISSEMENT ZERKTOUNI, 1436 BOUAAKKAZ MHAMID",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72032253,
+        "Pharmacie_Name": "PHARMACIE IBN AL AOUAM",
+        "address": "N 31‐32 DOUKKALA II, MASSIRA I",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72041205,
+        "Pharmacie_Name": "PHARMACIE MANISS",
+        "address": "12 MERSTANE III, AMERCHICH",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72050552,
+        "Pharmacie_Name": "PHARMACIE RIAD SALAM",
+        "address": "381 SAADA 6, MHAMID",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72054885,
+        "Pharmacie_Name": "PHARMACIE SUP DE CO",
+        "address": "26 AVENUE DE SAFI, RES YOUSSEF BEN TACHFINE",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72005622,
+        "Pharmacie_Name": "PHARMACIE AL HILAL",
+        "address": "J1, J4 OPERATION IZIKI 2 AZLI SUD",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72049489,
+        "Pharmacie_Name": "PHARMACIE QORTOBA",
+        "address": "77 LOTISSMENT ZERKTOUNI BOUAKAZ MHAMID",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72056575,
+        "Pharmacie_Name": "PHARMACIE TOUKRAM",
+        "address": "LOTISSEMENT SAADA II N772, MHAMID",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72047699,
+        "Pharmacie_Name": "PHARMACIE OUM RABII",
+        "address": "MASSIRA III, BLOC C, N 466",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72041775,
+        "Pharmacie_Name": "PHARMACIE MASSI",
+        "address": "36 BIS ARSAT BOU MANKHAR, SIDI YOUSSEF BEN ALI",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72035355,
+        "Pharmacie_Name": "PHARMACIE JASMIN",
+        "address": "1139 SOCOMA",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72038797,
+        "Pharmacie_Name": "PHARMACIE LA VICTOIRE",
+        "address": "N789 UNITE 4 DAOUDIATE",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72068877,
+        "Pharmacie_Name": "PHARMACIE MORAKAB SOUK LKHMISS",
+        "address": "N1 COMPLEXZ SPORTIF BAB LKMISS",
+        "city": "MARRAKECH"
+      },
+      {
+        "INPE": 72020589,
+        "Pharmacie_Name": "PHARMACIE DAR TALEB",
+        "address": "COMPLEXE DAR TALEB FACE FACULTE MEDECINE",
+        "city": "MARRAKECH"
+      }
+    ],
+    "RABAT": [
+      {
+        "INPE": 102042470,
+        "Pharmacie_Name": "PHARMACIE MESKELLIL",
+        "address": "RESIDENCE MESKELLIL, IMMEUBLE 3 N°1, HAY RIAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102038254,
+        "Pharmacie_Name": "PHARMACIE RENAISSANCE",
+        "address": "356 BOULEVARD MOHAMMED V",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102003662,
+        "Pharmacie_Name": "PHARMACIE ALANDALOUS",
+        "address": "131 AVENUE MOHAMED VI SOUISSI",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102060696,
+        "Pharmacie_Name": "PHARMACIE DES ECOLES",
+        "address": "SECTEUR 22, K‐5, HAY RIAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102045028,
+        "Pharmacie_Name": "PHARMACIE NASSIM RYAD",
+        "address": "SECTEUR 21, N 47 AVENUE ASSANAOUBAR, BLOC O, HAY RYAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102041019,
+        "Pharmacie_Name": "PHARMACIE DU MAIL CENTRAL",
+        "address": "SECTEUR 9 ILOT 17, LOT 4, HAY RIAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102054780,
+        "Pharmacie_Name": "PHARMACIE SOUNDOUS",
+        "address": "3 HAMEAU AMAL GUICH OUDAYA",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102062676,
+        "Pharmacie_Name": "PHARMACIE RELAIS DES MEDECINS",
+        "address": "ADILOT 1 BM010 RYAD AL ANDALOUS, AVENUE ABDERRAHIM BOUABID MAGASIN 10 HAY RIAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102045978,
+        "Pharmacie_Name": "PHARMACIE DE L'AVENUE D'ALGER",
+        "address": "19 AVENUE D'ALGER , HASSAN",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102036886,
+        "Pharmacie_Name": "PHARMACIE KOUNOUZ",
+        "address": "RESIDENCE AL ARZ, IMM D, AVENUE AL ARZ, HAY RIAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102051620,
+        "Pharmacie_Name": "PHARMACIE SAFIYA",
+        "address": "2 AVENUE ANNAKHIL SECTEUR 8, HAY RIAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102025772,
+        "Pharmacie_Name": "PHARMACIE ELMOUNA",
+        "address": "9 RUE IBN TAIMIA, LOTISSEMENT EL KORA,AVENUE CHBANAT CITE YACOUB EL MANSOUR",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102036225,
+        "Pharmacie_Name": "PHARMACIE KASRY",
+        "address": "90 HAY AMAL 5, COMPLEMENTARIE, CYM, HAY EL FATH",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102006756,
+        "Pharmacie_Name": "PHARMACIE ALKHAWARIZMI",
+        "address": "1180 AVENUE EL MENZEH, Hay EL MENZEH CYM",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102004322,
+        "Pharmacie_Name": "PHARMACIE ALBOUCHRA",
+        "address": "511 Avenue AL MAJD , BLOC B , AMAL 2 , CYM",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102025988,
+        "Pharmacie_Name": "PHARMACIE ELOUMNIA",
+        "address": "81 AVENUE MOHAMED VI , ROUTE ZAERS",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102037272,
+        "Pharmacie_Name": "PHARMACIE DE LA COTE",
+        "address": "15 SECTEUR AO , AVENUE ELKIFAH , YACOUB EL MANSOUR",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102036274,
+        "Pharmacie_Name": "PHARMACIE AL KAWTAR",
+        "address": "18 RUE INBIAT , BOUITAT",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102011541,
+        "Pharmacie_Name": "PHARMACIE ASSABAH",
+        "address": "RESIDENCE ESSABAH , LOT 7 C3 , IMM IMILCHIL , CYM",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102063757,
+        "Pharmacie_Name": "PHARMACIE REGRAGUI",
+        "address": "42 RESIDENC ATTAWFIK, PLAGE HARHOURA",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102016805,
+        "Pharmacie_Name": "PHARMACIE BOUREGREG",
+        "address": "120 BLOC 60, SECTEUR B, YOUSSOUFIA",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102062296,
+        "Pharmacie_Name": "PHARMACIE MY ALI CHRIF",
+        "address": "468 AVENUE MOULAY ALI CHRIF",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102061140,
+        "Pharmacie_Name": "PHARMACIE JNANE ENAHDA",
+        "address": "RESIDANCE JNANE ENNAHDA, G1, IMM 8, N6",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102037744,
+        "Pharmacie_Name": "PHARMACIE LA MARNE",
+        "address": "42 RUE PATRICE LUMUMBA",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102062718,
+        "Pharmacie_Name": "PHARMACIE DOUM",
+        "address": "AVENUE GOUNDAFA, PARTI 21162126213 HAY ABI REGRAG, YOUSSOUFIA",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102003522,
+        "Pharmacie_Name": "PHARMACIE ALOE‐VERA",
+        "address": "443HAY BIS AMAL 5 MASSIRA CYM, HAY EL FATH",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102015542,
+        "Pharmacie_Name": "PHARMACIE BERBICH",
+        "address": "12 AVENUE AL GHAZALI LES ORANGERS",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 1020063591,
+        "Pharmacie_Name": "PHARMACIE GUELZIM",
+        "address": "HAY NAHDA 1, GR 6, N°504, GROUPE AL AAHAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102008281,
+        "Pharmacie_Name": "PHARMACIE ALMOUNTALAK",
+        "address": "23 CITE AL MOUNTALAK, HAY FATH CYM",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102028933,
+        "Pharmacie_Name": "PHARMACIE GALIEN",
+        "address": "ANGLE BD MOHAMED BELHASSAN EL OUAZZANI ET RUE SANHAJA, SOUISSI",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102058344,
+        "Pharmacie_Name": "PHARMACIE ZIADY",
+        "address": "AV ESSALAM, 2 BIS, SECTEUR B OUEST, CYM 10050",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102024965,
+        "Pharmacie_Name": "PHARMACIE ELKOUAS",
+        "address": "732 AV MASSIRA EL KHADRA, SECTEUR J5, CYM 10050",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102050796,
+        "Pharmacie_Name": "PHARMACIE RIYAD",
+        "address": "8 AV ANNAKHIL, CENTRE COMM, RIYAD 1, SECTEUR 21 , HAY RIAD 10100",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102037777,
+        "Pharmacie_Name": "PHARMACIE LA MEDINA",
+        "address": "6 RUE BAB CHELLAH 10000",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102006848,
+        "Pharmacie_Name": "PHARMACIE ALKIFAH",
+        "address": "BD AL KIFAH CYM 26 D.A 10050",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102042744,
+        "Pharmacie_Name": "PHARMACIE MIMOSAS",
+        "address": "HAY EL FATH, RESIDENCE MIMOSAS",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102032489,
+        "Pharmacie_Name": "PHARMACIE HAYTHAM",
+        "address": "119 AV DE LA RESISTANCE, OCEAN",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102040292,
+        "Pharmacie_Name": "PHARMACIE LOUBARIS",
+        "address": "AV MOHAMMED BEL HASSAN OUZZANI, SOUISSI",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102064169,
+        "Pharmacie_Name": "PHARMACIE BAYT ALMAARIFA",
+        "address": "AV ALLAL AL FASSI MADINATE AL IRFANE, AGDAL, RESIDANCE POUR ETUDIANTS BAYT AL MAARIFA",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102042785,
+        "Pharmacie_Name": "PHARMACIE MINARET",
+        "address": "252 AV HASSAN II, DIOUR JAMAA",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102027489,
+        "Pharmacie_Name": "PHARMACIE ESSALAM",
+        "address": "2 AVENUE ESSALAM SECTEUR G",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102030558,
+        "Pharmacie_Name": "PHARMACIE HASSANIA",
+        "address": "2 AVENUE AHMED REDA GUEDIRA N° 12P,HAY NAHDA I",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102041878,
+        "Pharmacie_Name": "PHARMACIE MAZHAR",
+        "address": "127 AVENUE EL MAJD, AMAL 3,CYM",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102061215,
+        "Pharmacie_Name": "PHARMACIE RIAD AL OTOR",
+        "address": "149 VILLA SECT 25 RIAD AL OTOR HAY RIAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102049640,
+        "Pharmacie_Name": "PHARMACIE RABI",
+        "address": "RESIDENCE ERRABIA HAY NAHDA I",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102048170,
+        "Pharmacie_Name": "PHARMACIE DU PARC",
+        "address": "57 AVENUE MOHAMED 6",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102021953,
+        "Pharmacie_Name": "PHARMACIE DU CROISSANT",
+        "address": "65 AVENUE SIDI MED BENABDELLAH AKKARI",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102024700,
+        "Pharmacie_Name": "PHARMACIE EL KARMA",
+        "address": "187 BLOC L DOUAR ELGARAA CYM",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102005204,
+        "Pharmacie_Name": "PHARMACIE ALHAMD",
+        "address": "BLOC G,N°5 AV ALMASSIRA AL KOUASS CYM",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102026101,
+        "Pharmacie_Name": "PHARMACIE EL WAHDA",
+        "address": "69 C GROUPE EL WAHDA HAY NAHDA II TAKADDOUM",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102061330,
+        "Pharmacie_Name": "PHARMACIE KSAR LABHAR",
+        "address": "6 BLOC B,MARCHE KSAR BHAR,AKKARI",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102003811,
+        "Pharmacie_Name": "PHARMACIE ALARAAR",
+        "address": "2 AVENUE AL ARAAR,RES ISPAHAN,HAY RYAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102033578,
+        "Pharmacie_Name": "PHARMACIE IBN ZOHR",
+        "address": "19 AVENUE ALKIFAH,BLOC C",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102060100,
+        "Pharmacie_Name": "PHARMACIE HAY ALKORA",
+        "address": "93 SIDI EL YABOURI C.Y.M",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102019650,
+        "Pharmacie_Name": "PHARMACIE CITY CENTER",
+        "address": "RUE MEZYATA,ANGLEAVENUE ALMELIA",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102034972,
+        "Pharmacie_Name": "PHARMACIE ISWANE",
+        "address": "37 RUE JAAFAR ESSADIK,RESIDENCE LAKHDAR,AGDAL",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102045937,
+        "Pharmacie_Name": "PHARMACIE DE L'OCEAN",
+        "address": "54 AVENUE ABDELKRIM ELKHATTABI,OCEAN",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102015153,
+        "Pharmacie_Name": "PHARMACIE BENJELLOUN",
+        "address": "3 RUE ZERHOUN,SOUISSI",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102015096,
+        "Pharmacie_Name": "PHARMACIE BENI SNASSEN",
+        "address": "AVENUE MEHDI BEN BARKA,SOUISSI SHAMPION,EN FACE DE INEJ",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102007580,
+        "Pharmacie_Name": "PHARMACIE AL MASJID",
+        "address": "AVENUE SIDI MED BEN ABDELLAH N°9,11,13,ET 15 CYM",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102010048,
+        "Pharmacie_Name": "PHARMACIE ANASSE",
+        "address": "AVENUE HASSAN II RESIDENCE IFRANE AGDAL",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102064961,
+        "Pharmacie_Name": "PHARMACIE MOULAY ISMAIL",
+        "address": "24 AVENUE MOULAY ISMAIL N°4 BIS HASSAN",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102066768,
+        "Pharmacie_Name": "PHARMACIE LOUKA NESS PHARMA",
+        "address": "23 AVENUE MOHAMED VI ROUTE DES ZAERES",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102004025,
+        "Pharmacie_Name": "PHARMACIE ALBAHJA",
+        "address": "AVENUE AL MAJD, RESIDENCE AL BAHJA, N5‐6, CYM",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102063815,
+        "Pharmacie_Name": "PHARMACIE MAJIPHARMA",
+        "address": "CENTRE COMMERCIAL LABEL VIE ZAERS",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102061942,
+        "Pharmacie_Name": "PHARMACIE RHAOUTI",
+        "address": "HOPITAL CHEIKH ZAID, MADINAT AL IRFAN",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102029691,
+        "Pharmacie_Name": "PHARMACIE EL GUICH",
+        "address": "N38 CENTRE COMMERCIAL GUICH L OUDAYA",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102041266,
+        "Pharmacie_Name": "PHARMACIE MARASSA",
+        "address": "ANGLE AVENUE MISR ET RUE QUOBROS OCEAN",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102063484,
+        "Pharmacie_Name": "PHARMACIE PRESTIGIA",
+        "address": "RYAD EL ANDALOUS MAGASIN N°1, HAY RIAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102028974,
+        "Pharmacie_Name": "PHARMACIE GARE AGDAL",
+        "address": "GARE ONCF, RABAT AGDAL",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102024627,
+        "Pharmacie_Name": "PHARMACIE EL JOULANE",
+        "address": "54 HAY NAHDA II EXTENTION EL YOUSSOUFIA",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102018017,
+        "Pharmacie_Name": "PHARMACIE CENTRE CHEQUES POSTAUX",
+        "address": "45 AVENUE MOULAY ISMAIL, HASSAN",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102023827,
+        "Pharmacie_Name": "PHARMACIE ALJAZAA",
+        "address": "AVENUE MOHAMED V 75‐77 LAAGZA MEDINA",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102057643,
+        "Pharmacie_Name": "PHARMACIE YOUSSOUFIA",
+        "address": "N 13‐14‐15‐16 CITE YOUSOUFIA",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102057684,
+        "Pharmacie_Name": "PHARMACIE DES ZAERS",
+        "address": "COMPLEXE SUPER SOUISSI, AVENUE MOHAMMED VI",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102050028,
+        "Pharmacie_Name": "PHARMACIE RANIA",
+        "address": "RUE ATTAMAR SECTEUR 3 N°9 RESIDENCE RAHMA HAY RIAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102020161,
+        "Pharmacie_Name": "PHARMACIE DAHAB",
+        "address": "72 BIS AVENUE HAJ HASSAN AKKARI",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102063781,
+        "Pharmacie_Name": "PHARMACIE CARRE SANTE BEAUTE",
+        "address": "AVENUE MEHDI BEN BARKA CHAUMIERE 1 N2 HAY RIAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102004124,
+        "Pharmacie_Name": "PHARMACIE AL BARAKA",
+        "address": "26 RUE OULED HRIZ AVIATION",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102041498,
+        "Pharmacie_Name": "PHARMACIE BOUREGREG",
+        "address": "CENTRE COMMERCIAL MARGANE BOUREGREG, RUE AZILAL, QUARTIER HASSAN",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102007051,
+        "Pharmacie_Name": "PHARMACIE AL MAGHRIB AL ARABI",
+        "address": "AVENUE AL MAGHREB AL ARABI, N 21‐23",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102060712,
+        "Pharmacie_Name": "PHARMACIE LA MURAILLE",
+        "address": "14 AVENUE IBN TOUMARET, LES ORANGERS AGDAL",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102020542,
+        "Pharmacie_Name": "PHARMACIE DAR ESSALAM",
+        "address": "607 HAY ENNAHDA N 1, TAKADDOUM",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102054285,
+        "Pharmacie_Name": "PHARMACIE DOUNIA SOLEIL",
+        "address": "16 ZANKAT DAR EL BEIDA HASSAN",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102028610,
+        "Pharmacie_Name": "PHARMACIE LA FIDELITE",
+        "address": "AV MEHDI BEN BERKA SECTEUR 11 BLOC D N15 HAY RYAD",
+        "city": "RABAT"
+      },
+      {
+        "INPE": 102060340,
+        "Pharmacie_Name": "PHARMACIE MECCA",
+        "address": "AVENUE AILANTHUS SECTEUR 23 RESIDENCE LES CHENES HAY RIAD",
+        "city": "RABAT"
+      }
+    ],
+    "CASABLANCA": [
+      {
+        "INPE": 92024173,
+        "Pharmacie_Name": "PHARMACIE EL HAY",
+        "address": "DAR LAMANE, BLOC P, MAGA. N°6, HAY MOHAMMADI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92060508,
+        "Pharmacie_Name": "PHARMACIE OUADOUDY",
+        "address": "HAY NASSIM, IMM 400 N° 2, LISSASFA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92049949,
+        "Pharmacie_Name": "PHARMACIE RAIS",
+        "address": "62 RUE DE LA MER BALTIQUE, AIN DIAB",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92028331,
+        "Pharmacie_Name": "PHARMACIE FARIS",
+        "address": "928 BOULEVAR MOHAMMED VI ROUTE DE MEDIOUNA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92049337,
+        "Pharmacie_Name": "PHARMACIE LE PRINTEMPS",
+        "address": "10 RUE AHMED FARISS",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92039536,
+        "Pharmacie_Name": "PHARMACIE LAMORICIERE",
+        "address": "33 RUE TARABLOUS",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92060516,
+        "Pharmacie_Name": "PHARMACIE ELRHAZI",
+        "address": "N 25/26 GH 18 RIAD EL OULFA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92009984,
+        "Pharmacie_Name": "PHARMACIE ANAFE",
+        "address": "37 RUE FELIX EL MAX GUEDJ",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92056290,
+        "Pharmacie_Name": "PHARMACIE TISSIR II",
+        "address": "58 AVENUE A HAY TISSIR HAY MOHAMMADI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92013572,
+        "Pharmacie_Name": "PHARMACIE BACHKOU",
+        "address": "ERAC BACHKOU ILLOT A IMM N° 47‐48",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92020197,
+        "Pharmacie_Name": "PHARMACIE DAHBI",
+        "address": "BLOC 66 , N 13 , BIS 2 SIDI OTHMANE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92051952,
+        "Pharmacie_Name": "PHARMACIE SALAHEDDINE",
+        "address": "756 BOULEVARD OUED SEBOU .HAY OULFA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92018357,
+        "Pharmacie_Name": "PHARMACIE CHAOUI",
+        "address": "497 BOULEVARD EL FIDA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92063940,
+        "Pharmacie_Name": "PHARMACIE SAMI",
+        "address": "ROUTE NATIONALE N 9, LOT87, LOTISSEMENT ANNAIM",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92020742,
+        "Pharmacie_Name": "PHARMACIE DU MARCHE CENTRAL",
+        "address": "152 BOULEVARD MOHAMED V",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92062835,
+        "Pharmacie_Name": "PHARMACIE CAMYA",
+        "address": "LOTISSMANT LINA,LOT N316, RU 13 N1, SIDI MAAROUF",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92063346,
+        "Pharmacie_Name": "PHARMACIE ABDELHAK",
+        "address": "DOUAR LAHLALFA CHARKIA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92042654,
+        "Pharmacie_Name": "PHARMACIE MILAD",
+        "address": "283 BOULEVARD SIDI ABDRRAHMANE CIL, HAY HASSANI, AIN CHOK",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92042456,
+        "Pharmacie_Name": "PHARMACIE MERYEM",
+        "address": "19 BOULEVEVARD IBN SINA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92028208,
+        "Pharmacie_Name": "PHARMACIE FAOUZ",
+        "address": "138 BOULEVARD DAKHLA, JAMILA5, CITE DJEMAA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92041169,
+        "Pharmacie_Name": "PHARMACIE MAMOUNIA",
+        "address": "20 PLACE SIDI MOHAED, CASA VOYAGEUR, BELVEDRE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92031046,
+        "Pharmacie_Name": "PHARMACIE HAY KARAM",
+        "address": "98 AVENUE BIS C, HAY KARAM. SIDI BERNOUSSI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92064146,
+        "Pharmacie_Name": "PHARMACIE DYAR ALWAFAA",
+        "address": "LOTISSEMENT OULD HARRE N46, BD OKBA IBNOU NAFII, BOURNAZEL",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92027168,
+        "Pharmacie_Name": "PHARMACIE ES‐SAADA",
+        "address": "2 AVENUE ALI YATA, HAY MOHAMMED I",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92001197,
+        "Pharmacie_Name": "PHARMACIE ABOUZAID",
+        "address": "RUE 36, N°4 MASSIRA II, BOURNAZL",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92001734,
+        "Pharmacie_Name": "PHARMACIE AFAK",
+        "address": "220 BLC RUE 6 N74, HAY MOHAMMEDI 20350",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92033034,
+        "Pharmacie_Name": "PHARMACIE IBN SINA",
+        "address": "319 BD CHOUHADA, HAY MOHAMMEDI 20350",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92051606,
+        "Pharmacie_Name": "PHARMACIE SAFIR",
+        "address": "16 RUE NICHAKARA RAHAL, EX RUE DE TOURS",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92054865,
+        "Pharmacie_Name": "PHARMACIE DES STADES",
+        "address": "50 RUE AL FOURAT",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92012392,
+        "Pharmacie_Name": "PHARMACIE AUTOROUTES",
+        "address": "ANATARIA 1, RUE JABEL HABRI, N1",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92048107,
+        "Pharmacie_Name": "PHARMACIE DES PAPILLONS",
+        "address": "36 RUE CHASSEUR JULES GROS, OASIS",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92006972,
+        "Pharmacie_Name": "PHARMACIE ALMAALI",
+        "address": "45 RUE V, HAY MOULAY RACHID GROUPE 6",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92037332,
+        "Pharmacie_Name": "PHARMACIE DE LA DECOUVERTE",
+        "address": "7 LOT AL MOUSTAKBAL, ROUTE 1029, SIDI MAAROUF",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92062066,
+        "Pharmacie_Name": "PHARMACIE ANOUAL",
+        "address": "ANG BOULEVARD ANOUAL ALLEE DU LION",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92044031,
+        "Pharmacie_Name": "PHARMACIE MOUMEN",
+        "address": "RUE 31 N 47‐51 DERB FOUKARA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92048586,
+        "Pharmacie_Name": "PHARMACIE DU POLO",
+        "address": "56 BD NADOR, POLO",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92051424,
+        "Pharmacie_Name": "PHARMACIE SAADIA",
+        "address": "88 AV FORCES AUXILIAIRES. HAY RAJAA 2, BOURNAZEL SIDI OTHMANE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92030675,
+        "Pharmacie_Name": "PHARMACIE HAY ALKARIA",
+        "address": "56 RUE 8, GROUPE 2, SIDI MOUMEN JDID",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92057025,
+        "Pharmacie_Name": "PHARMACIE VIE",
+        "address": "RUE BERLIOZ ET BD BAHMAD LOT 19, BELVEDERE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92040500,
+        "Pharmacie_Name": "PHARMACIE LYS PHARMA",
+        "address": "687 ANG BD OUED SEBOU E RUE 150 OEL ULFA, HAY HASSANI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92036748,
+        "Pharmacie_Name": "PHARMACIE KASSARIAT",
+        "address": "68 BLC N6, CITE DJEMAA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92011386,
+        "Pharmacie_Name": "PHARMACIE ARSALANE",
+        "address": "114 BD HASSAN ALAOUI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92026251,
+        "Pharmacie_Name": "PHARMACIE ELYOUSR",
+        "address": "32 BD DE LA GIRONDE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92040492,
+        "Pharmacie_Name": "PHARMACIE LYCEE MOHAMMED V",
+        "address": "28 RUE SALONIQUE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92035849,
+        "Pharmacie_Name": "PHARMACIE KABLI",
+        "address": "0 LOT FARAJ N 126. SIDI MAAROUF",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92042936,
+        "Pharmacie_Name": "PHARMACIE MOULAY ABDELLAH",
+        "address": "ZAOUIAT RUE 300 ET RUE 271 N 27/29, AIN CHOK",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92042829,
+        "Pharmacie_Name": "PHARMACIE MIRABEL",
+        "address": "5 RUE DES FAUVETTES",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92040211,
+        "Pharmacie_Name": "PHARMACIE DE LORRAINE",
+        "address": "52 BD RAHAL EL MESKINI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92004357,
+        "Pharmacie_Name": "PHARMACIE ALBOUDOUR",
+        "address": "115 RUE SEBTA, QUARTIER DES HOPITAUX",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 162064133,
+        "Pharmacie_Name": "PHARMACIE FNIDEQ",
+        "address": "AV IMAM AZAFI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 162021117,
+        "Pharmacie_Name": "PHARMACIE DERDABI",
+        "address": "SAKIA FOUKIA FENDAK NEJJAR, N7",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 162051593,
+        "Pharmacie_Name": "PHARMACIE SAFIR",
+        "address": "AV SIDI MOHAMED ELKHARRAZ, LOT BARAKA, N2",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 162003065,
+        "Pharmacie_Name": "PHARMACIE ALABAWAINE",
+        "address": "254 AV CHEIKH BENLARBI ALAOUI. BOUJERRAH",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 162035174,
+        "Pharmacie_Name": "PHARMACIE JAMAA MEZOUAK",
+        "address": "26 AV AL MAMOUNE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 152010336,
+        "Pharmacie_Name": "PHARMACIE ANISSA",
+        "address": "33 RUE 9 JUILLET",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142016880,
+        "Pharmacie_Name": "PHARMACIE BOUSLIKHANE",
+        "address": "HAY WIFAK, N 160, ROUTE AIN SMEN",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 102065018,
+        "Pharmacie_Name": "PHARMACIE ZONE INDUSTRIELLE",
+        "address": "N 51‐53, RUE TAOUFIK EL HAKIM, HAY EL OUHDA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 102010493,
+        "Pharmacie_Name": "PHARMACIE ANNASR",
+        "address": "75 AV KHALID BEN WALID",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 132029349,
+        "Pharmacie_Name": "PHARMACIE GRANADA",
+        "address": "1314 LOT MARJANE II, ROUTE D'AGOURAY",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 132065533,
+        "Pharmacie_Name": "PHARMACIE ZERKTOUNI",
+        "address": "108 RUE MOHAMMED ZERKTOUNI, HAY NASR, OUISLANE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 82059031,
+        "Pharmacie_Name": "PHARMACIE DE LA FACULTE DE MEDECINE",
+        "address": "DAR TALIBA 1 ET 2",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 102045093,
+        "Pharmacie_Name": "PHARMACIE DES NATIONS UNIES",
+        "address": "19 RUE JBEL AYACHI AGDAL",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 102043361,
+        "Pharmacie_Name": "PHARMACIE MOULAY YOUSSEF",
+        "address": "184 AV SIDI MED BEN ABDELLAH. AKKARI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 102052263,
+        "Pharmacie_Name": "PHARMACIE SALSABIL",
+        "address": "MAGASIN 2, MOSQUEE KARRAKCHOU.SECTEUR 3, HAY RIAD",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 102016003,
+        "Pharmacie_Name": "PHARMACIE BISMILLAH",
+        "address": "HAY BOUREGREG, RUE N 88, N31, YOUSSOUFIA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 102019130,
+        "Pharmacie_Name": "PHARMACIE CHIFAA",
+        "address": "4 AV HASSAN II, SIGAL SIGALON",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 102064540,
+        "Pharmacie_Name": "PHARMACIE BOUCHAM",
+        "address": "18 RUE BANI MALIK, AVIATION",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142064401,
+        "Pharmacie_Name": "PHARMACIE ALNAJOUA",
+        "address": "1 RUE N°9 HAY MIKOU MERJA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142020452,
+        "Pharmacie_Name": "PHARMACIE DAR DMANA",
+        "address": "64 RUE N°3 HAFRAT BENNIS BAB KHOKHA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142041417,
+        "Pharmacie_Name": "PHARMACIE MARHABA",
+        "address": "RUE 2N°98 SIDI BRAHIM",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142047513,
+        "Pharmacie_Name": "PHARMACIE OUM EL BANINE",
+        "address": "10 AVENUE AHMED MEKOUAR BAB LHADID",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142006881,
+        "Pharmacie_Name": "PHARMACIE AL KORACHI",
+        "address": "RUE IBN KHALDOUN HAY AL AZHAR ROUTE AIN CHKEF",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142025675,
+        "Pharmacie_Name": "PHARMACIE EL MOUAHIDINE",
+        "address": "14 PLACE MAGHREB ARABI HAY AZZELLAH DOKKARAT",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142064666,
+        "Pharmacie_Name": "PHARMACIE LES CHAMPS",
+        "address": "7 HAY TAZI MERJA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142009851,
+        "Pharmacie_Name": "PHARMACIE L'AMITIE",
+        "address": "232 BOULVARD MOHAMED EL FASSI HAY ADARISSA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142001825,
+        "Pharmacie_Name": "PHARMACIE AGADIR",
+        "address": "9 LOTISSEMENT N°2 HAY SALAM AIN KADOUS",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 152064747,
+        "Pharmacie_Name": "PHARMACIE RIF",
+        "address": "AGADIR CENTRE CR AJDIR",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 82009960,
+        "Pharmacie_Name": "PHARMACIE ANACIHA",
+        "address": "98 RUE TARIK BEN ZIAD",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142034875,
+        "Pharmacie_Name": "PHARMACIE ISMAILIA",
+        "address": "BOULVARD ISMAILIA LOT LAHLOU LOT N°10 MONT FLEURI 1",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142013291,
+        "Pharmacie_Name": "PHARMACIE BAB ELGUISSA",
+        "address": "25 BAB EL GUISSA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142042647,
+        "Pharmacie_Name": "PHARMACIE MIL ROSES",
+        "address": "ROUTE DIMMOUZER AV PRINCE MLY ABDELLAH",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142064468,
+        "Pharmacie_Name": "PHARMACIE LA CRIEE",
+        "address": "11 QUARTIER EL AMANE BENSOUDA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142016534,
+        "Pharmacie_Name": "PHARMACIE BOUGHAFER",
+        "address": "29 RUE BOUGHAFER NARJISS A",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142051176,
+        "Pharmacie_Name": "PHARMACIE ROUTE DE MEKNES",
+        "address": "1 RUE N°13 HAY KARIM AMRANI DOKKARAT",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142024454,
+        "Pharmacie_Name": "PHARMACIE EL IRAKI",
+        "address": "3 RUE N°26 BENSOUDA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142034388,
+        "Pharmacie_Name": "PHARMACIE IMAM ALI",
+        "address": "23 RUE IMAM MALIK",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142064724,
+        "Pharmacie_Name": "PHARMACIE LAHBABI",
+        "address": "AVENUE BEYROUT RES RAWD ALAZHAR MONTFLEURI I",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142064419,
+        "Pharmacie_Name": "PHARMACIE ASSAFAE",
+        "address": "N° A29 C2 HAY LMASSIRA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142064591,
+        "Pharmacie_Name": "PHARMACIE JABRI",
+        "address": "AVENUE IBN EL KHATIB LOTISSEMENT SEPRONOR II N°33",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142050194,
+        "Pharmacie_Name": "PHARMACIE RCIF",
+        "address": "BAB JDID ROUTE NOUVELLE DE LA MEDINA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 142057520,
+        "Pharmacie_Name": "PHARMACIE YASSINE",
+        "address": "LOTISSEMENT JABRI ROUTE AIN CHKEF FES V.N",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92003672,
+        "Pharmacie_Name": "PHARMACIE ALANDALOUSS",
+        "address": "411 BOULVARD DRISS EL HARTY HAY AL BARAKA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92025618,
+        "Pharmacie_Name": "PHARMACIE EL MOKHTAR",
+        "address": "19 BOULVARD DE LA GRANDE CEINTURE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92039999,
+        "Pharmacie_Name": "PHARMACIE LA LIBERTE",
+        "address": "104 BOULVARD DE PARIS",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92023076,
+        "Pharmacie_Name": "PHARMACIE ELANOUAR",
+        "address": "BIN LAMDOUN,RUE17 N°34 BIS,ALFIDA DERB SULTAN",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92005552,
+        "Pharmacie_Name": "PHARMACIE ALHIKMA",
+        "address": "8 RUE ABOU ALAA ZAHAR QUARTIER DES HOPITAUX",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92035377,
+        "Pharmacie_Name": "PHARMACIE JAWAD",
+        "address": "HAY MLY RACHID RUE N°5 N°60 BOURNAZEL",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92027036,
+        "Pharmacie_Name": "PHARMACIE ESPACE SANTE",
+        "address": "CENTRE COMMERCIAL MARJANE ROUTE DE NOUASSER",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92042365,
+        "Pharmacie_Name": "PHARMACIE MERCURE",
+        "address": "2 RUE WOROUD",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92026210,
+        "Pharmacie_Name": "PHARMACIE ELYACOUT",
+        "address": "43 RUE BAGHDAD AIN CHOCK QUARTIER EL YACOUT",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92043355,
+        "Pharmacie_Name": "PHARMACIE BD MOULAY YOUSSEF",
+        "address": "139 BOULVARD MOULAY YOUSSEF",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92024041,
+        "Pharmacie_Name": "PHARMACIE EL HAOUZIA",
+        "address": "114 BOULVARD DIX MARS SIDI OYHMAN",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92015379,
+        "Pharmacie_Name": "PHARMACIE BENSALAH",
+        "address": "26 AVENUE SAAD ABOUJEMAA BOURNAZEL HAY MOULAY RACHID 1",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92040062,
+        "Pharmacie_Name": "PHARMACIE LES LILAS MAURICE GO",
+        "address": "4 RUE REAUMUR BD ABDELMOUMEN",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92020080,
+        "Pharmacie_Name": "PHARMACIE CROIX DU SUD",
+        "address": "62 RUE MOHAMED SEDKI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92020817,
+        "Pharmacie_Name": "GRANDE PHARMACIE DE PARIS",
+        "address": "60 RUE ALLAL BEN ABDELLAH",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92031434,
+        "Pharmacie_Name": "PHARMACIE HICHAM",
+        "address": "298 BOULEVARD PANAORAMIQUE, AIN CHOCK",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92043978,
+        "Pharmacie_Name": "PHARMACIE MOUHSSINE",
+        "address": "834 AVENUE DEUX MARS PROLOGNE HAY INARA I",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92039882,
+        "Pharmacie_Name": "PHARMACIE LEMRANI",
+        "address": "31 HAY NASSIM,LISSASFA HAY HASSANI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92029057,
+        "Pharmacie_Name": "PHARMACIE GHAFIRI",
+        "address": "22 RUE ABOUOUOUASSE ET BD TERRAINS DE SPORTS FERME BRETONE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92018787,
+        "Pharmacie_Name": "PHARMACIE CHERKAOUI",
+        "address": "9 RUE AVENIR,N37 DERB ABDALLAH A.N",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92024256,
+        "Pharmacie_Name": "PHARMACIE EL HILAL",
+        "address": "77 RUE BACHIR LAALAJ CITE PALATEAU",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92006139,
+        "Pharmacie_Name": "PHARMACIE ALINARA",
+        "address": "921 BOULVARD II MARS",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92048446,
+        "Pharmacie_Name": "PHARMACIE DU PHARE",
+        "address": "16 AVENUE DU DOCTEUR MED SIJELMASSI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92052471,
+        "Pharmacie_Name": "PHARMACIE SARA",
+        "address": "RESIDENCE AL KAWTAR N°2,T092 ADDOHA SIDI MOUMEN",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92000470,
+        "Pharmacie_Name": "PHARMACIE 20 AOUT",
+        "address": "17 RUE LAHCEN EL ARJOUNE QUARTIER DES HOPITAUX",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92051549,
+        "Pharmacie_Name": "PHARMACIE SABRINE",
+        "address": "165 RUE 11 AMAL 1,SIDI BERNOUSSI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92009802,
+        "Pharmacie_Name": "PHARMACIE AMINE",
+        "address": "65 AVENUE ABOUBAKER EL KADIRE SIDI MAAROUF LOT AMINE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92018076,
+        "Pharmacie_Name": "PHARMACIE CHAAB",
+        "address": "HAY MLYABDELLAH RUE 226,N23‐25 AIN CHOCK",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92046002,
+        "Pharmacie_Name": "PHARMACIE OLIVERI",
+        "address": "55 RUE OTHMANE BNOU AFFANE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92051044,
+        "Pharmacie_Name": "PHARMACIE ROUDANI",
+        "address": "26 BOULVARD BRAHIM ROUDANI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92027127,
+        "Pharmacie_Name": "PHARMACIE ESPOIR SANTE",
+        "address": "28 AVENUE BIS TIZI OUSLI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92022680,
+        "Pharmacie_Name": "PHARMACIE ROUTE D EL JADIDA",
+        "address": "240 ROUTE D EL JADIDA MAARIF EXENSION,ANFA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92020312,
+        "Pharmacie_Name": "PHARMACIE DANTON",
+        "address": "47 BOULVARD BIR ANZARANE MAARIF",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92032358,
+        "Pharmacie_Name": "PHARMACIE IBN BATTOUTA",
+        "address": "78 RUE IBN BATOUTA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92043835,
+        "Pharmacie_Name": "PHARMACIE MOUAD",
+        "address": "59 BOULVARD BERRECHID AIN CHOCK",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92052919,
+        "Pharmacie_Name": "PHARMACIE SHAHRAZAD",
+        "address": "158 RUE AZZOUHOUR GARAGE ALLAL",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92049386,
+        "Pharmacie_Name": "PHARMACIE DU PROGRES",
+        "address": "9 PLACE DU 16 NOVEMBRE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92060565,
+        "Pharmacie_Name": "PHARMACIE ANFAPLACE",
+        "address": "CENTRE COMMERCIAL ANFAPLACE, BOULEVARD DE LA CORNICHE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92062009,
+        "Pharmacie_Name": "PHARMACIE DAR ALKARAM",
+        "address": "IMM 17 MAG3 RESIDENCE AL KARAM",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92064559,
+        "Pharmacie_Name": "PHARMACIE TAMAAROUFT",
+        "address": "4 RUE TAMAAROUFT BOURGONE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92065721,
+        "Pharmacie_Name": "PHARMACIE ZENITH MILLENIUM",
+        "address": "162 LOTISSEMENT FLORIDA SIDI MAAROUF",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92028984,
+        "Pharmacie_Name": "PHARMACIE GARE CASA VOYAGEURS",
+        "address": "238 ANGLE BOULEVARD BA HMAD, RUE ABOU ABBAS JIRAOUI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92065515,
+        "Pharmacie_Name": "PHARMACIE KHALEF AZZEDINE",
+        "address": "13 RUE SIJILMASSA BELVEDERE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92041359,
+        "Pharmacie_Name": "PHARMACIE MARCHE DE GROS",
+        "address": "676 AVENUE CDE DRISS ELHARTI CITE DJEMAA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92029339,
+        "Pharmacie_Name": "PHARMACIE GOURAUD",
+        "address": "142 AVENUE MLY HASSAN 1ER",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92028554,
+        "Pharmacie_Name": "PHARMACIE FERRARA",
+        "address": "WIFAQ 4 RUE 123 LOT 265",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92036714,
+        "Pharmacie_Name": "PHARMACIE KHOULOUD",
+        "address": "HAY YASMINA 4 RUE 68,N2",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92065473,
+        "Pharmacie_Name": "PHARMACIE ALMADINA ALJADIDA",
+        "address": "LA NOUVELLE MEDINA DE SIDI OTHMANE, RUE DE CHAUSSEE, IMM C, BOULEVARD A, SIDI OTHMANE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92030949,
+        "Pharmacie_Name": "PHARMACIE HAY EL WIAM",
+        "address": "252 BOULVARD H OULFA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92011022,
+        "Pharmacie_Name": "PHARMACIE ARIJ",
+        "address": "BOULEVARD DAMANE, N 5, CALIFORNIE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92046879,
+        "Pharmacie_Name": "PHARMACIE OUED ZEM",
+        "address": "69 BOULEVARD OUED ZEM, QUARTIER JAWADI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92060524,
+        "Pharmacie_Name": "PHARMACIE ALIDRISSI",
+        "address": "7 LOTISSEMENT ANASSI GRANDE EXTENTION, AHL LORHLAM",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92063304,
+        "Pharmacie_Name": "PHARMACIE LOUBILA",
+        "address": "16 RUE N15 QUARTIER LOUBILA, BOULEVARD ANK, BOURGOGNE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92040120,
+        "Pharmacie_Name": "PHARMACIE LISSASFA",
+        "address": "KM9 ROUTE D EL JADIDA, MATCHE LISSASFA, N 72‐73, LISSASFA 2",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92030170,
+        "Pharmacie_Name": "PHARMACIE DES HALLES",
+        "address": "87 RUE RADI SLAOUI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92013911,
+        "Pharmacie_Name": "PHARMACIE BAHJA",
+        "address": "RUE N° 135, BOULEVARD BERRECHID, AIN CHOCK",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92001064,
+        "Pharmacie_Name": "PHARMACIE ABI REGRAG",
+        "address": "ANGLE BOULEVARD ABI REGREG ET RUE 3 OULFA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92029800,
+        "Pharmacie_Name": "PHARMACIE HACHAD",
+        "address": "142 RUE N° 5, DERB KOREA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92050509,
+        "Pharmacie_Name": "PHARMACIE RIAD ANDALOUS",
+        "address": "37 RUE N°19 ANDALOUS 5 POLO",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92040419,
+        "Pharmacie_Name": "PHARMACIE LOUZA",
+        "address": "GROUPEN°1, RUE J, N°55, HAY MOULAY RACHID",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92041557,
+        "Pharmacie_Name": "PHARMACIE PUISSANCE PHARMA",
+        "address": "6 PLACE SIDI MAAROUF",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92030592,
+        "Pharmacie_Name": "PHARMACIE HASSINI",
+        "address": "3 IMMEUBLE N°3 PANORAMA 1, AHL LOGHLAM. BERNOUSSI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92030998,
+        "Pharmacie_Name": "PHARMACIE HAY ESSALAMA",
+        "address": "22 BOULEVARD MOHAMED BOUZIANE HAY SALAMA III SIDI OTHMAN",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92048958,
+        "Pharmacie_Name": "PHARMACIE PORTE D'ANFA",
+        "address": "197 BOULVARD BOURGOGNE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92037266,
+        "Pharmacie_Name": "PHARMACIE LA CORNICHE",
+        "address": "319 BOULEVARD MOULAY YOUSSEF",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92021773,
+        "Pharmacie_Name": "PHARMACIE DOUNIA ERAHA",
+        "address": "HAY WIFAQ 3 RUE 64 N°299 EL OULFA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92016211,
+        "Pharmacie_Name": "PHARMACIE DE BORDEAUX",
+        "address": "164 BOULEVARD DE BORDEAUX",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92056308,
+        "Pharmacie_Name": "PHARMACIE TIT MELLIL",
+        "address": "LOTISSEMENT N°13, LOT AMAL, TIT MELILL",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92018381,
+        "Pharmacie_Name": "PHARMACIE DE LA CHAOUIA",
+        "address": "416 RUE GOULMIMA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92064955,
+        "Pharmacie_Name": "PHARMACIE FOUARAT",
+        "address": "23 BOULEVARD FOUARAT C.C QODSII, BERNOUSSI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92033893,
+        "Pharmacie_Name": "PHARMACIE IBTISSAMA",
+        "address": "BLOC N°67,N43 MANSOUR3,SIDI BERNOUSSI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92021518,
+        "Pharmacie_Name": "PHARMACIE DISPENSAIRE",
+        "address": "110 RUE BACHIR BELHOUCINE JAMILA 4, SBATA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92022391,
+        "Pharmacie_Name": "PHARMACIE DU TAC",
+        "address": "BOULEVARD BIRANZARANE, MARCHE DERBEGALLEF A COTE SNACK AMINE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92045327,
+        "Pharmacie_Name": "PHARMACIE THOMAS",
+        "address": "286 RESIDENCE DALIA, OULAD GHALIA, SIDI MOUMEN",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92010917,
+        "Pharmacie_Name": "PHARMACIE LES ARCADES",
+        "address": "3 RUE ROUISSI, ROUTE EL JADIDA, OASIS",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92010867,
+        "Pharmacie_Name": "PHARMACIE AOURIR",
+        "address": "52 RUE LAGRAMTA, OASIS",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92025188,
+        "Pharmacie_Name": "PHARMACIE EL MANAL",
+        "address": "320 BOULEVARD OUM ERRABII, EL OULFA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92055839,
+        "Pharmacie_Name": "PHARMACIE TAYEB",
+        "address": "25 RUE DERB ASSALAMA, N°27 CITE DJEMAA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92009224,
+        "Pharmacie_Name": "PHARMACIE AL WAHDA",
+        "address": "RUE DR MOHAMED BOUAFI, JAMILA 2. N°3 CITE DJAMAA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92044981,
+        "Pharmacie_Name": "PHARMACIE NASSER",
+        "address": "RUE 48, 11. HAY AL MASJID. SIDI MAARPUF 4",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92067248,
+        "Pharmacie_Name": "PHARMACIE TOUATI",
+        "address": "RIAD SOFIA T2, M1, LISSASFA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92000975,
+        "Pharmacie_Name": "PHARMACIE ABDESSAMAD",
+        "address": "HAY AL AZHAR, ZONE 14, BLOC 12, N 4 ET 5, AHL LOGHLAM",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92044312,
+        "Pharmacie_Name": "PHARMACIE MURDOCHE",
+        "address": "17 RUE DU PARC",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92003268,
+        "Pharmacie_Name": "PHARMACIE AL AHRAM",
+        "address": "106 BOULEVARD MAKDAD LAHRIZI, CITE DJEMAA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92020940,
+        "Pharmacie_Name": "PHARMACIE DENNAY",
+        "address": "MAGASIN N°1 ET 3, DYAR ESSAADA, SIDI MOUMEN",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92016815,
+        "Pharmacie_Name": "PHARMACIE BOURGOGNE",
+        "address": "341 BOULEVARD ZERKTOUNI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92017144,
+        "Pharmacie_Name": "PHARMACIE CADUCEE",
+        "address": "337 BOULEVARD MOHAMMED V",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92066331,
+        "Pharmacie_Name": "PHARMACIE MASJID AL ANDALOUS",
+        "address": "MUNICIPALITE AHL LOGHLAM ANASSI 24",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92037134,
+        "Pharmacie_Name": "PHARMACIE LA BRISE",
+        "address": "38 RUE ABOU ABBAS EL AZFI, MAARIF",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92060086,
+        "Pharmacie_Name": "PHARMACIE RIAD EL OULFA",
+        "address": "LOTISSEMENT RIAD EL OULFA GROUPE 5, LOCAL N 241/243, EL OULFA, DAR BOUAZZA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92043884,
+        "Pharmacie_Name": "PHARMACIE MOUBARAKA",
+        "address": "6 BLOC N 1, HAY MOUBARAKA, AL QODS BERNOUSSI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92024306,
+        "Pharmacie_Name": "PHARMACIE EL HOUDA",
+        "address": "19 BOULEVARD LAMARTINE, 2 MARS",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92046424,
+        "Pharmacie_Name": "PHARMACIE OTMANI",
+        "address": "114 RUE N 20, HAY MASSIRA II, BOURNAZEL",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92026608,
+        "Pharmacie_Name": "PHARMACIE ENNOUR",
+        "address": "219 BOULEVARD ABOU DAR GHAFARI, LOT TARIK, SIDI BERNOUSSI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92057579,
+        "Pharmacie_Name": "PHARMACIE YASSINE",
+        "address": "19 RUE DE LILLE BELVEDERE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92068402,
+        "Pharmacie_Name": "PHARMACIE BELHOUJI",
+        "address": "ANASSI EXTENTION GH 116 ENT 06,N102 AHL LOGHLAM",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92049659,
+        "Pharmacie_Name": "PHARMACIE RABII",
+        "address": "LOTISSEMENT HOUDA AVENUE MOHAMED BILAFRIJ N44‐46 SIDI MOUMEN",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92015486,
+        "Pharmacie_Name": "PHARMACIE BENTALEB",
+        "address": "DERB ALKOUDIA RUE 22 N10 CITE DJAMAA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92000900,
+        "Pharmacie_Name": "PHARMACIE ABDELLATIF",
+        "address": "BD MOHAMED ZEFZEF LOT AL HADIKA SIDI MOUMEN",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92010321,
+        "Pharmacie_Name": "PHARMACIE ANISSA",
+        "address": "312 LOTISSEMENT ZOUBIR",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92062314,
+        "Pharmacie_Name": "PHARMACIE AL FATIHA",
+        "address": "N°3 KHALIL,RUE SANHAJA,HAY MOHAMMADI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92016864,
+        "Pharmacie_Name": "PHARMACIE DE LA BOURSE",
+        "address": "117 BOULEVARD MOHAMMED V",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92034651,
+        "Pharmacie_Name": "PHARMACIE DE L'INDUSTRIE",
+        "address": "80 BOULEVARD CHEFCHAOUNI KM11,5 QUARTIER INDUSTRIEL SIDI BERNOUSSI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92027606,
+        "Pharmacie_Name": "PHARMACIE ESSEHA",
+        "address": "1 RUE N108 HAY ESSALAMA1",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92029156,
+        "Pharmacie_Name": "PHARMACIE GHARBI",
+        "address": "AMAL 4 RUE 28 N71 SIDI BERNOUSSI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92044346,
+        "Pharmacie_Name": "PHARMACIE NABILA",
+        "address": "13 LOT GHIZLANE ANGLE BOULEVARD FOUARAT ET OULAD ZIANE HAY TISSIR",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92049311,
+        "Pharmacie_Name": "PHARMACIE DES PRINCIPAUTES",
+        "address": "HAY AL AZHAR SIDI BERNOUSSI",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92004340,
+        "Pharmacie_Name": "PHARMACIE AL BOUCHRA",
+        "address": "HAY MASSIRA II RUE 44 N° 79 BEN MSIK",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92060722,
+        "Pharmacie_Name": "PHARMACIE ATTENMIA",
+        "address": "RESIDENCE SOUFIANE IMM B2 N1 SIDI MAAROUF",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92014174,
+        "Pharmacie_Name": "PHARMACIE BAYT AL FATH",
+        "address": "6 RESIDENCE BAYT AL FATH QUARTIER BEAUSITE AIN SBAA",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92028711,
+        "Pharmacie_Name": "PHARMACIE FELEMING",
+        "address": "275 ROUTE LA MECQUE",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92062991,
+        "Pharmacie_Name": "PHARMACIE ARAFAT",
+        "address": "GH11 IMM 6 N°1 LOTISSEMENT AL AEHAR SIDI MOUMEN",
+        "city": "CASABLANCA"
+      },
+      {
+        "INPE": 92021765,
+        "Pharmacie_Name": "PHARMACIE DOUNIA",
+        "address": "JAMILA V RUE 145,N108‐108 BIS CITE DJEMAA SBATA",
+        "city": "CASABLANCA"
+      }
+    ],
+    "MEKNES": [
+      {
+        "INPE": 132062480,
+        "Pharmacie_Name": "PHARMACIE HAY LAOUIJA",
+        "address": "N 14, RUE 5, LAMSALA",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132062571,
+        "Pharmacie_Name": "PHARMACIE SQUALLI",
+        "address": "N 20 MARJANE 1, TRANCHE 1",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132062704,
+        "Pharmacie_Name": "PHARMACIE OCEAN",
+        "address": "N6, TRANCHE 6 RESIDENCE SIJILMASSA",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132030529,
+        "Pharmacie_Name": "PHARMACIE HASSAN PREMIER",
+        "address": "Avenue Hassan 1er, Résidence 20 Aout, Ville nouvelle",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132019043,
+        "Pharmacie_Name": "PHARMACIE CHIFAA",
+        "address": "3 LOTISSEMENT EDDAHBIA. BOUFEKRANE",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132034893,
+        "Pharmacie_Name": "PHARMACIE ISRAE",
+        "address": "88 AV ASSAADIYNE, V N",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132031352,
+        "Pharmacie_Name": "PHARMACIE HAYATI",
+        "address": "18 OLM SUD, ELBASSATINE",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132017757,
+        "Pharmacie_Name": "PHARMACIE CENTRALE",
+        "address": "15 AVENUE MOHAMED V",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132019969,
+        "Pharmacie_Name": "PHARMACIE CORNETTE",
+        "address": "10 PLACE DR GIGUET V.N MEKNES",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132046038,
+        "Pharmacie_Name": "PHARMACIE OLM",
+        "address": "277 ALEM III ELBASSATINE",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132066366,
+        "Pharmacie_Name": "PHARMACIE AYA",
+        "address": "N69 GROUPE 3 B.M.O DOUAR JDID",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132066523,
+        "Pharmacie_Name": "PHARMACIE KORTOBA",
+        "address": "4 LOTISSEMENT KORTOBA,SECTEU 1 IMM29,KORTOBA",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132035007,
+        "Pharmacie_Name": "PHARMACIE ITRIE",
+        "address": "GRANDE GARE ONCF DE MEKNES",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132038381,
+        "Pharmacie_Name": "PHARMACIE LA ROSEE",
+        "address": "MAGAZIN N 01 ANGLE BOULEVARD MOULAY YOUSSEF ET ABOU ALI BEN RAHAL, VILLE NOUVELLE HAMRIYA",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132045709,
+        "Pharmacie_Name": "PHARMACIE NOUVELLE",
+        "address": "18 AVENUE HASSAN II",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132002387,
+        "Pharmacie_Name": "PHARMACIE AIN CHOUBIK",
+        "address": "542 RUE SAKIA LHAMRA AIN CHOUBIK, BMO",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132027830,
+        "Pharmacie_Name": "PHARMACIE EZZAHWA",
+        "address": "228 LOTISSEMENT EZZAHWA, AIN MAOZA",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132054016,
+        "Pharmacie_Name": "PHARMACIE SIJILMASSA",
+        "address": "1004 MARJANE 5,SIDI BOUZEKRI",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132067927,
+        "Pharmacie_Name": "PHARMACIE ROUTE SEFITA",
+        "address": "12 RESIDENCE SIJILMASSA, AVENUE MOHAMED VI",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132068032,
+        "Pharmacie_Name": "PHARMACIE AL QODS ARIAD",
+        "address": "56 AVENUE IBN ZAYDOUNE, RIAD",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132007329,
+        "Pharmacie_Name": "PHARMACIE AL MANAR",
+        "address": "MAG 7,8,9 IMMA6,A7 RESIDENCE AL MANAR 1",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132068305,
+        "Pharmacie_Name": "PHARMACIE IBN TOFAIL",
+        "address": "NASSIM1 TRANCHE 2 N°116 MARJANE",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132067893,
+        "Pharmacie_Name": "PHARMACIE PHARMASSAL",
+        "address": "800 LOTISSEMENT AL MANSOUR",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132067901,
+        "Pharmacie_Name": "PHARMACIE PHARMASSAL.M",
+        "address": "ASSAKINA 1, IMMEUBLE N 3, MAG 3, RIAD TOULAL II",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132068529,
+        "Pharmacie_Name": "PHARMACIE RIAD TOULAL",
+        "address": "I 122 RIAD TOULAL",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132068644,
+        "Pharmacie_Name": "PHARMACIE AVENUE DE L'HOPITAL",
+        "address": "1 DAR AL ATFAL SIDI SAID",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132007832,
+        "Pharmacie_Name": "PHARMACIE AL MASSIRA",
+        "address": "5 AVENUE KHALID IBN OUALID",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132068917,
+        "Pharmacie_Name": "PHARMACIE TOUHAMA",
+        "address": "N70 LOT NAIM",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132062357,
+        "Pharmacie_Name": "PHARMACIE EL MAMOUNIA",
+        "address": "ROUTE DE FES REDIDENCE FADWA",
+        "city": "MEKNES"
+      },
+      {
+        "INPE": 132008236,
+        "Pharmacie_Name": "PHARMACIE AL MOUNA",
+        "address": "346 ALM EXTENTION 6 EL BASSATINE",
+        "city": "MEKNES"
+      }
+    ],
+    "TANGER": [
+      {
+        "INPE": 162015960,
+        "Pharmacie_Name": "PHARMACIE BISMIALLAH",
+        "address": "12 AVENUE DRISS 1er RESIDENCE EL KHEIR",
+        "city": "TANGER"
+      },
+      {
+        "INPE": 162015069,
+        "Pharmacie_Name": "PHARMACIE BENI OURIAGUEL",
+        "address": "N°128 B, BENI OURIAGUEL 1, ROUTE PRINCIPALE SIDI IDRISS, BNDIBANE",
+        "city": "TANGER"
+      },
+      {
+        "INPE": 162050660,
+        "Pharmacie_Name": "GRANDE PHARMACIE RIF",
+        "address": "17 AV MLY ALI CHRIF, BENI MAKADA 90000",
+        "city": "TANGER"
+      },
+      {
+        "INPE": 162043202,
+        "Pharmacie_Name": "PHARMACIE MOULAY ISMAIL",
+        "address": "BOULEVARD MLY SMAIL RESIDENCE ZAHARAE",
+        "city": "TANGER"
+      },
+      {
+        "INPE": 162034425,
+        "Pharmacie_Name": "PHARMACIE IMAM CHATEBI",
+        "address": "RUE AJDIR IMM ASSALAM, BLOC C N°1 MISTER KHOUCH",
+        "city": "TANGER"
+      },
+      {
+        "INPE": 162043384,
+        "Pharmacie_Name": "PHARMACIE MLY YOUSSEF",
+        "address": "50 BOULEVARD MOULAY YOUSSEF",
+        "city": "TANGER"
+      },
+      {
+        "INPE": 162034730,
+        "Pharmacie_Name": "PHARMACIE IRCHAD",
+        "address": "3 LOTISSEMENT AL AOUAMA, B,P 4045",
+        "city": "TANGER"
+      },
+      {
+        "INPE": 162048375,
+        "Pharmacie_Name": "PHARMACIE PASTEUR",
+        "address": "3 PLACE DE France",
+        "city": "TANGER"
+      },
+      {
+        "INPE": 162068936,
+        "Pharmacie_Name": "PHARMACIE HAY AL BOUGHAZ",
+        "address": "HAY AL BOUGHAZ RUE 3 N°9 MOUWADIFINE",
+        "city": "TANGER"
+      }
+    ],
+    "AGADIR": [
+      {
+        "INPE": 42060905,
+        "Pharmacie_Name": "PHARMACIE ELOUAZZANY",
+        "address": "RESIDENCE FAL OUMLIL , N 206 HAY MOHAMMADI",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42010975,
+        "Pharmacie_Name": "PHARMACIE ARGANE",
+        "address": "37 RUE IBN ATTIA, ERAC BOUIRGANE",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42063933,
+        "Pharmacie_Name": "PHARMACIE ALADOUIYA",
+        "address": "31 LOTISSEENT A, ZAITOUNE, ROUTE PRINCIPALE TIKIOUINE",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42001941,
+        "Pharmacie_Name": "PHARMACIE AGHARASS",
+        "address": "95 AVENUE ALLAL EL FASSI, BOUARGANE",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42054338,
+        "Pharmacie_Name": "PHARMACIE SOLEIL",
+        "address": "AVENUE KENNEDY, IMM.ANOUAR. TALBORDJT",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42040006,
+        "Pharmacie_Name": "PHARMACIE LA LIBERTE",
+        "address": "AV BIR ANZARANE, ROUTE PRINCIPALE DCHIRA 80000",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42011676,
+        "Pharmacie_Name": "PHARMACIE ASSAIS TIKIOUINE",
+        "address": "PLACE ASSAIS, TIKIOUINE, PROVINCE D'AGADIR",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42029942,
+        "Pharmacie_Name": "PHARMACIE HARDANE",
+        "address": "2 RUE IBN ARABI. QUARTIER INDUSTRIEL",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42034934,
+        "Pharmacie_Name": "PHARMACIE ISSAFARN N TADDART",
+        "address": "2911 BP6527 CITE TADDART ANZA",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42056127,
+        "Pharmacie_Name": "PHARMACIE TILDI",
+        "address": "4 BLOC 8 LOT TILDI RUE OUED ZIZ",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42060426,
+        "Pharmacie_Name": "PHARMACIE AFRICAINE",
+        "address": "HAY ADRAR AL BARAKA IMM GH 1, N5 TIKIOUINE",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42042184,
+        "Pharmacie_Name": "PHARMACIE MEKKA",
+        "address": "IMMEUBLE IBN ZOHR, N 21, HAY SIDI YOUSSEF",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42063735,
+        "Pharmacie_Name": "PHARMACIE PARIS",
+        "address": "MAGASIN N23, IMMEUBLE 6, PROGRAMME DARNA, RUE TALAT TIKIOUINE",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42013581,
+        "Pharmacie_Name": "PHARMACIE BACHOUCH",
+        "address": "EXTENTION DAKHLA, N445",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 42068858,
+        "Pharmacie_Name": "PHARMACIE JARDINS DE SOUSS",
+        "address": "IMM N50 COM25 RES LES JARDINS DE SOUSS",
+        "city": "AGADIR"
+      },
+      {
+        "INPE": 4205219,
+        "Pharmacie_Name": "PHARMACIE SALAM",
+        "address": "BD MESSAOUD AL OUIFKAOUI CITE SALAM",
+        "city": "AGADIR"
+      }
+    ],
+    "FES": [
+      {
+        "INPE": 142060672,
+        "Pharmacie_Name": "PHARMACIE BENNOUNA",
+        "address": "273 RUE IBN DERRAJ SEBTI HAY BADR",
+        "city": "FES"
+      },
+      {
+        "INPE": 142062413,
+        "Pharmacie_Name": "PHARMACIE ALIKHWA",
+        "address": "ROUTE AIN CHKEF, RCE MARBELLA LOT 3 IMM 28, MAGASIN N1",
+        "city": "FES"
+      },
+      {
+        "INPE": 142032523,
+        "Pharmacie_Name": "PHARMACIE IBN HAYTAM",
+        "address": "104 BOULEVARD KAIRAOUAN, NARJIS",
+        "city": "FES"
+      },
+      {
+        "INPE": 142062439,
+        "Pharmacie_Name": "PHARMACIE ALKHATTABI",
+        "address": "LOTISSEMENT DALILA RCE AL FIRDAOUS N6 , IMM 5 , ZWAGHA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142027416,
+        "Pharmacie_Name": "PHARMACIE ESSALAM",
+        "address": "LOTISSEMENT TAJ,AIN KADOUS HAY ESSALAM",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064872,
+        "Pharmacie_Name": "PHARMACIE ALALIA",
+        "address": "25 LOTISSEMENT NASSIME, ROUTE AIN CHKEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142013069,
+        "Pharmacie_Name": "PHARMACIE AZZOUZI",
+        "address": "47 AVENUE AL WAHDA, NARJISS B",
+        "city": "FES"
+      },
+      {
+        "INPE": 142039775,
+        "Pharmacie_Name": "PHARMACIE LE DOCTEUR",
+        "address": "73 AV ANWAL, NARJIS D 30000",
+        "city": "FES"
+      },
+      {
+        "INPE": 142028638,
+        "Pharmacie_Name": "PHARMACIE MOURCHID",
+        "address": "2 BD TTADHIA, NARJISS C 30000",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064633,
+        "Pharmacie_Name": "PHARMACIE TAHA",
+        "address": "LOT EL HADIKA N 242 ZC 30000",
+        "city": "FES"
+      },
+      {
+        "INPE": 142002534,
+        "Pharmacie_Name": "PHARMACIE AIN KADDOUS",
+        "address": "2ANG 204 ET 251 AIN KADDOUS",
+        "city": "FES"
+      },
+      {
+        "INPE": 142016054,
+        "Pharmacie_Name": "PHARMACIE BISMILLAH",
+        "address": "674 HAY WAHDA BENSOUDA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064385,
+        "Pharmacie_Name": "PHARMACIE ROUTE DIMMOUZER",
+        "address": "51 AV MOULAY ABDELLAH ROUTE DIMMOUZER",
+        "city": "FES"
+      },
+      {
+        "INPE": 142031038,
+        "Pharmacie_Name": "PHARMACIE HAY JDID",
+        "address": "788 RUE 33 ZOUAGHA HAUT HAY JDID",
+        "city": "FES"
+      },
+      {
+        "INPE": 142058536,
+        "Pharmacie_Name": "PHARMACIE ZKAK LAHJAR",
+        "address": "107 RUE LAHJAR FES MEDINA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142057421,
+        "Pharmacie_Name": "PHARMACIE YASMINE",
+        "address": "346 BD D'ORAN MT FLEURI 1",
+        "city": "FES"
+      },
+      {
+        "INPE": 142053388,
+        "Pharmacie_Name": "PHARMACIE SIDI BRAHIM",
+        "address": "13 BLC N°8 HAY QODS ERAC",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064260,
+        "Pharmacie_Name": "PHARMACIE L'OPERA",
+        "address": "5 LOT N° 94 AIT SKATTO ATLAS",
+        "city": "FES"
+      },
+      {
+        "INPE": 142047588,
+        "Pharmacie_Name": "PHARMACIE OUM ELKOURA",
+        "address": "41 RUE 6 HAY JDID ZOUAGHA HAUT",
+        "city": "FES"
+      },
+      {
+        "INPE": 142038819,
+        "Pharmacie_Name": "PHARMACIE LA VICTOIRE",
+        "address": "9 RUE ABI HORAIRA,ZOHOR 1",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064310,
+        "Pharmacie_Name": "PHARMACIE AIN AAMIR",
+        "address": "37 RUE EL FILAHA,HAY ANESS 3",
+        "city": "FES"
+      },
+      {
+        "INPE": 142034818,
+        "Pharmacie_Name": "PHARMACIE L'IRIS",
+        "address": "19 AV BINZERTE,ROUTE D'IMOUZZER",
+        "city": "FES"
+      },
+      {
+        "INPE": 142011329,
+        "Pharmacie_Name": "PHARMACIE ARRAZI",
+        "address": "ANG BOULEVARD MLY HICHAM ET ROUTE IMMOUZER",
+        "city": "FES"
+      },
+      {
+        "INPE": 142015254,
+        "Pharmacie_Name": "PHARMACIE BENNANI",
+        "address": "73 RUE 4 HAY TARIK 1",
+        "city": "FES"
+      },
+      {
+        "INPE": 142016112,
+        "Pharmacie_Name": "PHARMACIE BLED SKALIA",
+        "address": "1 RUE B4 SEHB ELWARD",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064781,
+        "Pharmacie_Name": "PHARMACIE MOUSSAOUI",
+        "address": "32 RUE 8 BLOC E, ELMARJA, OUED FES",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064757,
+        "Pharmacie_Name": "PHARMACIE OMARI",
+        "address": "4 RUE N°27 ,HAY SAADA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064765,
+        "Pharmacie_Name": "PHARMACIE IBN HAZM",
+        "address": "290 RUE EL AMAL, CITE OUAFA II",
+        "city": "FES"
+      },
+      {
+        "INPE": 142065002,
+        "Pharmacie_Name": "PHARMACIE LE PALAIS",
+        "address": "15 AV OMAR IBN KHATTAB, HAY TARIK 1",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064641,
+        "Pharmacie_Name": "PHARMACIE FLORIDA",
+        "address": "1 HAY ANASS 3,ROUTE AIN CHKEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142021013,
+        "Pharmacie_Name": "PHARMACIE DERB EL WARD",
+        "address": "AV IBN EL KHATIB LOT BEAUSEJOUR, ROUTE AIN CHKEF,RESIDENCE AL KAWTAR",
+        "city": "FES"
+      },
+      {
+        "INPE": 142022854,
+        "Pharmacie_Name": "PHARMACIE AL AMAL",
+        "address": "1 RUE CARRIERE BEN DEBBAB",
+        "city": "FES"
+      },
+      {
+        "INPE": 142001767,
+        "Pharmacie_Name": "PHARMACIE AFIFA",
+        "address": "AV IBN EL ATIR RES ANNOUR ROUTE AIN CHKEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142020767,
+        "Pharmacie_Name": "PHARMACIE DE France",
+        "address": "46 AV HASSAN II",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064369,
+        "Pharmacie_Name": "PHARMACIE JARDIN DE TGHAT",
+        "address": "18 COM AL ANDALOUS JBEL TGHAT OUED FES",
+        "city": "FES"
+      },
+      {
+        "INPE": 142031020,
+        "Pharmacie_Name": "PHARMACIE HAY HASSANI",
+        "address": "BLOC C1 N°4 HAY EL HASSANI ERAC SIDI BRAHIM",
+        "city": "FES"
+      },
+      {
+        "INPE": 142058569,
+        "Pharmacie_Name": "PHARMACIE ZOHOUR",
+        "address": "56 AV SOUSSA RUE ALBANIA ZOHOUR II",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064948,
+        "Pharmacie_Name": "PHARMACIE EL GHAZI",
+        "address": "LOT JAD 236 OUED FES",
+        "city": "FES"
+      },
+      {
+        "INPE": 142046622,
+        "Pharmacie_Name": "PHARMACIE OUADRHIRI",
+        "address": "2 RUE BADR CHAKIR AV ALLAL BEN ABDELLAH",
+        "city": "FES"
+      },
+      {
+        "INPE": 142043082,
+        "Pharmacie_Name": "PHARMACIE MOULAY EL KAMEL",
+        "address": "AV PRINCE HERITIER CHAMPS DES COURSE",
+        "city": "FES"
+      },
+      {
+        "INPE": 142052091,
+        "Pharmacie_Name": "PHARMACIE ASSALAMAH",
+        "address": "7 JORDANIE, V N",
+        "city": "FES"
+      },
+      {
+        "INPE": 142008671,
+        "Pharmacie_Name": "PHARMACIE AL QODS",
+        "address": "BENSOUDA,RUE PRINCIPAL",
+        "city": "FES"
+      },
+      {
+        "INPE": 142026160,
+        "Pharmacie_Name": "PHARMACIE EL WARDI",
+        "address": "HAY OUED FES LOT 1821,AIN KADOUS",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064773,
+        "Pharmacie_Name": "PHARMACIE AL HAMD",
+        "address": "3 LOT AMALI,EL MARJA,ZOUAGHA SOUFLA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064435,
+        "Pharmacie_Name": "PHARMACIE DE PARIS",
+        "address": "156 AV ORAN RUE DE PARIS MONT FLEURI I",
+        "city": "FES"
+      },
+      {
+        "INPE": 142016963,
+        "Pharmacie_Name": "PHARMACIE BOUZIANE",
+        "address": "40 JNANE BENKIRANE",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064443,
+        "Pharmacie_Name": "PHARMACIE EL MAMMERY",
+        "address": "LOT AL MADINA 28 ROUTE BENSOUDA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064617,
+        "Pharmacie_Name": "PHARMACIE AIN CHKEF",
+        "address": "3 CTRE AIN CHKEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142004688,
+        "Pharmacie_Name": "PHARMACIE AL FARABI",
+        "address": "LOT HAJOUI EL MASSIRA A DOKKARAT",
+        "city": "FES"
+      },
+      {
+        "INPE": 142048362,
+        "Pharmacie_Name": "PHARMACIE PASTEUR",
+        "address": "LOT C1 HAY ESSALAM BOURKAIZ",
+        "city": "FES"
+      },
+      {
+        "INPE": 142050087,
+        "Pharmacie_Name": "PHARMACIE RAVIN",
+        "address": "26 RUE OMAR CHARIF EL IDRISSI V.N",
+        "city": "FES"
+      },
+      {
+        "INPE": 142054790,
+        "Pharmacie_Name": "PHARMACIE SOUNNI",
+        "address": "HAY EL ADARISSA IMM 17 N°3 ROUTEAIN CHKEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142054774,
+        "Pharmacie_Name": "PHARMACIE SOUNSOUS",
+        "address": "LOT OUED FES RUE 23",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064799,
+        "Pharmacie_Name": "PHARMACIE ERRACHID",
+        "address": "HAY OUIFAK,RUE 9 N°36‐38, BEN DEBBAB",
+        "city": "FES"
+      },
+      {
+        "INPE": 142055904,
+        "Pharmacie_Name": "PHARMACIE TAZI",
+        "address": "11 LOT LAHBABI DAKKARAT",
+        "city": "FES"
+      },
+      {
+        "INPE": 142057074,
+        "Pharmacie_Name": "PHARMACIE VOLUBILIS",
+        "address": "70 AV MOTOUABI V.N",
+        "city": "FES"
+      },
+      {
+        "INPE": 142063825,
+        "Pharmacie_Name": "PHARMACIE IBN ALHASSAN",
+        "address": "AV ABI IMRANE AL FASSI, AIN KADOUSS A COTE HOPITAL IBN AL HASSAN",
+        "city": "FES"
+      },
+      {
+        "INPE": 142060706,
+        "Pharmacie_Name": "PHARMACIE BELBACHA",
+        "address": "11 AV HAJ MOHAMED BAHNINI ROUTE HAY ENNAKHIL",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064633,
+        "Pharmacie_Name": "PHARMACIE TAHA",
+        "address": "N242 ZC,LOT EL HADIKA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142012525,
+        "Pharmacie_Name": "PHARMACIE AVERROES",
+        "address": "9 RUE IBN HAJJAR,L'HABITAT V.N",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064690,
+        "Pharmacie_Name": "PHARMACIE OULAD MAAREF",
+        "address": "DIOURS OULAD MAAREF CENTRE AIN CHKEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142026525,
+        "Pharmacie_Name": "PHARMACIE ENNASSIRI",
+        "address": "LOTISSEMENT BADR,IMM 5B,ROUTE AIN SMEN",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064526,
+        "Pharmacie_Name": "PHARMACIE YOUSFI",
+        "address": "41 LOTISSEMENT LAZRAK AVENUE HADRI,MONTFLEURI II",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064674,
+        "Pharmacie_Name": "PHARMACIE ALOUM",
+        "address": "46 LOTISSEMENT NABIL MERJAZOOGA SOUFLA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142028265,
+        "Pharmacie_Name": "PHARMACIE FARAH",
+        "address": "LOTISSEMENT 13 FARAH II,HAY FARAH",
+        "city": "FES"
+      },
+      {
+        "INPE": 142054956,
+        "Pharmacie_Name": "PHARMACIE TADAMOUN",
+        "address": "1 BIS RUE 18 N°23,BLED MEGZAI",
+        "city": "FES"
+      },
+      {
+        "INPE": 142048024,
+        "Pharmacie_Name": "PHARMACIE LES PALMIERS",
+        "address": "14 AVENUE HASSAN II, V.N",
+        "city": "FES"
+      },
+      {
+        "INPE": 142051861,
+        "Pharmacie_Name": "PHARMACIE SAISS",
+        "address": "13 BLOC PAM,BENSOUDA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142034016,
+        "Pharmacie_Name": "PHARMACIE IDRISSI",
+        "address": "25 ROUTE BIS AIT SKATO,ROUTE D'AIN CHKEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142040088,
+        "Pharmacie_Name": "PHARMACIE LINA",
+        "address": "119 BOULVARD EL MAJD,NARJIS C,ROUTE DE SEFROU",
+        "city": "FES"
+      },
+      {
+        "INPE": 142005727,
+        "Pharmacie_Name": "PHARMACIE EL HOUDA",
+        "address": "BOULVARD ABI HORAIRA,MONT FLEURI 1",
+        "city": "FES"
+      },
+      {
+        "INPE": 142015445,
+        "Pharmacie_Name": "PHARMACIE BENSOUDA",
+        "address": "3 QUARTIER MSALLA,BENSOUDA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142012780,
+        "Pharmacie_Name": "PHARMACIE ELAZHAR",
+        "address": "RESIDENCE ADARISSA II,IMM C2 N°9",
+        "city": "FES"
+      },
+      {
+        "INPE": 142009760,
+        "Pharmacie_Name": "PHARMACIE AMINE",
+        "address": "23 BIS TARIK JDIDA RCIF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064609,
+        "Pharmacie_Name": "PHARMACIE ALMARWA",
+        "address": "LOT 2 ET 3 ROUTE DE MEKNES",
+        "city": "FES"
+      },
+      {
+        "INPE": 142042407,
+        "Pharmacie_Name": "PHARMACIE MERINIDES",
+        "address": "24 HAY BENZAKOUR,LOT FIGUIGUI DHAR LAKHMISS",
+        "city": "FES"
+      },
+      {
+        "INPE": 142042233,
+        "Pharmacie_Name": "PHARMACIE MEKOUAR",
+        "address": "37 RUE DU TRAIN DEBUT ROUTE D'IMMOUZZER,PLACE DU TRIBUNAL DE 1ER INSTANCE",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064880,
+        "Pharmacie_Name": "PHARMACIE IBN BATTOUTA",
+        "address": "33 JNANE BENCHRIF,BAB ALKHOUKHA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064302,
+        "Pharmacie_Name": "PHARMACIE DES ROCHES",
+        "address": "69H LOTISSEMENT RIYAD AL YASSAMINE ROUTE DE AIN CHEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142009901,
+        "Pharmacie_Name": "PHARMACIE AMRANI",
+        "address": "3 AVENUE LALLA MERYEM VILLE NOUVELLE",
+        "city": "FES"
+      },
+      {
+        "INPE": 142063874,
+        "Pharmacie_Name": "PHARMACIE SALAH",
+        "address": "Q4 116 HADIKA OUED FES",
+        "city": "FES"
+      },
+      {
+        "INPE": 142015643,
+        "Pharmacie_Name": "PHARMACIE BAYROUT",
+        "address": "139 AVENUE BEYROUT MONT FLEURI 1",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064625,
+        "Pharmacie_Name": "PHARMACIE CHIFAE ARRAHMANE",
+        "address": "135 B LOTISSEMENT LAYMOUNE ROUTE DE MEKNES",
+        "city": "FES"
+      },
+      {
+        "INPE": 142011519,
+        "Pharmacie_Name": "PHARMACIE ASMAE",
+        "address": "122 NARNIS 42 RUE ERRACHAD",
+        "city": "FES"
+      },
+      {
+        "INPE": 142037399,
+        "Pharmacie_Name": "PHARMACIE LA FAMILLE",
+        "address": "119 BOULVARD CHENGUIT ZOHOUR II V N",
+        "city": "FES"
+      },
+      {
+        "INPE": 142055656,
+        "Pharmacie_Name": "PHARMACIE TARIK",
+        "address": "86 LOTISSEMENT TARIQ II,ROUTE BENSOUDA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064484,
+        "Pharmacie_Name": "PHARMACIE BLANCO",
+        "address": "94 LOTISSEMENT YASSMINE,ROUTE AIN CHEKEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064948,
+        "Pharmacie_Name": "PHARMACIE ELGHAZI",
+        "address": "LOTISSEMENT JAD 236 OUED FES",
+        "city": "FES"
+      },
+      {
+        "INPE": 142015262,
+        "Pharmacie_Name": "PHARMACIE EL MALHI",
+        "address": "3 RUE N°2 HAY TARIK I DOKKARAT",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064237,
+        "Pharmacie_Name": "PHARMACIE ANOUAL",
+        "address": "1 BLOC F NOUVEAU SECTEUR AIN KADOUS",
+        "city": "FES"
+      },
+      {
+        "INPE": 142019157,
+        "Pharmacie_Name": "PHARMACIE CHIFAE",
+        "address": "AVENUE DES FAR ROUTE DE MEKNES",
+        "city": "FES"
+      },
+      {
+        "INPE": 142050582,
+        "Pharmacie_Name": "PHARMACIE RIBAT ELKHEIR",
+        "address": "ROUTE DE L'HOPITAL RIBAT EEL KHEIR",
+        "city": "FES"
+      },
+      {
+        "INPE": 142039676,
+        "Pharmacie_Name": "PHARMACIE LA LAVANDE",
+        "address": "12 RUE N°2 HAY RAJAE CHAMPS DE COURSES",
+        "city": "FES"
+      },
+      {
+        "INPE": 142002484,
+        "Pharmacie_Name": "PHARMACIE AIN HAROUN",
+        "address": "BOULVARD 202 N°287 AIN HAROUN",
+        "city": "FES"
+      },
+      {
+        "INPE": 142014091,
+        "Pharmacie_Name": "PHARMACIE BASMA",
+        "address": "1227 HAY EL JADID ZOUAGHA HAUTE",
+        "city": "FES"
+      },
+      {
+        "INPE": 142012780,
+        "Pharmacie_Name": "PHARMACIE ELAZHAR",
+        "address": "RESIDENCE ADARISSA II,HAY ADARISSA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142030782,
+        "Pharmacie_Name": "PHARMACIE HAY BENSLIMANE",
+        "address": "RUE N°1,N°72 BIS HAY BENSLIMANE DHAR LAKHMISS",
+        "city": "FES"
+      },
+      {
+        "INPE": 142010560,
+        "Pharmacie_Name": "PHARMACIE NASSIM",
+        "address": "3 BLOC N°6 HAY NASSIM BENSOUDA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142052828,
+        "Pharmacie_Name": "PHARMACIE SEKKAT",
+        "address": "22 HAY NAKHIL ROUTE D'AIN SMEN",
+        "city": "FES"
+      },
+      {
+        "INPE": 142012525,
+        "Pharmacie_Name": "PHARMACIE AVERROES",
+        "address": "9 RUE IBN HAJJAR,L'HABITAT V.N",
+        "city": "FES"
+      },
+      {
+        "INPE": 142048024,
+        "Pharmacie_Name": "PHARMACIE LES PALMIERS",
+        "address": "14 AVENUE HASSAN II, V.N",
+        "city": "FES"
+      },
+      {
+        "INPE": 142015445,
+        "Pharmacie_Name": "PHARMACIE BENSOUDA",
+        "address": "3 QUARTIER MSALLA,BENSOUDA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064427,
+        "Pharmacie_Name": "PHARMACIE MALAIKA",
+        "address": "HAY BADRE LOTISSEMENT MEHDI",
+        "city": "FES"
+      },
+      {
+        "INPE": 142026707,
+        "Pharmacie_Name": "PHARMACIE ERRACHIDIA",
+        "address": "38 LOTISSEMENT ERRACHIDI ROUTE AIN CHKEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142035443,
+        "Pharmacie_Name": "PHARMACIE JBEL TGHAT",
+        "address": "1 HAY TGHAT ,MOSQUE ARRAHMA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064450,
+        "Pharmacie_Name": "PHARMACIE DES PLATANES",
+        "address": "AVENUE OUAHDA N°6 HAY HASSANI ROUTE AIN CHKEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064534,
+        "Pharmacie_Name": "PHARMACIE AZZAHRAOUAYN",
+        "address": "1 BAB ATLAS LOT 41",
+        "city": "FES"
+      },
+      {
+        "INPE": 142034297,
+        "Pharmacie_Name": "PHARMACIE ILHAM",
+        "address": "56 HAY AL QODS BENSOUDA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064575,
+        "Pharmacie_Name": "PHARMACIE SAADI",
+        "address": "715 LOTISSEMENT QUARAOUIYINE ROUTE AIN CHKEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142013903,
+        "Pharmacie_Name": "PHARMACIE BAHJA",
+        "address": "BOULVARD MOHAMED V",
+        "city": "FES"
+      },
+      {
+        "INPE": 142028687,
+        "Pharmacie_Name": "PHARMACIE FIRDAOUS",
+        "address": "47 AVENUE AL MANAMA MONT FLEURI I",
+        "city": "FES"
+      },
+      {
+        "INPE": 142063981,
+        "Pharmacie_Name": "PHARMACIE DR OBTEL",
+        "address": "623 LOTISSEMENT A BAB ANDALOUS,ROUTE DE MEKNES MAGASIN N°2",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064393,
+        "Pharmacie_Name": "PHARMACIE KANDOUSSI",
+        "address": "132 HAY FARAH EL MASSIRA BENSOUDA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064500,
+        "Pharmacie_Name": "PHARMACIE AZZAYTOUNE",
+        "address": "LOTISSEMENT AZZAYTOUN KM 7 N°8 ROUTE RAS ELMA BANSOUDA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064328,
+        "Pharmacie_Name": "PHARMACIE BOULEVARD DU GOLAN",
+        "address": "BOULVARD DU GOLAN RUE MDIQ N°3 BIS,ATLAS",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064476,
+        "Pharmacie_Name": "PHARMACIE DIAMANT VERT",
+        "address": "886 LOTISSEMENT KARAOUANE ROUTE AIN CHKEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142066752,
+        "Pharmacie_Name": "PHARMACIE JINANE AIN CHKAF",
+        "address": "Z 194 LOT JINANE 1,AIN CHKAF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142060870,
+        "Pharmacie_Name": "PHARMACIE ALAMANE",
+        "address": "QUARTIER WIAME 1 ET 2 RESD AL AMANE, MASSIRA, BENSOUDA, BLOC A3",
+        "city": "FES"
+      },
+      {
+        "INPE": 142025113,
+        "Pharmacie_Name": "PHARMACIE EL MAJD",
+        "address": "AVENUE EL KARAOUINE N°23B NARJISS",
+        "city": "FES"
+      },
+      {
+        "INPE": 142034750,
+        "Pharmacie_Name": "PHARMACIE IRCHAD",
+        "address": "149 HAY AL WIFAQ, ROUTE AIN SMEN",
+        "city": "FES"
+      },
+      {
+        "INPE": 142002302,
+        "Pharmacie_Name": "PHARMACIE AIDA",
+        "address": "190 RUE N°6, HAY EL MANAL, DOUKKARAT",
+        "city": "FES"
+      },
+      {
+        "INPE": 142044056,
+        "Pharmacie_Name": "PHARMACIE MOUNAD",
+        "address": "17 RUE N°1, BLED RAISS, SEHB EL WARD",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064732,
+        "Pharmacie_Name": "PHARMACIE WAFI",
+        "address": "RESIDENCE JAWAHIR OMRANE, MERJA, ZOUAGHA BAS",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064377,
+        "Pharmacie_Name": "PHARMACIE NOUR EL HOUDA",
+        "address": "AVENUE ISRAAE, N146 YAH EL AMAL, NARJESS, ROUTE DE SEFROU",
+        "city": "FES"
+      },
+      {
+        "INPE": 142006287,
+        "Pharmacie_Name": "PHARMACIE AL IRFANE",
+        "address": "AVENUE EL KHATIB, ROUTE AIN CHKEF",
+        "city": "FES"
+      },
+      {
+        "INPE": 142006006,
+        "Pharmacie_Name": "PHARMACIE AL IKHLASSE",
+        "address": "KOUFA 85, ZOHOUR II, ROUTE DE SEFROU",
+        "city": "FES"
+      },
+      {
+        "INPE": 142013762,
+        "Pharmacie_Name": "PHARMACIE BADR",
+        "address": "ROUTE AIN SMEN, CITE ADARISSA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064518,
+        "Pharmacie_Name": "PHARMACIE DEMNATI",
+        "address": "HAY GRIOU, BLOC B, ZOUAGHA HAUTE",
+        "city": "FES"
+      },
+      {
+        "INPE": 142037324,
+        "Pharmacie_Name": "PHARMACIE DE LA CROIX VERTE",
+        "address": "112 BOULEVARD MOHAMMED V",
+        "city": "FES"
+      },
+      {
+        "INPE": 142067974,
+        "Pharmacie_Name": "PHARMACIE LYCEE TECHNIQUE",
+        "address": "74 LOTISSEMENT HAJAR, RUE TANTA ZOHOR 2",
+        "city": "FES"
+      },
+      {
+        "INPE": 142067966,
+        "Pharmacie_Name": "PHARMACIE MACHAE ALLAH",
+        "address": "ROUTE IMOUZAR OULED TAYEB",
+        "city": "FES"
+      },
+      {
+        "INPE": 142067941,
+        "Pharmacie_Name": "PHARMACIE FES SAIS",
+        "address": "MAGASIN N 4, LOT 41, LOT YASMINE, ROUTE D’IMMOUZARE",
+        "city": "FES"
+      },
+      {
+        "INPE": 142026269,
+        "Pharmacie_Name": "PHARMACIE AL YOUSR",
+        "address": "COMPLEXE ESSALAM ROUTE D'IMOUZZER",
+        "city": "FES"
+      },
+      {
+        "INPE": 142032606,
+        "Pharmacie_Name": "PHARMACIE IBN KHALDOUN",
+        "address": "BOULEVARD KARAOUIENE, NARJISS C",
+        "city": "FES"
+      },
+      {
+        "INPE": 142028729,
+        "Pharmacie_Name": "PHARMACIE COTEF",
+        "address": "LOTISSEMENT AL FATH N°4 ERAC, SIDI BRAHIM",
+        "city": "FES"
+      },
+      {
+        "INPE": 142003516,
+        "Pharmacie_Name": "PHARMACIE TALBI",
+        "address": "10 AVENUE ARRAHMA, NARJIS D",
+        "city": "FES"
+      },
+      {
+        "INPE": 142050434,
+        "Pharmacie_Name": "PHARMACIE RIAD",
+        "address": "N° 5/6 RUE EL ABED EL FASSI AV IBN KHATIB",
+        "city": "FES"
+      },
+      {
+        "INPE": 142066042,
+        "Pharmacie_Name": "PHARMACIE EL KARAM",
+        "address": "37 RUE BIS N°6, LOT NAJAH DHAR, EL KHAMISS",
+        "city": "FES"
+      },
+      {
+        "INPE": 142064716,
+        "Pharmacie_Name": "PHARMACIE ALAE ARRAHMANE",
+        "address": "LOTISSEMENT RIAD NARJES, AVENUE MERMORTE N°13 ROUTE DE SEFROU",
+        "city": "FES"
+      },
+      {
+        "INPE": 142014836,
+        "Pharmacie_Name": "PHARMACIE BENDEBBAB",
+        "address": "14 KISSARIAT BIS BOUCHOUIHA BENDEBBAB",
+        "city": "FES"
+      },
+      {
+        "INPE": 142031665,
+        "Pharmacie_Name": "PHARMACIE DE L'HOPITAL",
+        "address": "2 RUE MOHAMED DIOURI V.N",
+        "city": "FES"
+      },
+      {
+        "INPE": 142013143,
+        "Pharmacie_Name": "PHARMACIE BAB BOUJLOUD",
+        "address": "PLACE BAB BOUJLOUD MEDINA",
+        "city": "FES"
+      },
+      {
+        "INPE": 142067362,
+        "Pharmacie_Name": "PHARMACIE ADDOHA",
+        "address": "73 BLOC A ACOTE DU COLLEGE IDRISSI1",
+        "city": "FES"
+      },
+      {
+        "INPE": 142068725,
+        "Pharmacie_Name": "PHARMACIE RACHIDIA 3",
+        "address": "MAGASIN N33 LOT RACHIDIA 3, ROUTE AIN CHKEF",
+        "city": "FES"
+      }
+    ],
+    "KENITRA": [
+      {
+        "INPE": 52060456,
+        "Pharmacie_Name": "PHARMACIE ALAZHAR",
+        "address": "BIR RAMI EST N° 515",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52007663,
+        "Pharmacie_Name": "PHARMACIE ALMASJID",
+        "address": "26 Avenue de la RESISTANCE",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52047362,
+        "Pharmacie_Name": "PHARMACIE OULED OUJIH",
+        "address": "283 BLC C OULED OUJIH 14000",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52032612,
+        "Pharmacie_Name": "PHARMACIE IBN KHALDOUN",
+        "address": "158 RUE 7, HAY MAAMORA, SAKNIA 1",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52012077,
+        "Pharmacie_Name": "PHARMACIE DE L'ATLAS",
+        "address": "BLOC J N°1 EL HAOUZIA",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52063971,
+        "Pharmacie_Name": "PHARMACIE PROVINCE",
+        "address": "27 AVENUE HASSAN II",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52062460,
+        "Pharmacie_Name": "PHARMACIE SIHAM",
+        "address": "LOTISSEMENT MAGHREB ARABI D LOT 23",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52009370,
+        "Pharmacie_Name": "PHARMACIE ALWIAM",
+        "address": "714 LOTISSEMENT ISMAILIA ,ROUTE DE MEHDIA",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52032091,
+        "Pharmacie_Name": "PHARMACIE ISKAN CHAABI",
+        "address": "32 LOT SALAMA,MAG C3,BLOC H",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52013752,
+        "Pharmacie_Name": "PHARMACIE BADR",
+        "address": "26 AVENUE MANSOUR DAHBI",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52058872,
+        "Pharmacie_Name": "PHARMACIE AIT EL CADI",
+        "address": "AL MAGHREB ARABI D ,N°35",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52065844,
+        "Pharmacie_Name": "PHARMACIE DU RIF",
+        "address": "506 BIR RAMI EST",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52051166,
+        "Pharmacie_Name": "PHARMACIE ROUTE MEHDIA",
+        "address": "134 AZHAROUNE",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52050119,
+        "Pharmacie_Name": "PHARMACIE RAYANE",
+        "address": "LOTISSEMENT CORSICA, N°9",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52053147,
+        "Pharmacie_Name": "PHARMACIE SIDI AL BOUKHARI",
+        "address": "MAGHRIB ARABI C LOT N°60",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52044351,
+        "Pharmacie_Name": "PHARMACIE ABDERRAHMANE NACER",
+        "address": "5 RUE DE TANGER , N°1",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52056546,
+        "Pharmacie_Name": "PHARMACIE TOUIJER",
+        "address": "20 RUE HAMMAM LIF, KHABBAZAT",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52056421,
+        "Pharmacie_Name": "PHARMACIE TOLBIX",
+        "address": "154 BLOC F OULAD OUJIH",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52008745,
+        "Pharmacie_Name": "PHARMACIE EL KODS",
+        "address": "SECTEUR G1 LOT N°106 OULED OUJIH",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52063880,
+        "Pharmacie_Name": "PHARMACIE BELLA",
+        "address": "BOUTIQUE B9 MARJANE",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52043635,
+        "Pharmacie_Name": "PHARMACIE MOHSSINE",
+        "address": "107 AL MAGHREB AL ARABI, B EXTENSION",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52034741,
+        "Pharmacie_Name": "PHARMACIE IRCHAD",
+        "address": "177 AVENUE AL MASSIRA, SAKNIA",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52043486,
+        "Pharmacie_Name": "PHARMACIE MODERNE",
+        "address": "ANGLE RUES JBALA ET LOUBNANE, LA VILLE HAUTE",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52067683,
+        "Pharmacie_Name": "PHARMACIE MASJID ARRAHMA",
+        "address": "BLOC H, N155 OULED OUJIH",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52011954,
+        "Pharmacie_Name": "PHARMACIE ASWAK ASSALAM",
+        "address": "N2‐3, CENTRE ASWAK ASSALAM",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52009388,
+        "Pharmacie_Name": "PHARMACIE AL WIDAD",
+        "address": "LOTISSEMENT ISMAILIA, N 1435",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52067139,
+        "Pharmacie_Name": "PHARMACIE SAOUMAA",
+        "address": "RUE N2, RES HAMZA BLOC5, N°5",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52013984,
+        "Pharmacie_Name": "PHARMACIE BALSAM",
+        "address": "RUE N57 N2975 CITE AMAL SAKNIA",
+        "city": "KENITRA"
+      },
+      {
+        "INPE": 52034808,
+        "Pharmacie_Name": "PHARMACIE LES IRIS",
+        "address": "LOTISSEMENT EL HAWZIA BLOC A 28",
+        "city": "KENITRA"
+      }
+    ],
+    "TAOURIRT": [
+      {
+        "INPE": 82024480,
+        "Pharmacie_Name": "PHARMACIE ELJABRI",
+        "address": "77 BOULEVARD MOULAY ABDELLAH",
+        "city": "TAOURIRT"
+      },
+      {
+        "INPE": 82061474,
+        "Pharmacie_Name": "PHARMACIE ERRACHAD",
+        "address": "731 LOTISSEMENT EL MASSIRA",
+        "city": "TAOURIRT"
+      },
+      {
+        "INPE": 82005521,
+        "Pharmacie_Name": "PHARMACIE ALHIKMA",
+        "address": "20 HAY CHOUHADA",
+        "city": "TAOURIRT"
+      },
+      {
+        "INPE": 82044173,
+        "Pharmacie_Name": "PHARMACIE MOUSTAOUSSAF AL HALFA",
+        "address": "RUE EL FALAH, CITE ATTAKADDOUM, N 1376",
+        "city": "TAOURIRT"
+      },
+      {
+        "INPE": 82055328,
+        "Pharmacie_Name": "PHARMACIE TAKADDOUM",
+        "address": "534 BD BIS MLY ABDELLAH QUARTIER TAKADDOUM",
+        "city": "TAOURIRT"
+      }
+    ],
+    "BERRECHID": [
+      {
+        "INPE": 62000591,
+        "Pharmacie_Name": "PHARMACIE 2000",
+        "address": "22 BOULEVARD MOHAMMED V",
+        "city": "BERRECHID"
+      },
+      {
+        "INPE": 62061221,
+        "Pharmacie_Name": "PHARMACIE ARAFAT",
+        "address": "82 RUE ASSALAM HAY AL HOUDA LOT N 54 A , LOTISSEMENT AL MADINA",
+        "city": "BERRECHID"
+      },
+      {
+        "INPE": 62063219,
+        "Pharmacie_Name": "PHARMACIE AL IHSSANE",
+        "address": "12 IMM N°20 RCE LA GARE BOULEVARD MOHAMED V",
+        "city": "BERRECHID"
+      },
+      {
+        "INPE": 62066303,
+        "Pharmacie_Name": "PHARMACIE DU QUARTIER ALFARAJ",
+        "address": "96 LOTISSEMENT AL FARAJ",
+        "city": "BERRECHID"
+      },
+      {
+        "INPE": 62018379,
+        "Pharmacie_Name": "PHARMACIE CHAOUIA",
+        "address": "182 AVENUE MOULAY ISMAIL",
+        "city": "BERRECHID"
+      },
+      {
+        "INPE": 62031000,
+        "Pharmacie_Name": "PHARMACIE HAY HASSANI",
+        "address": "239 AVENUE HASSAN II",
+        "city": "BERRECHID"
+      },
+      {
+        "INPE": 62068200,
+        "Pharmacie_Name": "PHARMACIE AL MANZAH",
+        "address": "5 IMMEUBLE A,LOT EL MANZEH LOT ERRABII",
+        "city": "BERRECHID"
+      },
+      {
+        "INPE": 62028428,
+        "Pharmacie_Name": "PHARMACIE FATIMA",
+        "address": "RUE OKBA IBNOU NAFIA",
+        "city": "BERRECHID"
+      },
+      {
+        "INPE": 62007521,
+        "Pharmacie_Name": "PHARMACIE AL MASJID",
+        "address": "RUE YACOUB EL MANSOUR ILL DES HONOUS",
+        "city": "BERRECHID"
+      }
+    ],
+    "EL GARA": [
+      {
+        "INPE": 62023759,
+        "Pharmacie_Name": "PHARMACIE EL GARA",
+        "address": "18 RUE DES CEREALISTES",
+        "city": "EL GARA"
+      }
+    ],
+    "OUJDA": [
+      {
+        "INPE": 82037185,
+        "Pharmacie_Name": "PHARMACIE LA CLINIQUE",
+        "address": "32 BOULEVARD MOHAMMED BELKHDAR",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82055427,
+        "Pharmacie_Name": "PHARMACIE TALT SKAKI",
+        "address": "15 RUE BIS OULAD AISSA",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82024340,
+        "Pharmacie_Name": "PHARMACIE ALHOUDOUD",
+        "address": "193 BOULEVARD MOHAMED 5, ROUTE MAGNIA",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82032822,
+        "Pharmacie_Name": "PHARMACIE IBN ROCHD",
+        "address": "BD MOHAMED V 8 PLACE DE LA DOUANE 60000",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82012683,
+        "Pharmacie_Name": "PHARMACIE AYNAOU",
+        "address": "HAY ESSALAM, ROUTE AIN MATHAR B1, N3",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82015272,
+        "Pharmacie_Name": "PHARMACIE BENNIS",
+        "address": "45 RUE MAGHNIA LOTISSEMENT EL MAKARI",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82005489,
+        "Pharmacie_Name": "PHARMACIE ALHIKMA HABOUS",
+        "address": "BOULVARD ABDERRAHIM BOUABID LAHBOUS LAZARET",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82024506,
+        "Pharmacie_Name": "PHARMACIE EL JAI",
+        "address": "5 RUE ABDELAZIZ ATALABI",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82052739,
+        "Pharmacie_Name": "PHARMACIE SEFRAOUI",
+        "address": "136 BOULVARD HASSAN II",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82020959,
+        "Pharmacie_Name": "PHARMACIE DERB BERRAHMOUN",
+        "address": "3 RUE ELKHALIJ AL ARABI,SOUK LAKHMIS,LAZARET",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82035114,
+        "Pharmacie_Name": "PHARMACIE GALA",
+        "address": "HAY ZGHAMIME,RUE EL KHIMA 21 NR 15",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82019274,
+        "Pharmacie_Name": "PHARMACIE SHERINE",
+        "address": "3 RUE ZIANI",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82030636,
+        "Pharmacie_Name": "PHARMACIE HAY ALANDALOUS",
+        "address": "96 LOTISSEMENT HAJ TOUFIK ROUTE SIDI MAAFA",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82046103,
+        "Pharmacie_Name": "PHARMACIE OMAR IBN KHATAB",
+        "address": "AVENUE OMAR IBN KHATTAB N1",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82013970,
+        "Pharmacie_Name": "PHARMACIE BALSAM",
+        "address": "ROUTE DE JERADA HAY NOUR",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82023128,
+        "Pharmacie_Name": "PHARMACIE EL AOUNIA",
+        "address": "ROUTE AOUNIA MOSQUEE ESSAFA",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82044124,
+        "Pharmacie_Name": "PHARMACIE MOUSLIM",
+        "address": "5 ANGLE BD ISTIQLAL ET BD MED V",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82004409,
+        "Pharmacie_Name": "PHARMACIE ALBOUSTANE",
+        "address": "27 BOULVARD MOHAMMED V,LOT LYATNI KANOUN1",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82062035,
+        "Pharmacie_Name": "PHARMACIE IDRISS AL AKBAR",
+        "address": "BOULVARD ABOUBAKER EL KADIRI II",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82004052,
+        "Pharmacie_Name": "PHARMACIE ALBAKRI",
+        "address": "164 BOULVARD MOHAMED DERFOUFI",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82044439,
+        "Pharmacie_Name": "PHARMACIE NADIA",
+        "address": "4 BOULVARD ALLAL EL FASSI BLOC 61",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82054859,
+        "Pharmacie_Name": "PHARMACIE STADE MUNICIPAL",
+        "address": "RUE DE CASABLANCA",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82036872,
+        "Pharmacie_Name": "PHARMACIE KOULOUCH TAKADOUM",
+        "address": "26 HAY TAKADOUM C",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82041187,
+        "Pharmacie_Name": "PHARMACIE MANAL",
+        "address": "223 BOULEVARD HASSAN II HAY JDID",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82019910,
+        "Pharmacie_Name": "PHARMACIE DU CONSEIL",
+        "address": "58 RUE C LOT JAOUHARA,OUED NACHEF",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82031246,
+        "Pharmacie_Name": "PHARMACIE HAY RAJAA FI ALLAH",
+        "address": "78 LOTISSEMENT TAOUFIK,ROUTE D'ALGERIE",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82057514,
+        "Pharmacie_Name": "PHARMACIE YASSINE",
+        "address": "9 ROUTE BOUKNADEL,LOT RAHMANI",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82008699,
+        "Pharmacie_Name": "PHARMACIE ALQODS",
+        "address": "BOULVARD MED V HAY BENMRAH",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82037938,
+        "Pharmacie_Name": "PHARMACIE LA PAIX",
+        "address": "1 BOULVARD SIDI YAHYA D.E.H",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82065616,
+        "Pharmacie_Name": "PHARMACIE ALKAWTAR SIDI YAHYA",
+        "address": "D18 HAY AGDAL SIDI YAHYA",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82066846,
+        "Pharmacie_Name": "PHARMACIE AL BAYANE",
+        "address": "LOTISSEMENT IBN KHALDOUNE,ROUTE JERADA",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82065632,
+        "Pharmacie_Name": "PHARMACIE MEKKI ENNASSIRI",
+        "address": "ROUTE DE TAZA LOT SALAMA 18 S N16",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82059007,
+        "Pharmacie_Name": "PHARMACIE ALFIRDOUS",
+        "address": "ROUTE EL AOUNIA HAY OULED YAHYA",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82013723,
+        "Pharmacie_Name": "PHARMACIE BADR",
+        "address": "AVENUE HASSAN II LOT BADR BENI DRAR",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82046707,
+        "Pharmacie_Name": "PHARMACIE OUED EDDAHAB",
+        "address": "7 BOULEVARD OUED EDDAHAB LAZARET",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82055963,
+        "Pharmacie_Name": "PHARMACIE TENNIS",
+        "address": "ROUTE MAGHNIA, LOT TALHAOUI, A1, N°50",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82050626,
+        "Pharmacie_Name": "PHARMACIE RIF",
+        "address": "BOULVARD KADDOUR OUARTASSI MOSQUEE AHMED BNER HAMBEL, N°111, LAZARET",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82037433,
+        "Pharmacie_Name": "PHARMACIE LA FOIRE",
+        "address": "HAY MIR ALI, RUE 23, N°103",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82048620,
+        "Pharmacie_Name": "PHARMACIE LA POLYCLINIQUE",
+        "address": "28 BOULEVARD ECHOUHADA",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82007402,
+        "Pharmacie_Name": "PHARMACIE AL MANZAH",
+        "address": "BOULEVARD HASSAN II, SIDI YAHYA",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82065590,
+        "Pharmacie_Name": "PHARMACIE AFAQ AL AOUNIA",
+        "address": "QUARTIER ALHOUDA, RUE AL IMAM IBN ACHRASS, MOSQUEE ALBADREINNE, N° 1",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82058637,
+        "Pharmacie_Name": "PHARMACIE ZONE INDUSTRIELLE",
+        "address": "LOTISSEMENT TALHAOUI, N°77, ROUTE D'ALGERIE",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82018854,
+        "Pharmacie_Name": "PHARMACIE ACHIFAE",
+        "address": "BOULEVARD HASSAN II, BENI DRAR",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82065582,
+        "Pharmacie_Name": "PHARMACIE AZZAHRAE",
+        "address": "16 RUE MOHAMED BENOUDA HAY ALANDA LOUIS",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82019464,
+        "Pharmacie_Name": "PHARMACIE CHRIF",
+        "address": "13 LOTISSEMENT NAKHIL BOULEVARD ABDERRAHIM BOUABID",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82005893,
+        "Pharmacie_Name": "PHARMACIE EL MOUNA",
+        "address": "BOULEVARD HASSAN II RUE MOHAMED ZEGHRAOUI, N 24",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82063066,
+        "Pharmacie_Name": "PHARMACIE AGDAL",
+        "address": "172 BOULEVARD BRAHIM ROUDANI",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82062563,
+        "Pharmacie_Name": "PHARMACIE AL ISRAA",
+        "address": "N 5 ET 6 MOSQUEE AL BOUCHRAA HAY EL FATH 2, LAZARET",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82067455,
+        "Pharmacie_Name": "PHARMACIE CENTRE CULTUREL",
+        "address": "7 RUE TOUAT",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82006941,
+        "Pharmacie_Name": "PHARMACIE ALLAL EL FASSI",
+        "address": "ROUTE TADRET, LOT BENABDELMOUMEN N 71",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82007238,
+        "Pharmacie_Name": "PHARMACIE AL MAKDIS",
+        "address": "89 BOULEVARD AL MAKDIS, AL QODS",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82015314,
+        "Pharmacie_Name": "PHARMACIE BENQACHOUR",
+        "address": "BOULEVARD HASSAN II, N°12",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82058199,
+        "Pharmacie_Name": "PHARMACIE ZENATI",
+        "address": "F24, LOT MSARDI, DEM LAZARET",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82048158,
+        "Pharmacie_Name": "PHARMACIE DU PARC",
+        "address": "MASJID AL OUMMA, CITE AL MASSIRA, N°15",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82026295,
+        "Pharmacie_Name": "PHARMACIE EL YOUSR",
+        "address": "LOTISSEMENT KADA HOUCINE HAY RIADI N°26",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82046822,
+        "Pharmacie_Name": "PHARMACIE OUED NACHEF",
+        "address": "10 RUE MOULAY YOUSSEF",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82051459,
+        "Pharmacie_Name": "PHARMACIE SABAHI",
+        "address": "HAY PAM SIDI YAHYA RUE 1 PARTE 4",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82046111,
+        "Pharmacie_Name": "PHARMACIE OMAR RIFFI",
+        "address": "27 ANGLE OMAR SLAOUI ET MOHAMED DIOURI",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82037524,
+        "Pharmacie_Name": "PHARMACIE DE LA GARE",
+        "address": "1 BOULEVARD EL HANSALI",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82017773,
+        "Pharmacie_Name": "PHARMACIE CENTRALE",
+        "address": "55 BD ALLAL BEN ABDELLAH",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82016502,
+        "Pharmacie_Name": "PHARMACIE BOUDLAL",
+        "address": "ROUTE SIDI YAHYA BD MOHMED ABDELKRIM",
+        "city": "OUJDA"
+      },
+      {
+        "INPE": 82054909,
+        "Pharmacie_Name": "PHARMACIE SYAGHA",
+        "address": "IMPASSE MAAZOUZI KISSARIAT ALJ N12",
+        "city": "OUJDA"
+      }
+    ],
+    "BERKANE": [
+      {
+        "INPE": 82025370,
+        "Pharmacie_Name": "PHARMACIE ELMASSIRA",
+        "address": "67 RUE CHOUHADAA HAY EL HASSANI",
+        "city": "BERKANE"
+      },
+      {
+        "INPE": 82034448,
+        "Pharmacie_Name": "PHARMACIE IMAM MALIK",
+        "address": "ANGLE RUES OUED EDDAHAB ET GHANDI",
+        "city": "BERKANE"
+      },
+      {
+        "INPE": 82066895,
+        "Pharmacie_Name": "PHARMACIE ELHANAE",
+        "address": "MARCHE COUVERT,NR63 SIDI SLIMANE CHERAA",
+        "city": "BERKANE"
+      },
+      {
+        "INPE": 82065624,
+        "Pharmacie_Name": "PHARMACIE KASR ALHAMRAE",
+        "address": "BOULVARD ALAHRAM HAY EL MASSIRA",
+        "city": "BERKANE"
+      },
+      {
+        "INPE": 82063868,
+        "Pharmacie_Name": "PHARMACIE DU COMPLEXE SPORTIF",
+        "address": "225 RUE AL AZHAR HAY AL MAJD",
+        "city": "BERKANE"
+      },
+      {
+        "INPE": 82019167,
+        "Pharmacie_Name": "PHARMACIE CHIFAE",
+        "address": "ANGLE RUE RIAD, RUE WIFAQ, HAY SALAM",
+        "city": "BERKANE"
+      },
+      {
+        "INPE": 82016940,
+        "Pharmacie_Name": "PHARMACIE BOUYAKCHER",
+        "address": "102 RUE SOUK HEBDOMADAIRE",
+        "city": "BERKANE"
+      },
+      {
+        "INPE": 82064064,
+        "Pharmacie_Name": "PHARMACIE BOUNIETE",
+        "address": "COMPLEXE RES, ANNAKHIL, IMMEUBLE A LOC. AC2, BOULEVARD EL AHRAM",
+        "city": "BERKANE"
+      }
+    ],
+    "OUARZAZATE": [
+      {
+        "INPE": 42061986,
+        "Pharmacie_Name": "PHARMACIE TASSOMAATE",
+        "address": "10 Boulevard Mohammed V, Tassomaate",
+        "city": "OUARZAZATE"
+      },
+      {
+        "INPE": 42062547,
+        "Pharmacie_Name": "PHARMACIE AL MOUSSALA",
+        "address": "N 550, HAY AL WAHDA",
+        "city": "OUARZAZATE"
+      },
+      {
+        "INPE": 42061754,
+        "Pharmacie_Name": "PHARMACIE LA SANTE",
+        "address": "21 BD MOHAMED V FACE HOTEL LA GAZELLE",
+        "city": "OUARZAZATE"
+      },
+      {
+        "INPE": 42017459,
+        "Pharmacie_Name": "PHARMACIE CENTRALE",
+        "address": "33 BOULVARD MOHAMED V",
+        "city": "OUARZAZATE"
+      },
+      {
+        "INPE": 42061465,
+        "Pharmacie_Name": "PHARMACIE LA GARE ROUTIERE",
+        "address": "48 BOULVARD MOULAY TAHAR BENABDELKRIM QUARTIER ARTISANAL",
+        "city": "OUARZAZATE"
+      },
+      {
+        "INPE": 42061788,
+        "Pharmacie_Name": "PHARMACIE AL FADILIA",
+        "address": "2 LOTISSEMENT NADDER BD MED V",
+        "city": "OUARZAZATE"
+      }
+    ],
+    "LARACHE": [
+      {
+        "INPE": 162029177,
+        "Pharmacie_Name": "PHARMACIE GHARNATA",
+        "address": "19 Avenue Hassan II",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162045470,
+        "Pharmacie_Name": "PHARMACIE NOUVELLE",
+        "address": "HAY AL OUROUBA MRINA , RUE 16 , N 8",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162019749,
+        "Pharmacie_Name": "PHARMACIE COLISEO",
+        "address": "11 KAID AHMED RIFFI, BP 396",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162006654,
+        "Pharmacie_Name": "PHARMACIE ALKHADRA",
+        "address": "OQBA IBN NAFIA,N° 111",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162010540,
+        "Pharmacie_Name": "PHARMACIE ANNASSIHA",
+        "address": "BOULVARD ABDELMOUMEN BEN ALI N1",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162061436,
+        "Pharmacie_Name": "PHARMACIE DES CLINIQUES",
+        "address": "LOTISSEMENT CHAABANE I N°70,ROUTE DE RABAT",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162022164,
+        "Pharmacie_Name": "PHARMACIE DU NORD",
+        "address": "33 AVENUE OMAR IBN ABDELAZIZ MANZEH",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162009104,
+        "Pharmacie_Name": "PHARMACIE ALWAFAE",
+        "address": "125 LOTISSEMENT AL WAFAE",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162065072,
+        "Pharmacie_Name": "PHARMACIE NAHDA",
+        "address": "HAY NAHDA II, N°2",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162033062,
+        "Pharmacie_Name": "PHARMACIE IBN SINA",
+        "address": "299 LOTISSEMENT AL WAFAE",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162039382,
+        "Pharmacie_Name": "PHARMACIE LALLA MANNANA",
+        "address": "52 AVENUE MOHAMMED V",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162050462,
+        "Pharmacie_Name": "PHARMACIE RIAD",
+        "address": "AVENUE MOULAY MOHAMED BEN ABDELLAH, N°124",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162064992,
+        "Pharmacie_Name": "PHARMACIE AL MANAR",
+        "address": "MOSQUE MOULAY HASSAN, LOT AL MANAR1, LOCAL N°1",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162066773,
+        "Pharmacie_Name": "PHARMACIE AL AMAL",
+        "address": "768 LOTISSEMENT CHAABANE II",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162061378,
+        "Pharmacie_Name": "PHARMACIE AL RAYAN",
+        "address": "581 LOTISSEMENT AL MAGHREB EL JADID, RESIDANCE BEN DAOUD",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162058945,
+        "Pharmacie_Name": "PHARMACIE ASSALAM",
+        "address": "LOTISSEMENT ASSALAM N°54",
+        "city": "LARACHE"
+      },
+      {
+        "INPE": 162061188,
+        "Pharmacie_Name": "PHARMACIE DU STADE MUNICIPAL",
+        "address": "64 LOT AL KHADRA",
+        "city": "LARACHE"
+      }
+    ],
+    "AGADIR IDA OUTANANE": [
+      {
+        "INPE": 42062885,
+        "Pharmacie_Name": "PHARMACIE IMAM MALIK",
+        "address": "LOT N 852 , LOTISSEMENT MSQUINA ,DRARGA",
+        "city": "AGADIR IDA OUTANANE"
+      }
+    ],
+    "TAZA": [
+      {
+        "INPE": 152010021,
+        "Pharmacie_Name": "PHARMACIE ENNACER",
+        "address": "AVENUE ENNACER BP 67",
+        "city": "TAZA"
+      },
+      {
+        "INPE": 152007498,
+        "Pharmacie_Name": "PHARMACIE ALMASJID",
+        "address": "105 AVENUE BIR ANZARANE",
+        "city": "TAZA"
+      },
+      {
+        "INPE": 152032462,
+        "Pharmacie_Name": "PHARMACIE IBN HAYTEM",
+        "address": "171 BD HASSAN II, TAZA V.N",
+        "city": "TAZA"
+      },
+      {
+        "INPE": 152019204,
+        "Pharmacie_Name": "PHARMACIE CHIFAA",
+        "address": "134 AVENUE MOHAMED V V.N",
+        "city": "TAZA"
+      },
+      {
+        "INPE": 162038855,
+        "Pharmacie_Name": "PHARMACIE LA WILAYA",
+        "address": "24 AVENUE LA MARCHE VERTE",
+        "city": "TAZA"
+      },
+      {
+        "INPE": 152040606,
+        "Pharmacie_Name": "PHARMACIE MAARID",
+        "address": "253 CITE MASSOUDIA TAZA EL JADIDA",
+        "city": "TAZA"
+      },
+      {
+        "INPE": 152066676,
+        "Pharmacie_Name": "PHARMACIE OULED ZBAIR",
+        "address": "CENTRE OULED ZBAIR",
+        "city": "TAZA"
+      },
+      {
+        "INPE": 152013538,
+        "Pharmacie_Name": "PHARMACIE BAB ZITOUNA",
+        "address": "1 AVENUE MOULAY SMAIL BAB ZITOUNA",
+        "city": "TAZA"
+      },
+      {
+        "INPE": 152013413,
+        "Pharmacie_Name": "PHARMACIE BAB RIH",
+        "address": "50 RUE RIAD AZNAK",
+        "city": "TAZA"
+      },
+      {
+        "INPE": 152059515,
+        "Pharmacie_Name": "PHARMACIE MSALLA",
+        "address": "LOTISSEMENT MSALLA N1 TAZA HAUT",
+        "city": "TAZA"
+      },
+      {
+        "INPE": 152039731,
+        "Pharmacie_Name": "PHARMACIE LBALADIYA",
+        "address": "110 RUE SFAX HAY AL MAGREB AL ARABI",
+        "city": "TAZA"
+      },
+      {
+        "INPE": 152067849,
+        "Pharmacie_Name": "PHARMACIE AKNOUL",
+        "address": "HAY EL MASSIRA N1",
+        "city": "TAZA"
+      }
+    ],
+    "SKHIRATE": [
+      {
+        "INPE": 102062601,
+        "Pharmacie_Name": "PHARMACIE ABI HOURAIRA",
+        "address": "15 AVENUE DU CAIRE , LOT ABI HOURAIRA",
+        "city": "SKHIRATE"
+      },
+      {
+        "INPE": 102002342,
+        "Pharmacie_Name": "PHARMACIE AIN ARROZ",
+        "address": "5 IMM ZAAKOUNI, ROUTE AIN ARROZ",
+        "city": "SKHIRATE"
+      },
+      {
+        "INPE": 102047230,
+        "Pharmacie_Name": "PHARMACIE OULED GHANEM",
+        "address": "203 LOTISSEMENT AIN LATARISS",
+        "city": "SKHIRATE"
+      }
+    ],
+    "KHEMISSET": [
+      {
+        "INPE": 102017464,
+        "Pharmacie_Name": "PHARMACIE CENTRALE",
+        "address": "55 BLOC N°1 , ROMMANI CENTRE",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102027448,
+        "Pharmacie_Name": "PHARMACIE ESSALAM",
+        "address": "147 AVENUE BIR ANZARANE HAY SALAM",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102039740,
+        "Pharmacie_Name": "PHARMACIE CHATEAUX",
+        "address": "AVENUE MOHAMED ZERKTOUNI 393 FARAH 1",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102035268,
+        "Pharmacie_Name": "PHARMACIE JAOUHARA",
+        "address": "57 RUE FERHAT HACHAD",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102047495,
+        "Pharmacie_Name": "PHARMACIE OULMES",
+        "address": "34 NOUVELLE KISSARIAT OULMES,CENTRE",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102054988,
+        "Pharmacie_Name": "PHARMACIE TADDART",
+        "address": "114 AVENUE MOHAMED V",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102044617,
+        "Pharmacie_Name": "PHARMACIE NAJAH",
+        "address": "B1 RUE AIT ABOU, AMICALE NAJAH",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102004801,
+        "Pharmacie_Name": "PHARMACIE ALFATH",
+        "address": "84 BOULVARD KADI AYAD,HAY ZAHRA",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102011095,
+        "Pharmacie_Name": "PHARMACIE AR‐RACHAD",
+        "address": "115 BOULVARD MOHAMMED V",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102065992,
+        "Pharmacie_Name": "PHARMACIE DYAR AL MANSOUR",
+        "address": "95 LOTISSEMENT DIAR EL MANSOUR",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102065984,
+        "Pharmacie_Name": "PHARMACIE HAY SERGHINI",
+        "address": "62 RUE MOUKHTAR SOUSSI",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102021433,
+        "Pharmacie_Name": "PHARMACIE NEZHA",
+        "address": "COOPERATIVE NAHDA N25",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102065950,
+        "Pharmacie_Name": "PHARMACIE AL FAJR",
+        "address": "LOTISSEMENT BELMILOUD N647, MAJMAA TOLBA",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102012143,
+        "Pharmacie_Name": "PHARMACIE ATLAS",
+        "address": "142 AVENUE MOHAMED V",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102058179,
+        "Pharmacie_Name": "PHARMACIE DES ZEMMOURS",
+        "address": "365 BOULEVARD MOHAMMED V",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102067592,
+        "Pharmacie_Name": "PHARMACIE CONSEIL",
+        "address": "AMIL ESSALAM, LOT 210",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102057783,
+        "Pharmacie_Name": "PHARMACIE ZAHRA",
+        "address": "HAY ZAHRA",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102038197,
+        "Pharmacie_Name": "PHARMACIE LA PROVINCE",
+        "address": "3 LOTISSEMENT ARCHANE, RUE AL QODS",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102068368,
+        "Pharmacie_Name": "PHARMACIE BELHASSAN LOUAZANI",
+        "address": "129 AV ALAOYINE LOTISSEMENT RIAD",
+        "city": "KHEMISSET"
+      },
+      {
+        "INPE": 102020906,
+        "Pharmacie_Name": "PHARMACIE DE VILLE",
+        "address": "193 RUE OUED SEBOU HAY ZAHRA",
+        "city": "KHEMISSET"
+      }
+    ],
+    "M'DIQ": [
+      {
+        "INPE": 162062764,
+        "Pharmacie_Name": "PHARMACIE LA CASSIA",
+        "address": "COMPLEXE LA CASSIA B4, CABO NEGRO",
+        "city": "M'DIQ"
+      },
+      {
+        "INPE": 162036578,
+        "Pharmacie_Name": "PHARMACIE KHARKHOUR",
+        "address": "AVENUE JAMIA ARABIA",
+        "city": "M'DIQ"
+      },
+      {
+        "INPE": 162065320,
+        "Pharmacie_Name": "PHARMACIE AIN CHOUFOU",
+        "address": "27 QUARTIER ESSALAM,RUE ALKHAOUARIZMI",
+        "city": "M'DIQ"
+      },
+      {
+        "INPE": 162029375,
+        "Pharmacie_Name": "PHARMACIE GRANADA",
+        "address": "AVENUE MOHAMED V",
+        "city": "M'DIQ"
+      },
+      {
+        "INPE": 162067284,
+        "Pharmacie_Name": "PHARMACIE HAY AL KALAA",
+        "address": "AV IMAM MALIK PASS N12 N10 HAY AL KALAA",
+        "city": "M'DIQ"
+      }
+    ],
+    "TETOUAN": [
+      {
+        "INPE": 162016208,
+        "Pharmacie_Name": "PHARMACIE BORAS",
+        "address": "AVENUE EL KHARRAZ RUE 4, N4, TOUABEL",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162016612,
+        "Pharmacie_Name": "PHARMACIE BOUJARRAH",
+        "address": "JBEL BOUGHAFER, RUE N7, BOUJARRAH",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162062665,
+        "Pharmacie_Name": "PHARMACIE ATLAS",
+        "address": "51 AV DAKHLA,MSELLA, QUARTIER ATLAS 93000",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162001143,
+        "Pharmacie_Name": "PHARMACIE ABOUBAKR SEDDIK",
+        "address": "363 QUA DERSA TETOUAN, BOULEVARD ABOU BAKR SEDDIK 93000",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162017842,
+        "Pharmacie_Name": "PHARMACIE CENTRALE",
+        "address": "2 RUE MOHAMED TORRES",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162033906,
+        "Pharmacie_Name": "PHARMACIE ICHARA DERSA",
+        "address": "AV ICHARA JBEL DERSA BOITE POSTAL (3021), SIDI TALHA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162053664,
+        "Pharmacie_Name": "PHARMACIE SIDI ELMANDRI",
+        "address": "AV MED DAOUD, 1",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162021448,
+        "Pharmacie_Name": "PHARMACIE DIOUR ELMAKHZANE",
+        "address": "38 AV ABOU AOUBAIDA, BNOU JARAH",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162012991,
+        "Pharmacie_Name": "PHARMACIE AZZAHRAA",
+        "address": "AV HADJ MOHHAMED BENNOUNA, LOT AZZAHRAA, N8",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162042261,
+        "Pharmacie_Name": "PHARMACIE MELLAH",
+        "address": "17 RUE ANKARI HAY QODS (MELLAH)",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065197,
+        "Pharmacie_Name": "PHARMACIE CARTHAGE",
+        "address": "2 AVBNI MAADEN COELMA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162019731,
+        "Pharmacie_Name": "PHARMACIE COELMA",
+        "address": "63 AVENUE SIDI ABDELLAH FAKHAR KOUILMA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065221,
+        "Pharmacie_Name": "PHARMACIE ACHAHBAR",
+        "address": "RUE MASKET N°47 HAY TOUABEL",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162013528,
+        "Pharmacie_Name": "PHARMACIE BAB TOUT",
+        "address": "6 AVENUE DU PRINCE HERITIER",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162055925,
+        "Pharmacie_Name": "PHARMACIE TEKNIA",
+        "address": "AVENUE KABOUL N21 BIS TOUABEL SOUFLIA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065411,
+        "Pharmacie_Name": "PHARMACIE HAMZA",
+        "address": "AVENUE CHEIKH BENLARBI ALAOUI N°394 TWILAA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065429,
+        "Pharmacie_Name": "PHARMACIE JABER IBN HAYAN",
+        "address": "AVENUE SLAOUI LOT ZEMRANI RES MOUNIA N°3",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162061600,
+        "Pharmacie_Name": "PHARMACIE ROMMANA",
+        "address": "344 AVENUE RIF",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162062509,
+        "Pharmacie_Name": "PHARMACIE EL AMRAOUI",
+        "address": "AVENUE WALILI N°84 LOT MOUNIA EL MHANNECH 2",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065148,
+        "Pharmacie_Name": "PHARMACIE EL BAKKALI",
+        "address": "659 AVENUE AL YASSAMIN LOT AL WIKAYA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162056519,
+        "Pharmacie_Name": "PHARMACIE TOUELAH",
+        "address": "2 AVENUE KHOLOUD QUARTIER TAFFALINE",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162002661,
+        "Pharmacie_Name": "PHARMACIE AIN SIDI TALHA",
+        "address": "11 AVENUE ZOUBAIR AIN SIDI TALHA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162015507,
+        "Pharmacie_Name": "PHARMACIE BENTAOUIT",
+        "address": "AVENUE OUED SEBOU RUE N°4,2",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065205,
+        "Pharmacie_Name": "PHARMACIE IBN SINA",
+        "address": "AVENUE TIDGHINE RUE AFKA N°4",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162001358,
+        "Pharmacie_Name": "PHARMACIE ACHIFAA",
+        "address": "17 RUE MOHAMED TORRES",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162050637,
+        "Pharmacie_Name": "PHARMACIE RIF",
+        "address": "AVENUE DES FAR N° 244",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162015945,
+        "Pharmacie_Name": "PHARMACIE BIROUNI",
+        "address": "102 RUE ABDELKHALEK TORRES",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162056022,
+        "Pharmacie_Name": "PHARMACIE THAMI OUAZZANI",
+        "address": "AVENUE MASSIRA N°61",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162008726,
+        "Pharmacie_Name": "PHARMACIE ALQODS",
+        "address": "AVENUE MAURITANIA N°1",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162009476,
+        "Pharmacie_Name": "PHARMACIE AL‐WILAYA",
+        "address": "24 AVENUE ALLAL EL FASSI",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162047963,
+        "Pharmacie_Name": "PHARMACIE PALESTINE",
+        "address": "193 BOULVARD DES FAR",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162017842,
+        "Pharmacie_Name": "PHARMACIE CENTRALE",
+        "address": "2 RUE MOHAMED TORRES",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162030423,
+        "Pharmacie_Name": "PHARMACIE HAOUMAT TANJAOUA",
+        "address": "RUE JABAL ATLAS N°156 TOUABEL OULIA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162035133,
+        "Pharmacie_Name": "PHARMACIE JAMAA AFILAL",
+        "address": "107 RUE MED EL KHARRAZ",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162045553,
+        "Pharmacie_Name": "PHARMACIE GRAN FARMACIA NUEVA",
+        "address": "10 AVENUE 42500",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162001747,
+        "Pharmacie_Name": "PHARMACIE AFASSI",
+        "address": "AVENUE DAKA TOUABEL SOUFLA N°27‐29 TEKNIA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162019384,
+        "Pharmacie_Name": "PHARMACIE CHIKRI",
+        "address": "105 AVENUE MFEDDAL AFAILAL",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162021158,
+        "Pharmacie_Name": "PHARMACIE DERSA PRINCIPALE",
+        "address": "606 AVENUE OTMANE IBN AFFANE JBEL DERSA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162028922,
+        "Pharmacie_Name": "PHARMACIE GALENUS",
+        "address": "31 RUE IBNOU ROUCHD ANCIEN HAOUMA JDIDA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162048599,
+        "Pharmacie_Name": "PHARMACIE POL VORIN DERSA",
+        "address": "131 RUE MOHAMMED EL BEKKAL QUARTIER BARBONNE,JBEL DERSSA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065296,
+        "Pharmacie_Name": "PHARMACIE ALMENZAH",
+        "address": "6 AVENUE AL MANZAH,HAY AHRIK",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162058366,
+        "Pharmacie_Name": "PHARMACIE ZIANA",
+        "address": "254 BOULVARD MOHAMED AMEZIANE",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162033534,
+        "Pharmacie_Name": "PHARMACIE IBN ZAYDOUN",
+        "address": "113 AVENUE BJAYA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162031652,
+        "Pharmacie_Name": "PHARMACIE L'HOPITAL",
+        "address": "225 AVENUE MOHAMMADIA QUARTIER TOUTA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162044754,
+        "Pharmacie_Name": "PHARMACIE NAKHIL",
+        "address": "168 AVENUE HASSAN II",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162056469,
+        "Pharmacie_Name": "PHARMACIE TOUABEL",
+        "address": "263 AVENUE MOHAMMED KHARRAZ,TOUABEL HAUTE II",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162054621,
+        "Pharmacie_Name": "PHARMACIE SOK ELFOKI",
+        "address": "20 PLACE SOK EL FOKI",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162050835,
+        "Pharmacie_Name": "PHARMACIE RKAINA",
+        "address": "66 AVENUE AL AMANA,HAY KOURAT SBAA BP7258",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162018642,
+        "Pharmacie_Name": "PHARMACIE CHELLAL",
+        "address": "8 ‐ 12 AVENUE MOULAY ABBASS",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065395,
+        "Pharmacie_Name": "PHARMACIE CHAACHOO",
+        "address": "30 AVENUE EGYPTE, HAY MATAR, LOT SOUAUI",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162014047,
+        "Pharmacie_Name": "PHARMACIE BARRIO MALAGA",
+        "address": "182 RUE ABDELKRIM KHATTABI",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162027924,
+        "Pharmacie_Name": "PHARMACIE FACULTE DES SCIENCES",
+        "address": "227 AVENUE HAJEB, MHANECHE II",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065353,
+        "Pharmacie_Name": "PHARMACIE DAR DMANA",
+        "address": "672 AVENUE HAJ MOHAMED BENNOUN, TOUILAA, BOUJARAH",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162021372,
+        "Pharmacie_Name": "PHARMACIE DESTIN",
+        "address": "7 AVENUE IBN ROMI, QUARTIER HASSANI",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162054936,
+        "Pharmacie_Name": "PHARMACIE TABOULA",
+        "address": "AVENUE OMAR EL MOKHTAR TABOULA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162046924,
+        "Pharmacie_Name": "PHARMACIE OUIRIARHLI",
+        "address": "227 AVENUE ABDELKHALEK TORRES",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162052302,
+        "Pharmacie_Name": "PHARMACIE SAMSA",
+        "address": "413 RUE MAAMOUN, JANAE ELHEZOUAK",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065270,
+        "Pharmacie_Name": "PHARMACIE AHRIK",
+        "address": "AVENUE ALKOROUM, HAY AHRIK",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162050223,
+        "Pharmacie_Name": "PHARMACIE BOUSSAFOU",
+        "address": "AVENUE MOHAMMED BENOUNA, N 1150",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162063259,
+        "Pharmacie_Name": "PHARMACIE ZEKRI",
+        "address": "AVENUE RIF, RUE AL WIAM N56, KHANDAK ZERBOUH",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065403,
+        "Pharmacie_Name": "PHARMACIE MASRAH AL WILAYA",
+        "address": "9 AVENUE AVRIL",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065304,
+        "Pharmacie_Name": "PHARMACIE DREAM",
+        "address": "HAY TOUABEL, LOT AIN MELLOUL2, RUE MHAMED AZIMANE,n82",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162041602,
+        "Pharmacie_Name": "PHARMACIE MARTIL",
+        "address": "28 BOULVARD MOULAY EL HASSAN",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162014682,
+        "Pharmacie_Name": "PHARMACIE BEN AJIBA",
+        "address": "3 AVENUE THAMI OUAZZANI",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065692,
+        "Pharmacie_Name": "PHARMACIE AHALI COELMA",
+        "address": "HAY BOUGDAD N°485,KOUILMA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162066716,
+        "Pharmacie_Name": "PHARMACIE LUKACH",
+        "address": "ABDELLAH FAKHAR, KM3 ROUTE OUED LAW",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162003354,
+        "Pharmacie_Name": "PHARMACIE AL AMAL",
+        "address": "343 AVENUEHAJ MOHAMED BENNOUN, BOUJARRHA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162066880,
+        "Pharmacie_Name": "PHARMACIE ZINAT",
+        "address": "ZINAT CENTRE",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162002554,
+        "Pharmacie_Name": "PHARMACIE AIN KHABBAZ",
+        "address": "66 RUE OUED OUM RABIE",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065387,
+        "Pharmacie_Name": "PHARMACIE AIN MELLOUL",
+        "address": "AVENUE ELJOULAN RUE EL FANOOSSE N°",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162057988,
+        "Pharmacie_Name": "PHARMACIE ZAMZAM",
+        "address": "75 AVENUE CASABLANCA M HANNECH II",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162023659,
+        "Pharmacie_Name": "PHARMACIE EL FEDDANE",
+        "address": "2 AVENUE MOHAMED V",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162005110,
+        "Pharmacie_Name": "PHARMACIE AL HAMAMA",
+        "address": "BOULVARD HASSAN II PLACE AL HAMAMA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065379,
+        "Pharmacie_Name": "PHARMACIE BEN ABDALUAHAB",
+        "address": "209 AVENUE JABAL HAYANE",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162066906,
+        "Pharmacie_Name": "PHARMACIE ALAQSA",
+        "address": "AVENUE CASABLANCA ALAMAL IMM 71",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065288,
+        "Pharmacie_Name": "PHARMACIE ALABRAR",
+        "address": "AVENUE BARRAGE TANSSIFT IMM N 30",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162013395,
+        "Pharmacie_Name": "PHARMACIE BAB OKLA",
+        "address": "ANGLE MFEDEL ET MOHAMED AMEZIANE",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162058663,
+        "Pharmacie_Name": "PHARMACIE ZOUBAIRI",
+        "address": "255 AVENUE BILAL IBN RABAH",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162013437,
+        "Pharmacie_Name": "PHARMACIE BAB SAIDA",
+        "address": "24 RUE SLOUKIA SIDI SAIDI BAB SAIDA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162051510,
+        "Pharmacie_Name": "PHARMACIE SABRI",
+        "address": "145 AVENUE MOHAMED DAOUD",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162043772,
+        "Pharmacie_Name": "PHARMACIE MOSQUE HASSAN II",
+        "address": "69 RUE CHAKIB ARSALANE",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162018139,
+        "Pharmacie_Name": "PHARMACIE CHAARA",
+        "address": "HARAT HAY EL MADRASSI BOULEVARD IBN EL MOQAFAA, IMM HAYOUN N° 1",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162053037,
+        "Pharmacie_Name": "PHARMACIE SIDI ABDELLAH EL FAKHAR",
+        "address": "M HANNECH II, 2EME TRANCHE AVENUE SEBTA, N°79",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162036537,
+        "Pharmacie_Name": "PHARMACIE KHALLADI",
+        "address": "271 RUE KABOUL",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065171,
+        "Pharmacie_Name": "PHARMACIE BAGHDAD",
+        "address": "AVENUE MAMOUN JAMAA MEZOUAK N 597",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162066864,
+        "Pharmacie_Name": "PHARMACIE TOURIA",
+        "address": "AVENUE OUAD MARTIL RUE N°7",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162044283,
+        "Pharmacie_Name": "PHARMACIE M'SALAH KDIMA",
+        "address": "58 AVENUE MSALAH KDIMA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162013387,
+        "Pharmacie_Name": "PHARMACIE BAB NOUADER",
+        "address": "131 AVENUE LAYOUN",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162022172,
+        "Pharmacie_Name": "GRANDE PHARMACIE DU NORD",
+        "address": "11 BOULEVARD MOHAMMED V",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162067276,
+        "Pharmacie_Name": "PHARMACIE ASSALAM",
+        "address": "51 AVENUE IBN HODAYFA, KHANDAK ZERBOUH, HAOUMAT MKABAR",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162056394,
+        "Pharmacie_Name": "PHARMACIE TNANA",
+        "address": "294 AVENUE HASSAN II",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162067292,
+        "Pharmacie_Name": "PHARMACIE EL AZAMI",
+        "address": "AVENUE MOUKHTAR SOUSSI, N 383",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162056501,
+        "Pharmacie_Name": "PHARMACIE TOUEBLA",
+        "address": "10 RUE OUED SOUSS, TOUEBLA",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162068480,
+        "Pharmacie_Name": "PHARMACIE BENCHEKROUN",
+        "address": "LOTISSEMENT AL WIKAYA, LOT N 71 A, BOULEVARD AL AZHAR",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162068167,
+        "Pharmacie_Name": "PHARMACIE TAMOUDA",
+        "address": "HAY LOUHA ROUTE DE CHEFCHAOUN KM 2",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162065155,
+        "Pharmacie_Name": "PHARMACIE ALMATAR",
+        "address": "AV MEHDI BEN BARKA RUE AL FARAH N32",
+        "city": "TETOUAN"
+      },
+      {
+        "INPE": 162013676,
+        "Pharmacie_Name": "PHARMACIE BADR",
+        "address": "AVENUE MASSIRA N°45",
+        "city": "TETOUAN"
+      }
+    ],
+    "AL HOCEIMA": [
+      {
+        "INPE": 152064275,
+        "Pharmacie_Name": "PHARMACIE NEKOR",
+        "address": "CTRE SIDI BOUAFIF, B.P 282 32000",
+        "city": "AL HOCEIMA"
+      },
+      {
+        "INPE": 152061578,
+        "Pharmacie_Name": "PHARMACIE CALABONITA",
+        "address": "RUE HAY CALABONITA RESIDENCE FIRDAWS 32000",
+        "city": "AL HOCEIMA"
+      },
+      {
+        "INPE": 152012563,
+        "Pharmacie_Name": "PHARMACIE AVICENNE",
+        "address": "AVENUE TARIK BEN ZIAD IMM CABALLO",
+        "city": "AL HOCEIMA"
+      },
+      {
+        "INPE": 152033726,
+        "Pharmacie_Name": "PHARMACIE IBNOU ROCHD",
+        "address": "168 BOULVARD HASSAN II",
+        "city": "AL HOCEIMA"
+      },
+      {
+        "INPE": 152029401,
+        "Pharmacie_Name": "PHARMACIE GRANADA",
+        "address": "12 AVENUE DE MADAGASCAR",
+        "city": "AL HOCEIMA"
+      },
+      {
+        "INPE": 152066205,
+        "Pharmacie_Name": "PHARMACIE AL HILAL",
+        "address": "RUE SIDI ABID, N 105",
+        "city": "AL HOCEIMA"
+      },
+      {
+        "INPE": 152007423,
+        "Pharmacie_Name": "PHARMACIE AL MANZAH",
+        "address": "20 RUE MOHAMED HASSAN OUAZZANI",
+        "city": "AL HOCEIMA"
+      }
+    ],
+    "BENI MELLAL": [
+      {
+        "INPE": 122058001,
+        "Pharmacie_Name": "PHARMACIE ZANANE",
+        "address": "414 MOHAMED V 23000",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122060882,
+        "Pharmacie_Name": "PHARMACIE DAHBI",
+        "address": "16 RES NOURANE, BOULEVARD DES FAR 23000",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122047434,
+        "Pharmacie_Name": "PHARMACIE OULED YOUSSEF",
+        "address": "20,21 PRES DE GRANDE MOSQUEE OULAD YOUSSEF",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122005689,
+        "Pharmacie_Name": "PHARMACIE ELHOUDA",
+        "address": "20,21 CENTRE COMMERCIAL ELHOUDA",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122008931,
+        "Pharmacie_Name": "PHARMACIE AL QODS",
+        "address": "61 BOULVARD MOHAMED V",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122050859,
+        "Pharmacie_Name": "PHARMACIE RMILA",
+        "address": "173 BOULVARD 9DECEMBRE BAB FTOUH",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122047780,
+        "Pharmacie_Name": "PHARMACIE OURBIA",
+        "address": "HAY EZZARATI OURBIA",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122052079,
+        "Pharmacie_Name": "PHARMACIE SALAMA",
+        "address": "21 AVENUE HASSAN II",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122016306,
+        "Pharmacie_Name": "PHARMACIE BOUACHOUCH",
+        "address": "51 QUARTIER BOUACHOUCH",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122053580,
+        "Pharmacie_Name": "PHARMACIE SIDI JABER",
+        "address": "75 BOULVARD MED V,SIDI JABER",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122028079,
+        "Pharmacie_Name": "PHARMACIE FAIQ",
+        "address": "339 AVENUE VINGT AOUT",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122029093,
+        "Pharmacie_Name": "PHARMACIE STE GHANEMEDICAL SARL",
+        "address": "N468‐470 BOULEVARS BAGHDAD KSAR GHAZAFAT",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122033129,
+        "Pharmacie_Name": "PHARMACIE IBN SINA",
+        "address": "178 AVENUE BOURKIA",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122039100,
+        "Pharmacie_Name": "PHARMACIE LAGHDIRA HAMRA",
+        "address": "91 PLACE CAID SALAH",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122066996,
+        "Pharmacie_Name": "PHARMACIE RAM",
+        "address": "BLOC C, N23, RES BELLE VUE",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122018997,
+        "Pharmacie_Name": "PHARMACIE TASAMET PHARM",
+        "address": "QUARTIER DCHIRA, RUE 1, N 12",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122015951,
+        "Pharmacie_Name": "PHARMACIE BISMILLAH",
+        "address": "53 BOULEVARD DES FAR HAY MASSIRA II, BLOC N 10",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122067341,
+        "Pharmacie_Name": "PHARMACIE AL MADHAR",
+        "address": "QUARTIER OUM DHAR, BLOC 19, N13",
+        "city": "BENI MELLAL"
+      },
+      {
+        "INPE": 122015035,
+        "Pharmacie_Name": "PHARMACIE BENI MOUSSA",
+        "address": "AV DES FAR 192",
+        "city": "BENI MELLAL"
+      }
+    ],
+    "SIDI SLIMANE": [
+      {
+        "INPE": 52022449,
+        "Pharmacie_Name": "PHARMACIE LE VILLAGE",
+        "address": "CTRE N 5 ET 6 DAR BEL AMRI 14200",
+        "city": "SIDI SLIMANE"
+      },
+      {
+        "INPE": 52007598,
+        "Pharmacie_Name": "PHARMACIE ALMASJID",
+        "address": "23 BLOC 17 HAY SALAM",
+        "city": "SIDI SLIMANE"
+      },
+      {
+        "INPE": 52025574,
+        "Pharmacie_Name": "PHARMACIE EL MIRINI",
+        "address": "AVENUE HASSAN II LOT CHELHAOUI N°6",
+        "city": "SIDI SLIMANE"
+      },
+      {
+        "INPE": 52062023,
+        "Pharmacie_Name": "PHARMACIE LES URGENCES",
+        "address": "AVENUE AL MOUKAWAMA N°3",
+        "city": "SIDI SLIMANE"
+      },
+      {
+        "INPE": 52027430,
+        "Pharmacie_Name": "PHARMACIE ESSALAM",
+        "address": "BLOC 10 LOT 63 N222 HAY SALAM",
+        "city": "SIDI SLIMANE"
+      }
+    ],
+    "KHOURIBGA": [
+      {
+        "INPE": 62031679,
+        "Pharmacie_Name": "PHARMACIE HOPITAL",
+        "address": "17 BD DE L HOPITAL. CITE DAKHLA 25000",
+        "city": "KHOURIBGA"
+      },
+      {
+        "INPE": 62054523,
+        "Pharmacie_Name": "PHARMACIE SOUISSI",
+        "address": "AV ALLAL EL FASSI QUARTIER NAHDA N150‐154",
+        "city": "KHOURIBGA"
+      }
+    ],
+    "BENSLIMANE": [
+      {
+        "INPE": 62018197,
+        "Pharmacie_Name": "PHARMACIE CHADI",
+        "address": "33 BD IBN KHALDOUNE 13000",
+        "city": "BENSLIMANE"
+      },
+      {
+        "INPE": 62060488,
+        "Pharmacie_Name": "PHARMACIE ELHOUCINE",
+        "address": "127 HAY EL FARAH",
+        "city": "BENSLIMANE"
+      },
+      {
+        "INPE": 62066105,
+        "Pharmacie_Name": "PHARMACIE OUM KASSER",
+        "address": "51 RUE N°4, BLOC B, HAY LALLA MERIAM II",
+        "city": "BENSLIMANE"
+      },
+      {
+        "INPE": 62031059,
+        "Pharmacie_Name": "PHARMACIE HAY KARIM",
+        "address": "BOULEVARD HASSAN II, HAY KARIM BLOC D, N 3",
+        "city": "BENSLIMANE"
+      },
+      {
+        "INPE": 62035738,
+        "Pharmacie_Name": "PHARMACIE JORIO",
+        "address": "BOULEVARD HASSAN II, N 14",
+        "city": "BENSLIMANE"
+      },
+      {
+        "INPE": 62065891,
+        "Pharmacie_Name": "PHARMACIE ZINEB",
+        "address": "686 IMMEUBLE SALAM, HAY EL FELLINE",
+        "city": "BENSLIMANE"
+      },
+      {
+        "INPE": 62033865,
+        "Pharmacie_Name": "PHARMACIE IBTISSAM",
+        "address": "52 RUE MOULAY YOUSSEF",
+        "city": "BENSLIMANE"
+      },
+      {
+        "INPE": 62038336,
+        "Pharmacie_Name": "PHARMACIE LA RESISTANCE",
+        "address": "23 BD HASSAN II CITE KARIM",
+        "city": "BENSLIMANE"
+      }
+    ],
+    "SOUK EL ARBAA": [
+      {
+        "INPE": 52031499,
+        "Pharmacie_Name": "PHARMACIE HIND",
+        "address": "1114 AV ABDELMAJID BEN CHEKROUN, CITE HIND 14300",
+        "city": "SOUK EL ARBAA"
+      },
+      {
+        "INPE": 52068509,
+        "Pharmacie_Name": "PHARMACIE BISMI ALLAH",
+        "address": "245 AV MED DIOURI OP ESSADA HAY ESSALAM",
+        "city": "SOUK EL ARBAA"
+      }
+    ],
+    "TAN TAN": [
+      {
+        "INPE": 32062689,
+        "Pharmacie_Name": "PHARMACIE DE LA RESISTANCE",
+        "address": "83 AV DE LA RESISTANCES 82000",
+        "city": "TAN TAN"
+      }
+    ],
+    "TAROUDANT": [
+      {
+        "INPE": 42035154,
+        "Pharmacie_Name": "PHARMACIE JAMAA LKBIR",
+        "address": "AV AL MOSTAQBAL QUARTIER BENYARA 83000",
+        "city": "TAROUDANT"
+      },
+      {
+        "INPE": 42017665,
+        "Pharmacie_Name": "PHARMACIE CENTRALE",
+        "address": "165/169 AIN LAASSID PLACE DES TAXIS,OULED BERHIL",
+        "city": "TAROUDANT"
+      },
+      {
+        "INPE": 42008987,
+        "Pharmacie_Name": "PHARMACIE AL QODS",
+        "address": "98 AKNISS AVENU 20 AOUT",
+        "city": "TAROUDANT"
+      },
+      {
+        "INPE": 42000273,
+        "Pharmacie_Name": "GRANDE PHARMACIE D'IGHERM",
+        "address": "IGHERM CENTRE",
+        "city": "TAROUDANT"
+      }
+    ],
+    "SEFROU": [
+      {
+        "INPE": 142053123,
+        "Pharmacie_Name": "PHARMACIE AHMED TADLI",
+        "address": "318 AV ABDELKRIM EL KHATTABI",
+        "city": "SEFROU"
+      },
+      {
+        "INPE": 142063767,
+        "Pharmacie_Name": "PHARMACIE LA FAMILLE",
+        "address": "318 AVENUE ABDELKRIM EL KHATTABI QUARTIER SIDI AHMED TADLI",
+        "city": "SEFROU"
+      },
+      {
+        "INPE": 142013234,
+        "Pharmacie_Name": "PHARMACIE BAB EL MAKAM",
+        "address": "4 RUE YOUSSEF BEN TACHFINE",
+        "city": "SEFROU"
+      }
+    ],
+    "DRIOUCH": [
+      {
+        "INPE": 82064650,
+        "Pharmacie_Name": "PHARMACIE EL MTALSA",
+        "address": "AINE ZOHRA CENTRE",
+        "city": "DRIOUCH"
+      }
+    ],
+    "EL JADIDA": [
+      {
+        "INPE": 112038690,
+        "Pharmacie_Name": "PHARMACIE LA SOURCE",
+        "address": "20 RUE JABEL HABRI",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112059845,
+        "Pharmacie_Name": "PHARMACIE ISTICHFAE",
+        "address": "1 RUE SIBAWAIH, SAADA III",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112024872,
+        "Pharmacie_Name": "PHARMACIE ELKHANSAA",
+        "address": "14 LOT ELAMAL, BD ALLAL EL FASSI",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112037346,
+        "Pharmacie_Name": "PHARMACIE LA FACULTE",
+        "address": "101 LOT JAWHARA, EN FACE DE LA FACULTE",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112018551,
+        "Pharmacie_Name": "PHARMACIE CHÂTEAU ROUGE",
+        "address": "76 AVENUE MOULAY ABDELHAFID",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112046370,
+        "Pharmacie_Name": "PHARMACIE OSCAR",
+        "address": "27 BOULVARD MOHAMED V",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112030135,
+        "Pharmacie_Name": "PHARMACIE HAKIMA",
+        "address": "31 LOTISSEMENT HAKIMA I",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112014337,
+        "Pharmacie_Name": "PHARMACIE BELCOUYED",
+        "address": "LOT ARD EL KHAIR BD ATOUFAH",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112037940,
+        "Pharmacie_Name": "PHARMACIE LA PAIX EL JADIDA",
+        "address": "1 RUE CHERCHELLE",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112024849,
+        "Pharmacie_Name": "PHARMACIE EL KHAIR",
+        "address": "61 AVENUE DOUKKALA MOUILHA",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112047113,
+        "Pharmacie_Name": "PHARMACIE OULED AISSA",
+        "address": "HAD OULAD AISSA BP 885 PLATEAU",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112019781,
+        "Pharmacie_Name": "PHARMACIE COMMERCIALE",
+        "address": "LOTISSEMENT ENNAJD, IMMEUBLE E, N°4, ROUTE DE LA GARE",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112063003,
+        "Pharmacie_Name": "PHARMACIE CALIFORNIA",
+        "address": "7 LOTISSEMENT EL MASSIRA",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112026562,
+        "Pharmacie_Name": "PHARMACIE ENNOUR",
+        "address": "77 BIS AVENUE JAMAL EDDINE AFGHANI HAY ESSAADA",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112015847,
+        "Pharmacie_Name": "PHARMACIE BIR ANZARANE",
+        "address": "447 LOTISSEMENT MOUILHA",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112005038,
+        "Pharmacie_Name": "PHARMACIE AL GHAZWA",
+        "address": "37 LOTISSEMENT CHARKAOUA III",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112063425,
+        "Pharmacie_Name": "PHARMACIE CITE UNIVERSITAIRE",
+        "address": "135 LOTISSEMENT KAWTAR, BP 3363 PRINCIPALE",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112037361,
+        "Pharmacie_Name": "PHARMACIE LA FAMILLE",
+        "address": "53 LOTISSEMENT SIDI MOUSSA",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112008388,
+        "Pharmacie_Name": "PHARMACIE AL MOUTANABI",
+        "address": "68 LOTISSEMENT CHEMS SAADA 3",
+        "city": "EL JADIDA"
+      },
+      {
+        "INPE": 112066857,
+        "Pharmacie_Name": "PHARMACIE LA PLEIADE",
+        "address": "BOULEVARD U, N1, LOTISSEMENT AL FIRDAOUS, HAY MATAR",
+        "city": "EL JADIDA"
+      }
+    ],
+    "MARTIL": [
+      {
+        "INPE": 162007538,
+        "Pharmacie_Name": "PHARMACIE ALMASJID",
+        "address": "109 AV MOUKAOUAMA",
+        "city": "MARTIL"
+      },
+      {
+        "INPE": 162065346,
+        "Pharmacie_Name": "PHARMACIE SCANDINAVIE",
+        "address": "HAY RMILAT ROUTE SEBTA",
+        "city": "MARTIL"
+      },
+      {
+        "INPE": 162065361,
+        "Pharmacie_Name": "PHARMACIE ADDIAFA",
+        "address": "1 AVENUE HASSAN II,IMM ALQODS",
+        "city": "MARTIL"
+      },
+      {
+        "INPE": 162065338,
+        "Pharmacie_Name": "PHARMACIE ELHADJ",
+        "address": "339 AVENUE MOULAY RACHID",
+        "city": "MARTIL"
+      },
+      {
+        "INPE": 162049118,
+        "Pharmacie_Name": "PHARMACIE PRINCIPALE",
+        "address": "159 AVENUE MOULAY EL HASSAN",
+        "city": "MARTIL"
+      },
+      {
+        "INPE": 162067268,
+        "Pharmacie_Name": "PHARMACIE MIRAMAR",
+        "address": "AVENUE MIRAMAR, AVENUE MOULAY RACHID",
+        "city": "MARTIL"
+      }
+    ],
+    "AZEMMOUR": [
+      {
+        "INPE": 112061452,
+        "Pharmacie_Name": "PHARMACIE MAJIDI",
+        "address": "156 LOT EL WIFAK",
+        "city": "AZEMMOUR"
+      },
+      {
+        "INPE": 112018882,
+        "Pharmacie_Name": "PHARMACIE CHIFAE",
+        "address": "248 RUE MLY BOUCHAIB",
+        "city": "AZEMMOUR"
+      }
+    ],
+    "MOHAMMADIA": [
+      {
+        "INPE": 92043629,
+        "Pharmacie_Name": "PHARMACIE MOHAMMEDIA",
+        "address": "1 BD CHORFAS, ESSAADA EL ALIA",
+        "city": "MOHAMMADIA"
+      },
+      {
+        "INPE": 92032705,
+        "Pharmacie_Name": "PHARMACIE IBN NAFISS",
+        "address": "33 BOULVARD MOUNASTIR DERB CHABAB BLOC B",
+        "city": "MOHAMMADIA"
+      },
+      {
+        "INPE": 92026095,
+        "Pharmacie_Name": "PHARMACIE EL WAHDA",
+        "address": "427 CITE EL WAHDA ALIA",
+        "city": "MOHAMMADIA"
+      },
+      {
+        "INPE": 92047992,
+        "Pharmacie_Name": "PHARMACIE PALMIER",
+        "address": "RESIDENCE PALMIER, ANGLE BOULEVARD ZERKTOUNI ET BOULEVARD ABDELMOUMEN IMMEUBLE B N°4",
+        "city": "MOHAMMADIA"
+      },
+      {
+        "INPE": 92042191,
+        "Pharmacie_Name": "PHARMACIE MEKKA",
+        "address": "27 LOTISSEMENT GRINI I",
+        "city": "MOHAMMADIA"
+      },
+      {
+        "INPE": 92057801,
+        "Pharmacie_Name": "PHARMACIE ZAHRA",
+        "address": "AVENUE DU MAGHREB ARABE KM 17 AIN HARROUDA",
+        "city": "MOHAMMADIA"
+      }
+    ],
+    "FNIDEQ": [
+      {
+        "INPE": 162065312,
+        "Pharmacie_Name": "PHARMACIE BELMAHI",
+        "address": "HAY CONDESSA SOUFLA RUE MARTIL N°161",
+        "city": "FNIDEQ"
+      },
+      {
+        "INPE": 162053284,
+        "Pharmacie_Name": "PHARMACIE SIDI BOUGHABA",
+        "address": "33 RUE DE RABAT,LOT HATI",
+        "city": "FNIDEQ"
+      },
+      {
+        "INPE": 162003727,
+        "Pharmacie_Name": "PHARMACIE AL ANDALUZ",
+        "address": "RUE ABDERHIM BOUEBID",
+        "city": "FNIDEQ"
+      },
+      {
+        "INPE": 162067300,
+        "Pharmacie_Name": "PHARMACIE JININE",
+        "address": "79 HAY AGHATTAS",
+        "city": "FNIDEQ"
+      }
+    ],
+    "EL KALAA DES SRAGHNA": [
+      {
+        "INPE": 72063332,
+        "Pharmacie_Name": "PHARMACIE NAKHLA",
+        "address": "IMM N°33 LOCAL N°3 BANDE NAKHLA I",
+        "city": "EL KALAA DES SRAGHNA"
+      },
+      {
+        "INPE": 72023245,
+        "Pharmacie_Name": "PHARMACIE EL BAHJA",
+        "address": "237 BLOC EL BAHJA",
+        "city": "EL KALAA DES SRAGHNA"
+      },
+      {
+        "INPE": 72067010,
+        "Pharmacie_Name": "PHARMACIE ABDEDDAIM",
+        "address": "OULAD YAGOUB, SIDI MOUSSA",
+        "city": "EL KALAA DES SRAGHNA"
+      }
+    ],
+    "EL HAJEB": [
+      {
+        "INPE": 132023888,
+        "Pharmacie_Name": "PHARMACIE ELHAJEB",
+        "address": "1 AVENUE HASSAN II",
+        "city": "EL HAJEB"
+      },
+      {
+        "INPE": 132031741,
+        "Pharmacie_Name": "PHARMACIE DE L'HOPITAL",
+        "address": "45 HAY ZITOUNE SEBAA AIOUNE",
+        "city": "EL HAJEB"
+      },
+      {
+        "INPE": 132068594,
+        "Pharmacie_Name": "PHARMACIE CENTRALE IJERRI",
+        "address": "AIT MESSAOUD, ASSOCIATION ENNASR, CENTRA RES IJERRI, CAIDAT SEBT JAHJOUH, CERCLE D AGOURI",
+        "city": "EL HAJEB"
+      }
+    ],
+    "IMZOUREN": [
+      {
+        "INPE": 152009023,
+        "Pharmacie_Name": "PHARMACIE ALRAHMA",
+        "address": "73 BD DE RABAT,BP 228",
+        "city": "IMZOUREN"
+      },
+      {
+        "INPE": 152057147,
+        "Pharmacie_Name": "PHARMACIE AL OUAHDA",
+        "address": "20 RUE AL OUAHDA",
+        "city": "IMZOUREN"
+      }
+    ],
+    "ERRACHIDIA": [
+      {
+        "INPE": 132004763,
+        "Pharmacie_Name": "PHARMACIE ALFATH",
+        "address": "91 BOULVARD MOULAY ALI CHRIF",
+        "city": "ERRACHIDIA"
+      },
+      {
+        "INPE": 132066077,
+        "Pharmacie_Name": "PHARMACIE IBN SINA",
+        "address": "32 LOTISSEMENT DE MUNICIPALITE",
+        "city": "ERRACHIDIA"
+      },
+      {
+        "INPE": 132060971,
+        "Pharmacie_Name": "PHARMACIE ENNAKHIL",
+        "address": "N 4, RUE EL MOURABITINE TINEJDAD",
+        "city": "ERRACHIDIA"
+      },
+      {
+        "INPE": 132065525,
+        "Pharmacie_Name": "PHARMACIE OUED CHORFA",
+        "address": "116 ROUTE MOULAY ALI CHRIF, RISSANI",
+        "city": "ERRACHIDIA"
+      }
+    ],
+    "BHALIL": [
+      {
+        "INPE": 142062652,
+        "Pharmacie_Name": "PHARMACIE BHALIL",
+        "address": "4 LAGHRESSE KHANDEK",
+        "city": "BHALIL"
+      }
+    ],
+    "FQUIH BEN SALAH": [
+      {
+        "INPE": 122053135,
+        "Pharmacie_Name": "PHARMACIE SIDI AISSA",
+        "address": "SIDI AISSA SOUK SEBT",
+        "city": "FQUIH BEN SALAH"
+      },
+      {
+        "INPE": 122065022,
+        "Pharmacie_Name": "PHARMACIE MUNICIPALE",
+        "address": "KHMISS OULED AYAD SOUK SEBT",
+        "city": "FQUIH BEN SALAH"
+      },
+      {
+        "INPE": 122066541,
+        "Pharmacie_Name": "PHARMACIE MARJANE",
+        "address": "57 AVENUE MOHAMED 6",
+        "city": "FQUIH BEN SALAH"
+      },
+      {
+        "INPE": 122063464,
+        "Pharmacie_Name": "PHARMACIE SOUK SEBT",
+        "address": "6 BOULEVARD HASSAN II, SOUK SEBT",
+        "city": "FQUIH BEN SALAH"
+      },
+      {
+        "INPE": 122057482,
+        "Pharmacie_Name": "PHARMACIE EL YASSAMINE",
+        "address": "141 BOULEVARD ALLAL BEN ABDELLAH",
+        "city": "FQUIH BEN SALAH"
+      }
+    ],
+    "TIZNIT": [
+      {
+        "INPE": 42017657,
+        "Pharmacie_Name": "PHARMACIE CENTRALE DE TIZNIT",
+        "address": "186 BLOC B AMICALE DES FONCTIONNAIRES",
+        "city": "TIZNIT"
+      },
+      {
+        "INPE": 42058883,
+        "Pharmacie_Name": "PHARMACIE LA SANTE",
+        "address": "67 BLOC B HAY EL MASSIRA",
+        "city": "TIZNIT"
+      },
+      {
+        "INPE": 42058891,
+        "Pharmacie_Name": "PHARMACIE AL ATLAS",
+        "address": "28 BLOC E, AMICALES DES FONCTIONNAIRES",
+        "city": "TIZNIT"
+      },
+      {
+        "INPE": 42043653,
+        "Pharmacie_Name": "PHARMACIE MOKHTAR SOUSSI",
+        "address": "10 RUE DE LHOPITAL",
+        "city": "TIZNIT"
+      },
+      {
+        "INPE": 42068957,
+        "Pharmacie_Name": "PHARMACIE IZOUIKA",
+        "address": "KASBAT IZOUIKA COMMUNE RURAL EL MAADIR",
+        "city": "TIZNIT"
+      }
+    ],
+    "KSAR EL KEBIR": [
+      {
+        "INPE": 162060602,
+        "Pharmacie_Name": "PHARMACIE L'HOPITAL",
+        "address": "1 LOTISSEMENT AL WAHDA,ROUTE DE LARACHE",
+        "city": "KSAR EL KEBIR"
+      },
+      {
+        "INPE": 162009112,
+        "Pharmacie_Name": "PHARMACIE AL WAFAE",
+        "address": "AV BIR ANZARANE N43",
+        "city": "KSAR EL KEBIR"
+      }
+    ],
+    "SEBT OULAD NEMMA": [
+      {
+        "INPE": 122047350,
+        "Pharmacie_Name": "PHARMACIE OULED NEMMA",
+        "address": "36 AVENUE DES FAR",
+        "city": "SEBT OULAD NEMMA"
+      }
+    ],
+    "YOUSSOUFIA": [
+      {
+        "INPE": 112060439,
+        "Pharmacie_Name": "PHARMACIE INAS",
+        "address": "111‐113 BOULEVARD DAMAS QUARTIER SALAM",
+        "city": "YOUSSOUFIA"
+      },
+      {
+        "INPE": 112008800,
+        "Pharmacie_Name": "PHARMACIE ALQODS",
+        "address": "230 HAY BIS EL WAHDA 3 QUARTIER AL QODS",
+        "city": "YOUSSOUFIA"
+      }
+    ],
+    "MIDELT": [
+      {
+        "INPE": 132061250,
+        "Pharmacie_Name": "PHARMACIE DE L'HOPITAL",
+        "address": "4 LOT HASSAN EDDAKHIL",
+        "city": "MIDELT"
+      }
+    ],
+    "CASAbLANCA": [
+      {
+        "INPE": 92000918,
+        "Pharmacie_Name": "PHARMACIE ABDELMOUMEN",
+        "address": "116 BOULVARD ABDELMOUMEN",
+        "city": "CASAbLANCA"
+      },
+      {
+        "INPE": 92042662,
+        "Pharmacie_Name": "PHARMACIE MILAN",
+        "address": "70 DERB MILAN,RUE 18 BEN SICK",
+        "city": "CASAbLANCA"
+      }
+    ],
+    "BIOUGRA": [
+      {
+        "INPE": 42065136,
+        "Pharmacie_Name": "PHARMACIE L'HOPITAL",
+        "address": "AVENUE MOULAY ABDELLAH BIOUGRA",
+        "city": "BIOUGRA"
+      },
+      {
+        "INPE": 42068866,
+        "Pharmacie_Name": "PHARMACIE ERRAZI",
+        "address": "DOUAR DRAYED ROUTE NATIONAL N1",
+        "city": "BIOUGRA"
+      }
+    ],
+    "OULMES": [
+      {
+        "INPE": 102066156,
+        "Pharmacie_Name": "PHARMACIE MOYEN ATLAS",
+        "address": "373 PAM OULMES CENTRE",
+        "city": "OULMES"
+      }
+    ],
+    "AHFIR": [
+      {
+        "INPE": 82066382,
+        "Pharmacie_Name": "PHARMACIE SOULIMANI",
+        "address": "22 BIS RUE MOKAWAMA",
+        "city": "AHFIR"
+      }
+    ],
+    "EL BOROUJ": [
+      {
+        "INPE": 62065909,
+        "Pharmacie_Name": "PHARMACIE EL BOROUJ",
+        "address": "55 RUE DE LA MARCHE VERTE",
+        "city": "EL BOROUJ"
+      }
+    ],
+    "NADOR": [
+      {
+        "INPE": 82064056,
+        "Pharmacie_Name": "PHARMACIE HAY PAM",
+        "address": "RUE DAKHLA HAY PAM N102 ZAIO",
+        "city": "NADOR"
+      },
+      {
+        "INPE": 82064072,
+        "Pharmacie_Name": "PHARMACIE BOUNIETE",
+        "address": "ROUTE CAP DE EAU QT AFRASS N°20 ZAIO",
+        "city": "NADOR"
+      },
+      {
+        "INPE": 82013558,
+        "Pharmacie_Name": "PHARMACIE BABEL",
+        "address": "67 BOULEVARD TAHA HOUSSEIN, HAY EL KHATTABI",
+        "city": "NADOR"
+      },
+      {
+        "INPE": 82064296,
+        "Pharmacie_Name": "PHARMACIE MY BAGHDAD",
+        "address": "ROUTE PRINCIPALE NADOR, MELILIA, B.P 159, BENI AMOUR",
+        "city": "NADOR"
+      },
+      {
+        "INPE": 82062498,
+        "Pharmacie_Name": "PHARMACIE FARKHANA",
+        "address": "DOUAR IJOUHRATA FARKHANA",
+        "city": "NADOR"
+      },
+      {
+        "INPE": 82032723,
+        "Pharmacie_Name": "PHARMACIE IBN ROCHD",
+        "address": "N70,72 AVENUE DES FAR",
+        "city": "NADOR"
+      },
+      {
+        "INPE": 82004623,
+        "Pharmacie_Name": "PHARMACIE AL FARABI",
+        "address": "5 BOULEVARD MOHAMED V",
+        "city": "NADOR"
+      }
+    ],
+    "KHENIFRA": [
+      {
+        "INPE": 132047606,
+        "Pharmacie_Name": "PHARMACIE OUM ERRABIE",
+        "address": "176 BOULVARD MOHAMED V",
+        "city": "KHENIFRA"
+      }
+    ],
+    "SAFI": [
+      {
+        "INPE": 112059282,
+        "Pharmacie_Name": "PHARMACIE EJJENNANE",
+        "address": "2 RUE DOUKKALA EJJENNANE",
+        "city": "SAFI"
+      },
+      {
+        "INPE": 112019476,
+        "Pharmacie_Name": "PHARMACIE CHRIF LIOUI",
+        "address": "16 RUE DU SOUK, SIDI ABDELKRIM",
+        "city": "SAFI"
+      },
+      {
+        "INPE": 112066246,
+        "Pharmacie_Name": "PHARMACIE SAFIA",
+        "address": "7 LOT 6 DERB NAFDA SIDI ABDELKRIM",
+        "city": "SAFI"
+      }
+    ],
+    "LAAYOUNE": [
+      {
+        "INPE": 22026751,
+        "Pharmacie_Name": "PHARMACIE ERRAHA",
+        "address": "ROUTE ESMARA STATION ELKHANCHI",
+        "city": "LAAYOUNE"
+      },
+      {
+        "INPE": 22067482,
+        "Pharmacie_Name": "PHARMACIE EL MUSTAPHA",
+        "address": "35 AVENUE HASSAN II",
+        "city": "LAAYOUNE"
+      },
+      {
+        "INPE": 22049241,
+        "Pharmacie_Name": "PHARMACIE PRINCIPALE",
+        "address": "58 AVENUE IDRISS 1ER",
+        "city": "LAAYOUNE"
+      },
+      {
+        "INPE": 22049563,
+        "Pharmacie_Name": "PHARMACIE RABAB",
+        "address": "82 AVENUE AL BAAT HAY EL QODS",
+        "city": "LAAYOUNE"
+      },
+      {
+        "INPE": 22008593,
+        "Pharmacie_Name": "PHARMACIE ALOUM",
+        "address": "62 LOT ERAC HAY AL MASSIRA",
+        "city": "LAAYOUNE"
+      },
+      {
+        "INPE": 22068696,
+        "Pharmacie_Name": "PHARMACIE EL MAZMOUR",
+        "address": "LOT ERRAHA AVENUE ABDERAHMAN IBN ABI BAKKER, N 204",
+        "city": "LAAYOUNE"
+      }
+    ],
+    "AIT MELLOUL": [
+      {
+        "INPE": 42005637,
+        "Pharmacie_Name": "PHARMACIE AL HILAL ALAKHDAR",
+        "address": "340 ROUTE BIOUGRA",
+        "city": "AIT MELLOUL"
+      },
+      {
+        "INPE": 42068783,
+        "Pharmacie_Name": "PHARMACIE LAMINE",
+        "address": "157 BLOC H LOT ARGANA",
+        "city": "AIT MELLOUL"
+      },
+      {
+        "INPE": 42068791,
+        "Pharmacie_Name": "PHARMACIE NOUVELLE",
+        "address": "N3 BLOC E , ARGANA",
+        "city": "AIT MELLOUL"
+      }
+    ],
+    "GUELMIM": [
+      {
+        "INPE": 32031718,
+        "Pharmacie_Name": "PHARMACIE DE L'HOPITAL",
+        "address": "181 AVENUE ABOUDA",
+        "city": "GUELMIM"
+      },
+      {
+        "INPE": 32015828,
+        "Pharmacie_Name": "PHARMACIE GUELMIM",
+        "address": "212 PLACE BIR ANZARANE",
+        "city": "GUELMIM"
+      },
+      {
+        "INPE": 32068496,
+        "Pharmacie_Name": "PHARMACIE ROUTE D'IFNI",
+        "address": "415 BOULEVARD HASSAN II",
+        "city": "GUELMIM"
+      }
+    ],
+    "INEZGANE": [
+      {
+        "INPE": 42029512,
+        "Pharmacie_Name": "PHARMACIE GRANDE MOSQUEE TERRAST",
+        "address": "PLACE GRANDE MOSQUEE TARRAST",
+        "city": "INEZGANE"
+      },
+      {
+        "INPE": 42030908,
+        "Pharmacie_Name": "PHARMACIE HAY EL MERS",
+        "address": "28 HAY BIS EL MERS DCHEIRA JIHADIA",
+        "city": "INEZGANE"
+      }
+    ],
+    "SIDI KACEM": [
+      {
+        "INPE": 52064938,
+        "Pharmacie_Name": "PHARMACIE ALKHAWARIZMI",
+        "address": "RUE 20, N°2, QUARTIER NOUVEAU",
+        "city": "SIDI KACEM"
+      },
+      {
+        "INPE": 52061827,
+        "Pharmacie_Name": "PHARMACIE BELMEJDOUB",
+        "address": "ANGLE RUE 26 ET 4 VILLE NOUVELLE",
+        "city": "SIDI KACEM"
+      }
+    ],
+    "AGDZ": [
+      {
+        "INPE": 42001933,
+        "Pharmacie_Name": "PHARMACIE AGDZ",
+        "address": "N°16‐17 AVENUE MOHAMED V",
+        "city": "AGDZ"
+      }
+    ],
+    "OUEZZANE": [
+      {
+        "INPE": 52007929,
+        "Pharmacie_Name": "PHARMACIE EL MASSIRA",
+        "address": "38 AVENUE MOULAY ISMAIL, QUARTIER RMEL",
+        "city": "OUEZZANE"
+      }
+    ],
+    "TAOUNATE": [
+      {
+        "INPE": 152031845,
+        "Pharmacie_Name": "PHARMACIE DE L'HOPITAL",
+        "address": "56 BOULEVARD OUED EL DAHAB",
+        "city": "TAOUNATE"
+      }
+    ],
+    "OUED ZEM": [
+      {
+        "INPE": 62063128,
+        "Pharmacie_Name": "PHARMACIE MOHAMED V",
+        "address": "31 BOULEVARD MOHAMED V",
+        "city": "OUED ZEM"
+      },
+      {
+        "INPE": 62003405,
+        "Pharmacie_Name": "PHARMACIE AL AMAL",
+        "address": "BOULEVARD MOHAMMED V N 189",
+        "city": "OUED ZEM"
+      }
+    ],
+    "ZOUMI": [
+      {
+        "INPE": 162058739,
+        "Pharmacie_Name": "PHARMACIE ZOUMI",
+        "address": "ZOUMI CENTRE",
+        "city": "ZOUMI"
+      }
+    ],
+    "SIDI BENNOUR": [
+      {
+        "INPE": 112026893,
+        "Pharmacie_Name": "PHARMACIE ERRAZI",
+        "address": "627 HAY PAM",
+        "city": "SIDI BENNOUR"
+      },
+      {
+        "INPE": 112037411,
+        "Pharmacie_Name": "PHARMACIE LA FAMILLE",
+        "address": "AVENUE DES FAR, IMMEUBLE A3, N 12‐13",
+        "city": "SIDI BENNOUR"
+      }
+    ],
+    "TINGHIR": [
+      {
+        "INPE": 42066050,
+        "Pharmacie_Name": "PHARMACIE ADRAR",
+        "address": "171 AVENUE BIR ANZARANE",
+        "city": "TINGHIR"
+      },
+      {
+        "INPE": 42062075,
+        "Pharmacie_Name": "PHARMACIE EL FILAHA",
+        "address": "HAY AIT BARRA CITY EL FILAHA",
+        "city": "TINGHIR"
+      },
+      {
+        "INPE": 42068544,
+        "Pharmacie_Name": "PHARMACIE DU SOUK",
+        "address": "393 PLACE DE LA RESISTANCE SOUK TAHRI",
+        "city": "TINGHIR"
+      }
+    ],
+    "TAHANAOUT": [
+      {
+        "INPE": 72065824,
+        "Pharmacie_Name": "PHARMACIE TOUBKAL",
+        "address": "QUARTIER ADMINISTRATIF",
+        "city": "TAHANAOUT"
+      }
+    ],
+    "MRIRT": [
+      {
+        "INPE": 132067257,
+        "Pharmacie_Name": "PHARMACIE AIT SGOUGOU",
+        "address": "37 BOULEVARD MOULAY RACHID",
+        "city": "MRIRT"
+      }
+    ],
+    "GOULMIMA": [
+      {
+        "INPE": 132068222,
+        "Pharmacie_Name": "PHARMACIE AL MASJID",
+        "address": "14 RUE IMAM BOUKHARI",
+        "city": "GOULMIMA"
+      }
+    ],
+    "ZAOUIAT CHEIKH": [
+      {
+        "INPE": 122068042,
+        "Pharmacie_Name": "PHARMACIE BISMI ALLAH",
+        "address": "BOULEVARD DAKHLA",
+        "city": "ZAOUIAT CHEIKH"
+      }
+    ],
+    "EL KELAA M'GOUNA": [
+      {
+        "INPE": 42036335,
+        "Pharmacie_Name": "PHARMACIE KELAA M'GOUNA",
+        "address": "78 AVENUE MOHAMED V",
+        "city": "EL KELAA M'GOUNA"
+      }
+    ],
+    "ROMMANI": [
+      {
+        "INPE": 102057692,
+        "Pharmacie_Name": "PHARMACIE DES ZAERS",
+        "address": "406 NAHDA I",
+        "city": "ROMMANI"
+      }
+    ],
+    "MISSOUR": [
+      {
+        "INPE": 142066919,
+        "Pharmacie_Name": "PHARMACIE DE LA GARE",
+        "address": "12 AV HASSAN II CITE BIR ANZARANE",
+        "city": "MISSOUR"
+      }
+    ]
+  },
+  "metadata": {
+    "total_pharmacies": 1080,
+    "total_cities": 78,
+    "description": "Liste des pharmacies par ville au Maroc"
+  }
+}
