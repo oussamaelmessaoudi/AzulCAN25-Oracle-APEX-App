@@ -14,7 +14,7 @@ Visitors and fans coming to Agadir for CAN 2025 face scattered tools and limited
 - Renting cars and coordinating local transport
 - Accessing live match stats and locating fan zones
 
----
+----
 
 ## ✅ Our Solution
 
