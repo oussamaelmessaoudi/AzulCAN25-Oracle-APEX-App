@@ -85,12 +85,22 @@ Below are key features of AzulCAN25:
 This project was built in **less than 48 hours** during an Oracle Hackathon in Agadir.
 
 Team members:
+- **Oussama Elmessaoudi**
 - **Noureddine Ait Moulay Brahim**
 - **Abdellah Abrkaoui**
 - **Ilyas Chrami**
-- **Oussama Elmessaoudi**
 
 ---
 
 ## 📂 Project Structure
+AzulCAN25-Oracle-APEX-App/
+├── exports/ # APEX app SQL export
+├── screenshots/ # UI previews for README
+├── README.md
+
+---
+
+## 🔗 License
+
+This project is open for educational and demo purposes. Contact us for permission if you plan to use it in production or events.
 
